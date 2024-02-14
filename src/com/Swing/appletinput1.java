@@ -1,8 +1,8 @@
-package com.other;
+package com.Swing;
 import java.awt.*;
 import java.awt.event.*;
 import java.applet.*;
-public class appletinput extends Applet implements ActionListener {
+public class appletinput1 extends Applet implements ActionListener {
     TextField t1 = new TextField(10);
     TextField t2 = new TextField(10);
     TextField t3 = new TextField(10);
