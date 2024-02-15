@@ -12,6 +12,11 @@ public class R_31_2ndmathod {
         return z;
     }
 
+    public int max(int x , int y){
+        //User defined Method
+        System.out.println("Max number is "+ Math.max(x,y));
+        return 0;
+    }
     public static void main(String[] args) {
         int a = 4;
         int b = 8;
@@ -26,5 +31,6 @@ public class R_31_2ndmathod {
         System.out.println(c);
         System.out.println(d);
 
+       // obj.max(5,7);
     }
 }

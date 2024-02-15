@@ -1,6 +1,6 @@
 package com.Collection;
 
-import com.OtherTeacher.Getter_Setters;
+
 
 public class Access_Getter_Setter {
     public static void main(String[] args) {

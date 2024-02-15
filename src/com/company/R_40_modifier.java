@@ -1,5 +1,5 @@
 package com.company;
-class MyEmployee{
+class MyEmployee1{
     private int id;
     private String name;
 
@@ -18,13 +18,13 @@ class MyEmployee{
 }
 public class R_40_modifier {
     public static void main(String arg[]){
-        MyEmployee rishi =new MyEmployee();
+        MyEmployee1 rishi =new MyEmployee1();
 //        rishi.id = 45;
 //        rishi.id = "Rishi singh";  // Throw an error due to private access modifier
 
-        rishi.setId(300);
-        System.out.println(rishi.getId());
-
+//        rishi.setId(300);
+//        System.out.println(rishi.getId());
+//
         rishi.setName("Rishi singh");
 //      rishi.setName = "Rishi singh";  // wrong
         System.out.println(rishi.getName());

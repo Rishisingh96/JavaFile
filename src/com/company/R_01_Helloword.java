@@ -1,3 +1,5 @@
+package com.company;
+
 //package com.company;
 public class R_01_Helloword {
     public static void main(String[] args){

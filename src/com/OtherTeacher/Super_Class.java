@@ -33,6 +33,7 @@ class Dog extends Animal{
 }
 */
 //3> super can be used to invoke parent class method
+/*
 class Animal{
     void eat(){
         System.out.println("eating......");
@@ -68,8 +69,8 @@ class Dog extends Animal{
 */
 //            Dog obj = new Dog();
 
-            Dog x = new Dog();
-            x.work();
-        }
-    }
+//            Dog x = new Dog();
+//            x.work();
+//        }
+//    }
 
