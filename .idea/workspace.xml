@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="New File Added">
+    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED">
+      <change afterPath="$PROJECT_DIR$/src/com/company/R_08_Shift_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/R_30_Declaration_and_Initialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/R_30_anonymous_object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/R_31_Argument_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/R_31_allMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/R_32_callbyReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/R_32_callbyValueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/R_34_Return_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/R_38_Type_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/R_4_Unary_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/R_7_Bitwise_Operator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/Access_Getter_Setter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/Access_Getter_Setter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/OtherTeacher/Digonal_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/OtherTeacher/Digonal_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/OtherTeacher/Super_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/OtherTeacher/Super_Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_01_Helloword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/R_01_Helloword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Oasis_Infobyte_Java_Project/ATM_Interface_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Oasis_Infobyte_Rishi/ATM_Interface_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Oasis_Infobyte_Java_Project/Number_guessing_game_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Oasis_Infobyte_Rishi/Number_guessing_game_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Oasis_Infobyte_Java_Project/Online_Examination_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Oasis_Infobyte_Rishi/Online_Examination_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Oasis_Infobyte_Java_Project/Online_Reservation_S_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Oasis_Infobyte_Rishi/Online_Reservation_S_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/R_19_Prectice_Q.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/R_19_Prectice_Q.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/R_31_2ndmathod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/R_31_2ndmathod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_40_modifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/R_40_modifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/R_31_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/R_31_methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/R_38_custom_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/R_38_custom_Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/R_47_super_this.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/R_47_super_this.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/R_53_abstract_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/R_53_abstract_class.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,16 +72,9 @@
       <recent name="E:\JavaFile\All Java Program\src\com\company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.R_40_modifier">
-    <configuration name="R_01_Helloword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="R_01_Helloword" />
-      <module name="All Java Program" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="R_19_Prectice_Q" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.R_19_Prectice_Q" />
+  <component name="RunManager" selected="Application.R_47_super_this (1)">
+    <configuration name="R_31_Argument_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.R_31_Argument_method" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R_31_2ndmathod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.R_31_2ndmathod" />
+    <configuration name="R_32_callbyValueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.R_32_callbyValueExample" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R_40_modifier (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.R_40_modifier" />
+    <configuration name="R_34_Return_Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.R_34_Return_Statement" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +112,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R_40_modifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.R_40_modifier" />
+    <configuration name="R_47_super_this (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.R_47_super_this" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R_47_super_this" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.R_47_super_this" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.R_40_modifier" />
-        <item itemvalue="Application.R_40_modifier (1)" />
-        <item itemvalue="Application.R_31_2ndmathod" />
-        <item itemvalue="Application.R_19_Prectice_Q" />
-        <item itemvalue="Application.R_01_Helloword" />
+        <item itemvalue="Application.R_47_super_this (1)" />
+        <item itemvalue="Application.R_47_super_this" />
+        <item itemvalue="Application.R_34_Return_Statement" />
+        <item itemvalue="Application.R_32_callbyValueExample" />
+        <item itemvalue="Application.R_31_Argument_method" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707919392227</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="CHANGED">
+      <created>1708001716623</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708001716623</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +195,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Save all file" />
     <MESSAGE value="New File Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="New File Added" />
+    <MESSAGE value="CHANGED" />
+    <option name="LAST_COMMIT_MESSAGE" value="CHANGED" />
   </component>
 </project>

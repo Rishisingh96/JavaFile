@@ -1,6 +1,12 @@
 package com.company;
 
 public class R_31_methods {
+    // Creating an instance method.
+    void msg() {
+        System.out.println("Instance method");
+    }
+
+    //Calling Static Method in Java
     static int logic(int x, int y){
         int z;
         if(x>y){
@@ -24,6 +30,12 @@ public class R_31_methods {
         int d = logic(a1,b1);
           System.out.println(c);
           System.out.println(d);
+
+         // Creating an object of class.
+         R_31_methods t = new R_31_methods();
+        // Call the method using reference variable t.
+         t.msg();
+
 
      }
 }

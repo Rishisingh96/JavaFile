@@ -1,5 +1,4 @@
 package com.company;
-
 class Employee{
     int id;
     int salary;

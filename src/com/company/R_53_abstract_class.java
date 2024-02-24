@@ -1,9 +1,9 @@
 package com.company;
 abstract class Parent2{
 //    public parent2(){   //invalid method declaration; return type required
-    public Parent2(){
+         public Parent2(){
         System.out.println("Mai base2 ka constructor hoo");
-    }
+         }
         public void sayHellow(){
             System.out.println("Hellow....");
         }
@@ -34,4 +34,6 @@ public class R_53_abstract_class {
 //        C.child3();     error
 //        child3 C3 = new child3();
     }
+
+    //
 }

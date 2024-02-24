@@ -16,12 +16,14 @@ class Account{
         acc_holder_name = in.nextLine();
         System.out.println("\nEnter Username?");
         unique_id = in.nextLine();
+
         int length_pin = 0;
         do{
             System.out.println("Enter secret 4 digit pin?");
             pin = in.nextInt();
             length_pin = String.valueOf(pin).length();
         }while (length_pin != 4);
+
         System.out.print("Enter initial deposit amount?");
         balance = in.nextDouble();
         System.out.println("Congratulations Account Successfully Created !\n");
@@ -40,6 +42,7 @@ class Account{
             writer.write("PIN" + pin +"\n");
             writer.write("Date: " + new Date() + "\n\n\n");
             writer.close();
+
             // System.out.println("File" + fileName + created successfully.");
         } catch (IOException e){
             System.out.println("An error occurred while creating the file " + fileName);
@@ -67,16 +70,20 @@ class ATM {
                 acc.balance -= amount;
                 System.out.println("Your Transaction is Processing\n");
                 try{
+
                     // Open the text file for appending new transaction
                     String fileName = acc.a_no + ".text";
+
                     //System.out.println("The File Name - " + fileName);
                     FileWriter fileWriter = new FileWriter(fileName, true);
                     BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+
                     // Write the transaction details to the text file
                     bufferedWriter.write("Date: " + new Date() + "\n");
                     bufferedWriter.write( "Withdrawal: "+ amount + "\n");
                     bufferedWriter.write( " Account Number :"+acc.a_no+"\n");
                     bufferedWriter.write( "Remaining Balance: " + acc.balance + "\n\n");
+
                     // Close the file writer and buffered writer
                     bufferedWriter.close();
                     fileWriter.close();
@@ -154,6 +161,7 @@ class ATM {
         System.out.flush();
         System.out.println("Transaction completed successfully!");
         System.out.println("\n\nThank you for Banking with Us!");
+
         System.out.println("----Going to Login Page----");
         try{
             Thread.sleep(3000);

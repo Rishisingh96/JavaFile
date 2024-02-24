@@ -3,7 +3,6 @@ package com.Oasis_Infobyte_Rishi;
 import java.util.Random;
 import java.util.Scanner;
 public class Number_guessing_game_2 {
-
         private static final int MIN_RANGE = 1;
         private static final int MAX_RANGE = 100;
         private static final int MAX_ATTEMPTS = 10;
@@ -14,7 +13,7 @@ public class Number_guessing_game_2 {
             Scanner scanner = new Scanner(System.in);
             int totalScore = 0;
 
-            System.out.println("Nubmer guessing Game");
+            System.out.println("Number guessing Game");
             System.out.println("Total Number of Rounds : 3");
             System.out.println("Attempts To Guess Number In Each Round : 10\n");
 

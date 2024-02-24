@@ -26,7 +26,7 @@ class Ekclass {
 class R_47_super_this{
     public static void main(String rishi[]){  // we already use rishi in mated so we not use in Object name so use rishi1.
         Ekclass rishi1 = new Ekclass(45);
-        //rishi1.SetA(45);
+//        rishi1.SetA(45);
         Doclass rishi2 = new Doclass(8);
         System.out.println(rishi1.getA());
         System.out.println(rishi2.getA());
