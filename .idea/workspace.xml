@@ -7,6 +7,7 @@
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Notes/core java part 1.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/JavaFile/All Java Program/src/com/interviewQuestion_DSA_Java",
+    "last_opened_file_path": "E:/JavaFile/All Java Program/src/com/Java/Notes",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -74,18 +75,18 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaFile\All Java Program\src\com\Java\Notes" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java" />
       <recent name="E:\JavaFile\All Java Program\src\com\AppletCode" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\OOPs" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Bit_Magic_15" />
-      <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\String_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaFile\All Java Program\src\com\Java\OOPs" />
+      <recent name="E:\JavaFile\All Java Program\src\com\Java\Notes" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Sorting_5" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Array_3" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java" />
-      <recent name="E:\JavaFile\All Java Program\src\com\company\Basic" />
-      <recent name="E:\JavaFile\All Java Program\src\com\other" />
     </key>
   </component>
   <component name="RunManager" selected="Application.sum_of_Digit">
@@ -232,7 +233,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709464335316</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="CHANGED code">
+      <option name="closed" value="true" />
+      <created>1709464893844</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709464893844</updated>
+    </task>
+    <task id="LOCAL-00009" summary="CHANGED code">
+      <option name="closed" value="true" />
+      <created>1709465247257</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709465247257</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
