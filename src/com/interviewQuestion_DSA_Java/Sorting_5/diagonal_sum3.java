@@ -1,4 +1,4 @@
-public class diagonal_sum {
+public class diagonal_sum3 {
     public static int digonalSum(int matrix[][]) {
         int sum = 0;
         for(int i=0; i<matrix.length; i++){
