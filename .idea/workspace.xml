@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code">
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Notes/Slide6.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Notes/Slide7.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,11 +81,11 @@
       <recent name="E:\JavaFile\All Java Program\src\com\Java\OOPs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaFile\All Java Program\src\com\Notes" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Notes" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\OOPs" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Sorting_5" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Array_3" />
-      <recent name="E:\JavaFile\All Java Program\src\com\Java" />
     </key>
   </component>
   <component name="RunManager" selected="Application.sum_of_Digit">
@@ -273,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709466693736</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="CHANGED code">
+      <option name="closed" value="true" />
+      <created>1709467153563</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709467153563</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

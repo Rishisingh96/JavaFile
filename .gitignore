@@ -30,5 +30,6 @@ bin/
 
 ####pdf###
 *.pdf
+Notes/
 .Notes/
 
