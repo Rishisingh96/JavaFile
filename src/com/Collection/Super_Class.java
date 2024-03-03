@@ -2,10 +2,10 @@ package com.OtherTeacher;
 
     /*/1> super is used to refer immediate parent class instance variable
     class Animal{
-        String color = "white";
+        reverse_of_number color = "white";
     }
         class Dog extends Animal{
-        String color = "black";
+        reverse_of_number color = "black";
         void printColor(){
             System.out.println(color);  // prints color of Dog class
             System.out.println(super.color); // print color of Animal class

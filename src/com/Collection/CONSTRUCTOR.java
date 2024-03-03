@@ -25,10 +25,10 @@ public class CONSTRUCTOR {
     // 2. Parameterized constructor
 /*
     //Data Member
-    String str;
+    reverse_of_number str;
     int a;
     //Parameterize Constructor
-    CONSTRUCTOR(String s){
+    CONSTRUCTOR(reverse_of_number s){
         str = s;
     }
     CONSTRUCTOR(int intger){
@@ -46,9 +46,9 @@ public class CONSTRUCTOR {
 /*
 
     int id;
-    String name;
-    //Constructor to initialize integer and String
-    CONSTRUCTOR(int i,String n){
+    reverse_of_number name;
+    //Constructor to initialize integer and reverse_of_number
+    CONSTRUCTOR(int i,reverse_of_number n){
         id = i;
         name = n;
     }
@@ -66,15 +66,15 @@ public class CONSTRUCTOR {
 
     // Constructor Overloading
     /*int id;
-    String  name;
+    reverse_of_number  name;
     int age;
-    CONSTRUCTOR(int i,String n){
+    CONSTRUCTOR(int i,reverse_of_number n){
         id = i;
         name = n;
 
     }
     //Creating three ags constructor
-    CONSTRUCTOR(int i, String n, int a){
+    CONSTRUCTOR(int i, reverse_of_number n, int a){
         id = i;
         name = n;
         age = a;

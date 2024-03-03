@@ -8,13 +8,13 @@ public class Getter_Setters {
     // Using getter and setter we can put exception
 
     /*   // Not a secure without getter and setter We can do access and change directly Access_Getter.java access directly
-    String name;
+    reverse_of_number name;
     int rollNumber;
     public void displey(){
         System.out.println(this.name);
         System.out.println(this.rollNumber);
     }*/
-/*   private String name;
+/*   private reverse_of_number name;
     private int rollNumber;
     public void displey(){
         System.out.println(this.name);

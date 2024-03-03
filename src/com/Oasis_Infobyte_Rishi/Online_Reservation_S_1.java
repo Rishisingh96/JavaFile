@@ -84,7 +84,7 @@ public class Online_Reservation_S_1 {
                 return to;
             }
 
-//	public String getPassengerName() {
+//	public reverse_of_number getPassengerName() {
 //		// TODO Auto-generated method stub
 //		return null;
 //	}
@@ -102,7 +102,7 @@ public class Online_Reservation_S_1 {
                 try (Connection connection = DriverManager.getConnection(url, username, password)) {
                     System.out.println("user Connection Granted. \n");
                     while (true) {
-                        // String InsertQuery = "insert into reservations value(? ? ? ?) ";
+                        // reverse_of_number InsertQuery = "insert into reservations value(? ? ? ?) ";
                         String InsertQuery = "insert into reservations values(?, ?, ?, ?, ?, ?, ?)";
                         String DeletQuery = "DELETE FROM reservations WHERE pnr_number";
                         String showQuery = "select * from reservations ";

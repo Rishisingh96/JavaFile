@@ -1,7 +1,5 @@
 package com.Collection;
 
-
-
 public class Access_Getter_Setter {
     public static void main(String[] args) {
         Getter_Setters access = new Getter_Setters();
