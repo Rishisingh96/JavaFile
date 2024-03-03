@@ -4,216 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED">
-      <change afterPath="$PROJECT_DIR$/src/com/AppletCode/Graphicdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/AppletCode/javaApplet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/AppletCode/primecode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Input_Way.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_12_Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_14_String_methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_20_Escap_Charactoers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/OOPs/OOPS Questions.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/OOPs/OOPS Solutions.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Question/factorial_for_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Question/sum_of_Digit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Array_update.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Array_update.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Arrays - Assignment_Type.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Arrays - Solution (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Binary_Search.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Binary_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Introduction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Introduction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Largest_Number.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Largest_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Linear_Search.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Linear_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pairs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pattern/character_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pattern/halfPyramidnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pattern/name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pattern/starPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pattern/startPattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/R_1_ArrayBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/ReverseNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Space _ Time Complexity (1) (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Stock_sell.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Stock_sell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Trapping_Rainwater.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Trapping_Rainwater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/2D Arrays Questions.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/2D Arrays Solutions.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/DigonalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/Spirral_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/diagonal_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/staircseSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/valueSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/leetCode/R_1_MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/subArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/subArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/tempCodeRunnerFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Bit_Magic_15/Bit Manipulation Questions.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Bit_Magic_15/Bit Manipulation Solutions.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/Basic Sorting Questions (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/Basic Sorting Solutions.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/DigonalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/diagonal_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/diagonal_sum1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Precties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/R_12_Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/R_13_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/R_14_String_methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/R_1_lowerCase_vowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/R_2_anagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/StringBuilder1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/String_Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/String_Compression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Strings Questions.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Strings Solutions.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Uppercase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/equalto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/getShortestPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/largestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/reverse_of_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/suString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/leetcodeQ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/su.java" afterDir="false" />
+    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/AppletCode/appletinput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AppletCode/appletinput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/Access_Getter_Setter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/Access_Getter_Setter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/CONSTRUCTOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/CONSTRUCTOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/Getter_Setters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/Getter_Setters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/R_91_ArrayList_method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/Super_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/Super_Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/DSA/R_01_Roted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/R_01_Roted_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Oasis_Infobyte_Rishi/Online_Reservation_S_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Oasis_Infobyte_Rishi/Online_Reservation_S_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/OtherTeacher/Digonal_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/Digonal_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/OtherTeacher/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/OtherTeacher/Scienfefic_cal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Scienfefic_cal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/OtherTeacher/Scientefic_cal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Scientefic_cal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/OtherTeacher/Super_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Super_Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/OtherTeacher/TraversExampleCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/TraversExampleCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/OtherTeacher/input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/OtherTeacher/networking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chatApp/networking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/OtherTeacher/this_keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/this_keyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingNinjas/R_07_QuestionA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Puzzel_2/R_07_QuestionA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingNinjas/R_1_Helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Puzzel_2/R_1_Helloworld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingNinjas/R_TypeConversions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Puzzel_2/R_TypeConversions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingNinjas/Type_Pramotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Puzzel_2/Type_Pramotion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingNinjas/Type_conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Puzzel_2/Type_conversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/D_5Q_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/D_5Q_Method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/D_5Q_ch7_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/D_5Q_ch7_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/D_5Q_ch7_methond.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/D_5Q_ch7_methond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/D_5Q_ch7_methond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/D_5Qloop_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/D_5Qloop_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/D_5Ques_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/D_5Ques_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/D_5Question_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/D_5Question_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/H_W_24_09_2022.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/H_W_24_09_2022.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/P_11_Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/P_11_Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/P_86_ch14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/P_86_ch14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Prectice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/Prectice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_01_Helloword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_01_Helloword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_01_Helloword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_02_main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_02_main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_03_Data_and_Variabal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_03_Data_and_Variabal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_04_literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_04_literals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_04_literals2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_04_literals2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_05_TakingInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_05_TakingInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_05_prectic_SumProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_05_prectic_SumProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_06_Exercise_CBSC_board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_06_Exercise_CBSC_board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_08_Shift_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_08_Shift_Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_100_JavaTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_100_JavaTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_10_resulting_data_type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_10_resulting_data_type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_13_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_13_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_14_String_methods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_19_Prectice_Q.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_19_Prectice_Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_1_simple_interest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_1_simple_interest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_30_Declaration_and_Initialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_30_Declaration_and_Initialization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_30_anonymous_object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_30_anonymous_object.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_31_2ndmathod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_31_2ndmathod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_31_Argument_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_31_Argument_method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_31_allMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_31_allMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_31_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_31_methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_32_callbyReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_32_callbyReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_32_callbyValueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_32_callbyValueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_32_methond_Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_32_methond_Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_33_Variable_Argument_varArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_33_Variable_Argument_varArgs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_34_Return_Statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_34_Return_Statement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_38_Type_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_38_Type_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_38_custom_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_38_custom_Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_39_Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_39_Question.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_40_modifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_40_modifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_41_Exersiz2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_41_Exersiz2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_42_1_CQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_42_1_CQ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_42_Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_42_Constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_45_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_45_Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_47_super_this.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_47_super_this.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_47_super_this2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_47_super_this2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_48_Method_Overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_48_Method_Overriding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_48_Method_Overriding2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_48_Method_Overriding2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_49_Dynamic_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_49_Dynamic_method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_49_Dynamic_method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_49_Dynamic_method2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_4_Unary_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_4_Unary_Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_53_abstract_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_53_abstract_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_54_interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_54_interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_56_Whynotsuppermultipalinheritence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_56_Whynotsuppermultipalinheritence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_57_Default_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_57_Default_method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_58_Inheritance_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_58_Inheritance_Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_59_Polymorphism_interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_59_Polymorphism_interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_66_access_modifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_66_access_modifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_70_multiThreding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_70_multiThreding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_70_multiThreding2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_70_multiThreding2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_71_RunnableI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_71_RunnableI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_71_RunnableT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_71_RunnableT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_73_ConstructorsThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_73_ConstructorsThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_74_Priorities_Thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_74_Priorities_Thread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_75_ThreadMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_75_ThreadMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_79_SyntextErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_79_SyntextErrors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_7_Bitwise_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_7_Bitwise_Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_80_Try_catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_80_Try_catch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_81_HandSpecificE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_81_HandSpecificE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_81_InputMismatchException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_81_InputMismatchException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_82_NestedTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_82_NestedTry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_83_exception_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_83_exception_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_84_Dividefuc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_84_Dividefuc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_84_ThrowThrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_84_ThrowThrows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_85_finallyBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_85_finallyBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_85_finallyQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_85_finallyQ1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_89_Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_89_Collection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_91_ArrayList_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_91_ArrayList_method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_91_ArrayList_method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_91_ArrayList_method2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_96_DateandTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_96_DateandTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_97_DateClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_97_DateClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_98_CalemdarClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/R_98_CalemdarClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_c12_Calculate_Q1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_c12_ScCalculator_Q1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_ch2_08v_Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/R_ch2_08v_Operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_ch2_09v_op_Associativity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/R_ch2_09v_op_Associativity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/R_ch2_12_prectices_set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/R_ch2_12_prectices_set.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Rishi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Rishi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/RishiInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/RishiInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/T_of_P.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/T_of_P.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/UsingPackege.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/UsingPackege.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/cl_constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/cl_constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/cl_constructor_this.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/cl_constructor_this.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/cwh_16_conditonals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_16_conditonals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/first_precticeset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/first_precticeset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/length_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/length_Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/prectice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/prectice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/usePackage_accessM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Question/usePackage_accessM.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -423,7 +216,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708800782789</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="CHANGED">
+      <option name="closed" value="true" />
+      <created>1709464145874</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709464145874</updated>
+    </task>
+    <task id="LOCAL-00007" summary="CHANGED code">
+      <option name="closed" value="true" />
+      <created>1709464335316</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709464335316</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -441,6 +250,7 @@
     <MESSAGE value="Save all file" />
     <MESSAGE value="New File Added" />
     <MESSAGE value="CHANGED" />
-    <option name="LAST_COMMIT_MESSAGE" value="CHANGED" />
+    <MESSAGE value="CHANGED code" />
+    <option name="LAST_COMMIT_MESSAGE" value="CHANGED code" />
   </component>
 </project>
