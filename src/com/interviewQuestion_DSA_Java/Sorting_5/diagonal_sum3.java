@@ -1,3 +1,5 @@
+package com.interviewQuestion_DSA_Java.Sorting_5;
+
 public class diagonal_sum3 {
     public static int digonalSum(int matrix[][]) {
         int sum = 0;

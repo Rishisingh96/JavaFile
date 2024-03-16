@@ -1,4 +1,4 @@
-package com.OtherTeacher;
+package com.Collection;
 
     /*/1> super is used to refer immediate parent class instance variable
     class Animal{

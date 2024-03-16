@@ -5,8 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DayOfproblem/Day3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/ImportentKeyWord/FinalKeyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Swing/chat.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/leetCode/R_01_Roted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/leetCode/leetcodeQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Bit_Magic_15/Binary_Left_Right_shift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Bit_Magic_15/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Bit_Magic_15/R_7_Bitwise_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/Camparetion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/Compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/CompareToMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/Converting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/Immutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/StringConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/byDeepaksir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetCode151/RotateArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All Java Program.iml" beforeDir="false" afterPath="$PROJECT_DIR$/All Java Program.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/Super_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/Super_Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/OOPs/OOPS Questions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/OOPs/OOPS Solutions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Array_update.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Binary_Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Introduction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Largest_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Linear_Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Linear_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Linear_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Trapping_Rainwater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/leetCode/R_1_MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/R_1_MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/subArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/diagonal_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/diagonal_sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/diagonal_sum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/diagonal_sum3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Precties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/R_12_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/R_12_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/R_13_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/R_13_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/R_14_String_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/R_14_String_methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/R_1_lowerCase_vowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/R_1_lowerCase_vowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/R_2_anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/R_2_anagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/StringBuilder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/StringBuilder1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/String_Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/String_Basic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/String_Compression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/String_Compression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Strings Questions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Strings Solutions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Uppercase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/Uppercase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/equalto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/equalto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/getShortestPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/getShortestPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/largestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/largestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/reverse_of_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/reverse_of_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/suString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/suString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/su.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +95,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -49,12 +109,29 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Application.Binary_Left_Right_shift.executor": "Run",
+    "Application.Camparetion.executor": "Run",
+    "Application.Compare.executor": "Run",
+    "Application.CompareToMethod.executor": "Run",
+    "Application.Converting.executor": "Run",
+    "Application.FinalKeyWord.executor": "Run",
     "Application.Hello.executor": "Run",
+    "Application.Immutable.executor": "Run",
     "Application.Input_Way.executor": "Run",
+    "Application.OddEven.executor": "Run",
     "Application.Precties.executor": "Run",
+    "Application.R_12_Strings.executor": "Run",
     "Application.R_14_String_methods.executor": "Run",
     "Application.R_47_super_this.executor": "Run",
+    "Application.R_7_Bitwise_Operator.executor": "Run",
+    "Application.StringBuilder1.executor": "Run",
+    "Application.StringConstructors.executor": "Run",
+    "Application.String_Compression.executor": "Run",
+    "Application.byDeepaksir.executor": "Run",
+    "Application.equalto.executor": "Run",
     "Application.factorial_for_loop.executor": "Run",
+    "Application.suString.executor": "Run",
     "Application.sum_of_Digit.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -62,11 +139,11 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/JavaFile/All Java Program/src/com/Java/Notes",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+    "last_opened_file_path": "E:/JavaFile/All Java Program/src/com/interviewQuestion_DSA_Java/String_3/Basic",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -74,27 +151,30 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\String_3\Basic" />
+      <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Array_3\leetCode" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Notes" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Notes" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java" />
-      <recent name="E:\JavaFile\All Java Program\src\com\AppletCode" />
-      <recent name="E:\JavaFile\All Java Program\src\com\Java\OOPs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\JavaFile\All Java Program\src\com\Notes" />
+      <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\String_3\Notes" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Notes" />
+      <recent name="E:\JavaFile\All Java Program\src\com\Notes" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\OOPs" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Sorting_5" />
-      <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Array_3" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.interviewQuestion_DSA_Java.Bit_Magic_15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sum_of_Digit">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Basic.Hello" />
+  <component name="RunManager" selected="Application.StringConstructors">
+    <configuration name="Binary_Left_Right_shift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Bit_Magic_15.Binary_Left_Right_shift" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Basic.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Bit_Magic_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Input_Way" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Basic.Input_Way" />
+    <configuration name="FinalKeyWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.ImportentKeyWord.FinalKeyWord" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Basic.*" />
+          <option name="PATTERN" value="com.Java.ImportentKeyWord.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Precties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.String_3.Precties" />
+    <configuration name="OddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Bit_Magic_15.OddEven" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.String_3.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Bit_Magic_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factorial_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Question.factorial_for_loop" />
+    <configuration name="StringConstructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.String_3.Basic.StringConstructors" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Question.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.String_3.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sum_of_Digit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Question.sum_of_Digit" />
+    <configuration name="byDeepaksir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.String_3.Basic.byDeepaksir" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Question.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.String_3.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sum_of_Digit" />
-        <item itemvalue="Application.factorial_for_loop" />
-        <item itemvalue="Application.Input_Way" />
-        <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.Precties" />
+        <item itemvalue="Application.StringConstructors" />
+        <item itemvalue="Application.byDeepaksir" />
+        <item itemvalue="Application.FinalKeyWord" />
+        <item itemvalue="Application.OddEven" />
+        <item itemvalue="Application.Binary_Left_Right_shift" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +360,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709467153563</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="CHANGED code">
+      <option name="closed" value="true" />
+      <created>1709467466839</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1709467466839</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
