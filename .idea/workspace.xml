@@ -4,66 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code">
-      <change afterPath="$PROJECT_DIR$/src/com/DayOfproblem/Day3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/ImportentKeyWord/FinalKeyWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Swing/chat.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/leetCode/R_01_Roted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/leetCode/leetcodeQ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Bit_Magic_15/Binary_Left_Right_shift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Bit_Magic_15/OddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Bit_Magic_15/R_7_Bitwise_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/Camparetion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/Compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/CompareToMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/Converting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/Immutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/StringConstructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/byDeepaksir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetCode151/RotateArray.java" afterDir="false" />
+    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code Array">
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/Merge_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/All Java Program.iml" beforeDir="false" afterPath="$PROJECT_DIR$/All Java Program.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/Super_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/Super_Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/OOPs/OOPS Questions.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/OOPs/OOPS Solutions.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Array_update.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Binary_Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Introduction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Largest_Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Linear_Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Linear_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Linear_Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/ReverseNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Trapping_Rainwater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/leetCode/R_1_MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/R_1_MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/subArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/tempCodeRunnerFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/diagonal_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/diagonal_sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/diagonal_sum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/diagonal_sum3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Precties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/R_12_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/R_12_Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/R_13_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/R_13_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/R_14_String_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/R_14_String_methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/R_1_lowerCase_vowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/R_1_lowerCase_vowels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/R_2_anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/R_2_anagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/StringBuilder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/StringBuilder1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/String_Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/String_Basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/String_Compression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/String_Compression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Strings Questions.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Strings Solutions.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Uppercase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/Uppercase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/equalto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/equalto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/getShortestPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/getShortestPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/largestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/largestString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/reverse_of_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/reverse_of_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/suString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/suString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/su.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/RotateArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,45 +52,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Application.Binary_Left_Right_shift.executor": "Run",
-    "Application.Camparetion.executor": "Run",
-    "Application.Compare.executor": "Run",
-    "Application.CompareToMethod.executor": "Run",
-    "Application.Converting.executor": "Run",
-    "Application.FinalKeyWord.executor": "Run",
-    "Application.Hello.executor": "Run",
-    "Application.Immutable.executor": "Run",
-    "Application.Input_Way.executor": "Run",
-    "Application.OddEven.executor": "Run",
-    "Application.Precties.executor": "Run",
-    "Application.R_12_Strings.executor": "Run",
-    "Application.R_14_String_methods.executor": "Run",
-    "Application.R_47_super_this.executor": "Run",
-    "Application.R_7_Bitwise_Operator.executor": "Run",
-    "Application.StringBuilder1.executor": "Run",
-    "Application.StringConstructors.executor": "Run",
-    "Application.String_Compression.executor": "Run",
-    "Application.byDeepaksir.executor": "Run",
-    "Application.equalto.executor": "Run",
-    "Application.factorial_for_loop.executor": "Run",
-    "Application.suString.executor": "Run",
-    "Application.sum_of_Digit.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/JavaFile/All Java Program/src/com/interviewQuestion_DSA_Java/String_3/Basic",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Application.Binary_Left_Right_shift.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Camparetion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Compare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompareToMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Converting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalKeyWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Immutable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Input_Way.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merg_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Precties.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_12_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_14_String_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_47_super_this.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_7_Bitwise_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilder1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringConstructors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_Compression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.byDeepaksir.executor&quot;: &quot;Run&quot;,
+    &quot;Application.equalto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial_for_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.suString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum_of_Digit.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JavaFile/All Java Program/src/com/interviewQuestion_DSA_Java/String_3/Basic&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -168,13 +115,13 @@
       <recent name="com.interviewQuestion_DSA_Java.Bit_Magic_15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringConstructors">
-    <configuration name="Binary_Left_Right_shift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Bit_Magic_15.Binary_Left_Right_shift" />
+  <component name="RunManager" selected="Application.Merge_sort">
+    <configuration name="FinalKeyWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.ImportentKeyWord.FinalKeyWord" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Bit_Magic_15.*" />
+          <option name="PATTERN" value="com.Java.ImportentKeyWord.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalKeyWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.ImportentKeyWord.FinalKeyWord" />
+    <configuration name="Merge_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Divide_Conquer_9.Merge_sort" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.ImportentKeyWord.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Divide_Conquer_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Merge_sort" />
         <item itemvalue="Application.StringConstructors" />
         <item itemvalue="Application.byDeepaksir" />
         <item itemvalue="Application.FinalKeyWord" />
         <item itemvalue="Application.OddEven" />
-        <item itemvalue="Application.Binary_Left_Right_shift" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +315,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709467466839</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="CHANGED code Array">
+      <option name="closed" value="true" />
+      <created>1710624251826</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710624251826</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -387,6 +342,7 @@
     <MESSAGE value="New File Added" />
     <MESSAGE value="CHANGED" />
     <MESSAGE value="CHANGED code" />
-    <option name="LAST_COMMIT_MESSAGE" value="CHANGED code" />
+    <MESSAGE value="CHANGED code Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="CHANGED code Array" />
   </component>
 </project>
