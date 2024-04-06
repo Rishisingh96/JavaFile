@@ -4,17 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code Array">
-      <change afterPath="$PROJECT_DIR$/src/com/lamdaExpresstion/Multithreding/Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lamdaExpresstion/Multithreding/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lamdaExpresstion/functionalInterface/LengthInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lamdaExpresstion/functionalInterface/LengthInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lamdaExpresstion/functionalInterface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lamdaExpresstion/functionalInterface/MyInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lamdaExpresstion/functionalInterface/MyInterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lamdaExpresstion/functionalInterface/sumInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lamdaExpresstion/swing/MyWindow.java" afterDir="false" />
+    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code LambdaExpression">
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/c.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/SquareNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/Swap_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/SwappingWay/Without_using_Third_Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/SwappingWay/using_Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/SwappingWay/using_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/lip_year.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/Array_Sorted_not.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/Decreasing_Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/Fibonacci_series_Nth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/Increasing_Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/N_number_sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Arrays - Assignment_Type.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Arrays - Solution (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Space _ Time Complexity (1) (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/Merge_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/Merge_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +36,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -57,56 +75,75 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2cM1U0WHEYpfO3JJwGNr3vaJyBg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Application.Binary_Left_Right_shift.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Camparetion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Compare.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompareToMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Converting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FinalKeyWord.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Immutable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Input_Way.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Merg_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Merge_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyWindow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddEven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Precties.executor&quot;: &quot;Run&quot;,
-    &quot;Application.R_12_Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.R_14_String_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.R_47_super_this.executor&quot;: &quot;Run&quot;,
-    &quot;Application.R_7_Bitwise_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBuilder1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringConstructors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Compression.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.byDeepaksir.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.lambdaExpression.Multithreading.ThreadDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.equalto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factorial_for_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.suString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sum_of_Digit.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/JavaFile/All Java Program/src/com/interviewQuestion_DSA_Java/String_3/Basic&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Application.Armstrong.executor": "Run",
+    "Application.Array_Sorted_not.executor": "Run",
+    "Application.Binary_Left_Right_shift.executor": "Run",
+    "Application.Camparetion.executor": "Run",
+    "Application.Compare.executor": "Run",
+    "Application.CompareToMethod.executor": "Run",
+    "Application.Converting.executor": "Run",
+    "Application.Decreasing_Order.executor": "Run",
+    "Application.Divide.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci_series_Nth.executor": "Run",
+    "Application.FinalKeyWord.executor": "Run",
+    "Application.Hello.executor": "Run",
+    "Application.Immutable.executor": "Run",
+    "Application.Increasing_Order.executor": "Run",
+    "Application.Input_Way.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Max_Subarray2.executor": "Run",
+    "Application.Merg_sort.executor": "Run",
+    "Application.Merge_sort.executor": "Run",
+    "Application.MyWindow.executor": "Run",
+    "Application.N_number_sum.executor": "Run",
+    "Application.OddEven.executor": "Run",
+    "Application.Precties.executor": "Run",
+    "Application.QuickSort.executor": "Run",
+    "Application.R1_Max_number.executor": "Run",
+    "Application.R_12_Strings.executor": "Run",
+    "Application.R_14_String_methods.executor": "Run",
+    "Application.R_47_super_this.executor": "Run",
+    "Application.R_7_Bitwise_Operator.executor": "Run",
+    "Application.SquareNumber.executor": "Run",
+    "Application.StringBuilder1.executor": "Run",
+    "Application.StringConstructors.executor": "Run",
+    "Application.String_Compression.executor": "Run",
+    "Application.ThreadDemo.executor": "Run",
+    "Application.Without_using_Third_Variable.executor": "Run",
+    "Application.byDeepaksir.executor": "Run",
+    "Application.com.lambdaExpression.Multithreading.ThreadDemo.executor": "Run",
+    "Application.equalto.executor": "Run",
+    "Application.factorial_for_loop.executor": "Run",
+    "Application.function_Square.executor": "Run",
+    "Application.lip_year.executor": "Run",
+    "Application.suString.executor": "Run",
+    "Application.sum_of_Digit.executor": "Run",
+    "Application.using_Arithmetic.executor": "Run",
+    "Application.using_Array.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/JavaFile/All Java Program/src/com/interviewQuestion_DSA_Java/String_3/Basic",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -119,23 +156,23 @@
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Array_3\Notes" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\String_3\Notes" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Notes" />
       <recent name="E:\JavaFile\All Java Program\src\com\Notes" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\OOPs" />
-      <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Sorting_5" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.interviewQuestion_DSA_Java.Bit_Magic_15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyWindow">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lamdaExpresstion.functionalInterface.Main" />
+  <component name="RunManager" selected="Application.using_Arithmetic">
+    <configuration name="Divide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.Divide" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lamdaExpresstion.functionalInterface.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Divide_Conquer_9.Merge_sort" />
+    <configuration name="R1_Max_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Basic.R1_Max_number" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Divide_Conquer_9.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lamdaExpresstion.swing.MyWindow" />
+    <configuration name="Without_using_Third_Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.SwappingWay.Without_using_Third_Variable" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lamdaExpresstion.swing.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.SwappingWay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lamdaExpresstion.Multithreding.ThreadDemo" />
+    <configuration name="using_Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.SwappingWay.using_Arithmetic" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lamdaExpresstion.Multithreding.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.SwappingWay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lamdaExpresstion.Multithreding.ThreadDemo" />
+    <configuration name="using_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.SwappingWay.using_Array" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lamdaExpresstion.Multithreding.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.SwappingWay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,10 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyWindow" />
-        <item itemvalue="Application.ThreadDemo" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Merge_sort" />
+        <item itemvalue="Application.using_Arithmetic" />
+        <item itemvalue="Application.using_Array" />
+        <item itemvalue="Application.Without_using_Third_Variable" />
+        <item itemvalue="Application.Divide" />
+        <item itemvalue="Application.R1_Max_number" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +382,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711448364812</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="CHANGED code LambdaExpression">
+      <option name="closed" value="true" />
+      <created>1711472491142</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1711472491142</updated>
+    </task>
+    <task id="LOCAL-00018" summary="CHANGED code LambdaExpression">
+      <option name="closed" value="true" />
+      <created>1711472703914</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711472703914</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,6 +418,7 @@
     <MESSAGE value="CHANGED" />
     <MESSAGE value="CHANGED code" />
     <MESSAGE value="CHANGED code Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="CHANGED code Array" />
+    <MESSAGE value="CHANGED code LambdaExpression" />
+    <option name="LAST_COMMIT_MESSAGE" value="CHANGED code LambdaExpression" />
   </component>
 </project>

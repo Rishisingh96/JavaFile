@@ -1,6 +1,6 @@
 package com.Java.Question;
 
-import com.Java.R_66_access_modifiers;
+import com.Java.Polymorphism_interface.R_66_access_modifiers;
 
 // java access modifair use in package
 // import Rishicode.gym.R_66_access_modifiers;

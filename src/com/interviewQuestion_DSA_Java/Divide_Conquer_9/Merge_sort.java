@@ -8,18 +8,27 @@ public class Merge_sort {
         System.out.println();
     }
 
+    // Main function to perform merge sort
     private static void mergeSort(int[] arr, int si, int ei) {
+        // Base case: if start index is greater than or equal to end index, return
         if (si >= ei) {
             return;
         }
-        //kaam  recursiion
+
+        // Calculate the middle index
         int mid = si + (ei - si) / 2;
+
+        // Recursively sort the left and right halves
         mergeSort(arr, si, mid);
         mergeSort(arr, mid + 1, ei);
+
+        // Merge the sorted halves
         merge(arr, si, mid, ei);
     }
 
+    // Function to merge two sorted halves
     public static void merge(int arr[], int si, int mid, int ei) {
+        // Create a temporary array to store the merged result
         //left(0,3) =4 right(4,6) -> 6+0+1
         int temp[] = new int[ei - si + 1];
         int i = si;  // idx for 1 sorted part
