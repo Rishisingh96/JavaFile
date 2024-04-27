@@ -1,3 +1,5 @@
+package com.interviewQuestion_DSA_Java.Array_3;
+
 import java.util.*;
 public class Binary_Search {
     public static int binarySearch(int numbers[], int key) {
@@ -5,6 +7,7 @@ public class Binary_Search {
 
         while (start <= end) {
             int mid = start + (end - start) / 2; // Fix: Avoid overflow
+
             // comparisons
             if (numbers[mid] == key) {
                 return mid;

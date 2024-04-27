@@ -20,6 +20,7 @@ class child2 extends Parent2{
     }
 }
 
+
 abstract class child3 extends Parent2{
     public void th(){
         System.out.println("I am good......");
@@ -27,13 +28,16 @@ abstract class child3 extends Parent2{
 }
 public class R_53_abstract_class {
     public static void main(String arg[]){
-//        Parent2 p = new Parent2(); // we can not create object because he is abstreact class
+//        Parent2 p = new Parent2(); // we can not create object because he is abstract class
         child2 C = new child2();
         C.greet();
         C.sayHellow();
-//        C.child3();     error
+
+     //  C.child3();     //error -Cannot resolve method 'child3' in 'child2
 //        child3 C3 = new child3();
+
+
+
     }
 
-    //
 }

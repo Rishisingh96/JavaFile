@@ -18,12 +18,12 @@ package com.Java.Inheritance;
             System.out.println("Applying Break");
         }
 
-        // @Override
+         @Override
         public void speedUp(int incremetn){
             System.out.println("Applying SpeedUp");
         }
 
-        // @Override
+         @Override
         public void blowHornk3g(){
             System.out.println("kabhi khusi kabhi gum pee peep.........");
         }

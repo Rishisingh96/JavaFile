@@ -8,8 +8,9 @@ public class R_80_Try_catch {
         int x = sc.nextInt();
         System.out.print("Enter second value :");
         int y = sc.nextInt();
+
         try{
-            System.out.println("your Divide is = "+ x/y);
+            System.out.println("your Divide is ="+ x/y);
         }
         catch(Exception e){
             System.out.println("Some exception Occur ArithmeticException");

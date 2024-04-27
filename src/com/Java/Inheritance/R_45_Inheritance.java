@@ -7,7 +7,7 @@ class Base1{
     }
     public void setX(int x){
         System.out.println("I am in base setting x now");
-        this.x = x;
+        this.x = x;  //4
     }
     public void printMe(){
         System.out.println("I am a constructor");
@@ -21,7 +21,7 @@ class Derived1 extends Base1{
         return y;
     }
     public void setY(int y){
-        this.y = y;
+        this.y = y;  //43
     }
 }
 public class R_45_Inheritance{

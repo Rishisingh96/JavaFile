@@ -12,6 +12,5 @@ public class R_03_Data_and_Variabal{
             int n = a.nextInt();
             int  SI = (p*i*n)/100;
             System.out.println("SI");
-
         }
     }

@@ -13,10 +13,12 @@ public class CollectionList {
         ArrayList<String> names = new ArrayList<String>();
         names.add("Rishi singh");
         names.add("Durgesh sir");
+//        names.add(233); error because he is type safe
         names.add("Sitara");
         names.add("Roshni");
         names.add("Vandna");
         names.add("Vandna");
+
         System.out.println(names);
         //get method
         System.out.println(names.get(0));

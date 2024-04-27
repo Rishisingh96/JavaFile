@@ -4,29 +4,98 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code LambdaExpression">
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/c.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/Armstrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/Divide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/SquareNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/Swap_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/SwappingWay/Without_using_Third_Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/SwappingWay/using_Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/SwappingWay/using_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/lip_year.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/Array_Sorted_not.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/Decreasing_Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/Fibonacci_series_Nth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/Increasing_Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/N_number_sum.java" afterDir="false" />
+    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position">
+      <change afterPath="$PROJECT_DIR$/hs_err_pid10380.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Conditional_Opr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Interview_Datatype_Variable/longbyte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Loop/Fibonacci_series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Loop/prime_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Collection/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/CreateFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/File_Deletion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Read_File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Read_Write.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/WriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/Hierarchical_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/Multi_level_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/SingleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/DaemonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/notify_notifyAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/OOPs/Interview_Quesetion/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/OOPs/Interview_Quesetion/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/packageCreat/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_InterviewQ_1/Oprator/increment_and_Decrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_InterviewQ_1/SwappingWay/using_temp_variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/P_7_first_occurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/P_8_last_occurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/check_if_arraySorted_orNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/xtoPower_n_print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/xtoPower_n_print_Optimize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/Linear_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/StringMethodall/R_3_Concatenation_subString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Arrays - Assignment_Type.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Arrays - Solution (1).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Space _ Time Complexity (1) (1).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/Merge_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/Merge_sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Basic/R_03_Data_and_Variabal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_03_Data_and_Variabal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Basic/R_04_literals2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Basic/R_08_Shift_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_08_Shift_Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Basic/R_4_Unary_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_4_Unary_Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Basic/R_7_Bitwise_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/R_7_Bitwise_Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Collection/CollectionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Collection/CollectionList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Collection/TraversExampleCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Collection/TraversExampleCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Collection/collectionSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Collection/collectionSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_79_SyntextErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_79_SyntextErrors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_80_Try_catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_80_Try_catch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_81_HandSpecificE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_81_HandSpecificE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_82_NestedTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_82_NestedTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_83_exception_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_83_exception_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_84_Dividefuc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_84_Dividefuc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_84_ThrowThrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_84_ThrowThrows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_85_finallyQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/R_85_finallyQ1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_45_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/R_45_Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_47_super_this.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/R_48_super_this.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_47_super_this2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_48_Method_Overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/R_48_Method_Overriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_48_Method_Overriding2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_49_Dynamic_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/R_49_Dynamic_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_49_Dynamic_method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/R_49_Dynamic_method2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_53_abstract_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/R_53_abstract_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_54_interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/R_54_interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_56_Whynotsuppermultipalinheritence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/R_56_Whynotsuppermultipalinheritence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_57_Default_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/R_57_Default_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_70_multiThreding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_70_multiThreading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_70_multiThreding2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_71_RunnableT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_74_Priorities_Thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_74_Priorities_Thread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_75_ThreadMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_75_ThreadMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/R_100_JavaTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Time/R_100_JavaTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/R_96_DateandTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Time/R_96_DateandTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/R_97_DateClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Time/R_97_DateClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/R_98_CalemdarClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Time/R_98_CalemdarClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Scientefic_cal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Project/Scientefic_cal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Array_update.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Array_update.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Binary_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Binary_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pattern/character_pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Pattern/character_pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pattern/halfPyramidnumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Pattern/halfPyramidnumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pattern/name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Pattern/name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pattern/starPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Pattern/starPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pattern/startPattern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Pattern/startPattern2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Stock_sell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/diagonal_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/diagonal_sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_InterviewQ_1/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/Divide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_InterviewQ_1/Divide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/SquareNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_InterviewQ_1/SquareNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/Swap_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_InterviewQ_1/Swap_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/SwappingWay/Without_using_Third_Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_InterviewQ_1/SwappingWay/Without_using_Third_Variable_XOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/SwappingWay/using_Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_InterviewQ_1/SwappingWay/using_Arithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/SwappingWay/using_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_InterviewQ_1/SwappingWay/using_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_1/lip_year.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_InterviewQ_1/lip_year.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/Array_Sorted_not.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/Array_Sorted_not.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/Fibonacci_series_Nth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/Fibonacci_series_Nth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/N_number_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Recursion_8/N_number_sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/DigonalSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/DigonalSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/Camparetion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/StringMethodall/Camparetion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/CompareToMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/StringMethodall/CompareToMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,97 +151,178 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Application.Armstrong.executor": "Run",
-    "Application.Array_Sorted_not.executor": "Run",
-    "Application.Binary_Left_Right_shift.executor": "Run",
-    "Application.Camparetion.executor": "Run",
-    "Application.Compare.executor": "Run",
-    "Application.CompareToMethod.executor": "Run",
-    "Application.Converting.executor": "Run",
-    "Application.Decreasing_Order.executor": "Run",
-    "Application.Divide.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Fibonacci_series_Nth.executor": "Run",
-    "Application.FinalKeyWord.executor": "Run",
-    "Application.Hello.executor": "Run",
-    "Application.Immutable.executor": "Run",
-    "Application.Increasing_Order.executor": "Run",
-    "Application.Input_Way.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Max_Subarray2.executor": "Run",
-    "Application.Merg_sort.executor": "Run",
-    "Application.Merge_sort.executor": "Run",
-    "Application.MyWindow.executor": "Run",
-    "Application.N_number_sum.executor": "Run",
-    "Application.OddEven.executor": "Run",
-    "Application.Precties.executor": "Run",
-    "Application.QuickSort.executor": "Run",
-    "Application.R1_Max_number.executor": "Run",
-    "Application.R_12_Strings.executor": "Run",
-    "Application.R_14_String_methods.executor": "Run",
-    "Application.R_47_super_this.executor": "Run",
-    "Application.R_7_Bitwise_Operator.executor": "Run",
-    "Application.SquareNumber.executor": "Run",
-    "Application.StringBuilder1.executor": "Run",
-    "Application.StringConstructors.executor": "Run",
-    "Application.String_Compression.executor": "Run",
-    "Application.ThreadDemo.executor": "Run",
-    "Application.Without_using_Third_Variable.executor": "Run",
-    "Application.byDeepaksir.executor": "Run",
-    "Application.com.lambdaExpression.Multithreading.ThreadDemo.executor": "Run",
-    "Application.equalto.executor": "Run",
-    "Application.factorial_for_loop.executor": "Run",
-    "Application.function_Square.executor": "Run",
-    "Application.lip_year.executor": "Run",
-    "Application.suString.executor": "Run",
-    "Application.sum_of_Digit.executor": "Run",
-    "Application.using_Arithmetic.executor": "Run",
-    "Application.using_Array.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/JavaFile/All Java Program/src/com/interviewQuestion_DSA_Java/String_3/Basic",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Application.ATM_Interface_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Sorted_not.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_update.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Binary_Left_Right_shift.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Binary_Search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CONSTRUCTOR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Camparetion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Compare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompareToMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conditional_Opr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Converting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CreateFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DaemonThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Decreasing_Order.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigonalSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Divide.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci_series.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci_series_Nth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.File_Deletion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalKeyWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hierarchical_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Immutable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Increasing_Order.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Input_Way.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Linear_Search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Max_Subarray2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merg_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multi_level_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyWindow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.N_number_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Number_guessing_game_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Online_Examination_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_7_first_occurrence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_8_last_occurrence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Precties.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R1_Max_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_04_literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_08_Shift_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_12_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_14_String_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_3_Concatenation_subString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_45_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_47_super_this.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_48_Method_Overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_48_super_this (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_48_super_this.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_49_Dynamic_method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_49_Dynamic_method2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_4_Unary_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_53_abstract_class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_54_interface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_56_Whynotsuppermultipalinheritence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_57_Default_method (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_57_Default_method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_58_Inheritance_Interface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_70_multiThreding (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_70_multiThreding (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_70_multiThreding (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_70_multiThreding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_71_RunnableI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_73_ConstructorsThread (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_73_ConstructorsThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_74_Priorities_Thread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_75_ThreadMethods (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_75_ThreadMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_79_SyntaxErrors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_7_Bitwise_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_80_Try_catch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_81_HandSpecificE.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_81_InputMismatchException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_82_NestedTry.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_83_exception_class (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_83_exception_class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_84_Dividefuc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_84_ThrowThrows.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_85_finallyBlock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_85_finallyQ1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R_96_DateandTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Read_File.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Read_Write.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scientefic_cal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SquareNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilder1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringConstructors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_Compression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Super_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TraversExampleCollection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Without_using_Third_Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Without_using_Third_Variable_XOR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WriteFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.byDeepaksir.executor&quot;: &quot;Run&quot;,
+    &quot;Application.collectionSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.interviewQuestion_DSA_Java.Array_3.Array_update.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.lambdaExpression.Multithreading.ThreadDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.diagonal_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.equalto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial_for_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.function_Square.executor&quot;: &quot;Run&quot;,
+    &quot;Application.halfPyramidnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.increment_and_Decrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lip_year.executor&quot;: &quot;Run&quot;,
+    &quot;Application.longbyte.executor&quot;: &quot;Run&quot;,
+    &quot;Application.prime_number (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.prime_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.starPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.startPattern2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.suString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum_of_Digit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.using_Arithmetic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.using_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.xtoPower_n_print.executor&quot;: &quot;Run&quot;,
+    &quot;Application.xtoPower_n_print_Optimize.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JavaFile/All Java Program/src/com/Java/Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaFile\All Java Program\src\com\Java\Project" />
+      <recent name="E:\JavaFile\All Java Program\src\com\leetCode151" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\String_3\Basic" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Array_3\leetCode" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Notes" />
-      <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Notes" />
-      <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaFile\All Java Program\src\com\Java\Project" />
+      <recent name="E:\JavaFile\All Java Program\src\com\Java\ImKeyword_Class_Method" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Array_3\Notes" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\String_3\Notes" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Notes" />
-      <recent name="E:\JavaFile\All Java Program\src\com\Notes" />
-      <recent name="E:\JavaFile\All Java Program\src\com\Java\OOPs" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.interviewQuestion_DSA_Java.Bit_Magic_15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.using_Arithmetic">
-    <configuration name="Divide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.Divide" />
+  <component name="RunManager" selected="Application.Linear_Search">
+    <configuration name="Conditional_Opr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Basic.Conditional_Opr" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.*" />
+          <option name="PATTERN" value="com.Java.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +330,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R1_Max_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Basic.R1_Max_number" />
+    <configuration name="Linear_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.Linear_Search" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Basic.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Searching_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Without_using_Third_Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.SwappingWay.Without_using_Third_Variable" />
+    <configuration name="R_04_literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Basic.R_04_literals" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.SwappingWay.*" />
+          <option name="PATTERN" value="com.Java.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +356,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="using_Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.SwappingWay.using_Arithmetic" />
+    <configuration name="R_08_Shift_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Basic.R_08_Shift_Operator" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.SwappingWay.*" />
+          <option name="PATTERN" value="com.Java.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +369,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="using_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.SwappingWay.using_Array" />
+    <configuration name="R_7_Bitwise_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Basic.R_7_Bitwise_Operator" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Mathmatical_Basic_1.SwappingWay.*" />
+          <option name="PATTERN" value="com.Java.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,11 +384,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.using_Arithmetic" />
-        <item itemvalue="Application.using_Array" />
-        <item itemvalue="Application.Without_using_Third_Variable" />
-        <item itemvalue="Application.Divide" />
-        <item itemvalue="Application.R1_Max_number" />
+        <item itemvalue="Application.Linear_Search" />
+        <item itemvalue="Application.R_08_Shift_Operator" />
+        <item itemvalue="Application.R_7_Bitwise_Operator" />
+        <item itemvalue="Application.Conditional_Opr" />
+        <item itemvalue="Application.R_04_literals" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +548,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711472703914</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="CHANGED code position">
+      <option name="closed" value="true" />
+      <created>1712433323463</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1712433323463</updated>
+    </task>
+    <task id="LOCAL-00020" summary="CHANGED code position">
+      <option name="closed" value="true" />
+      <created>1712433473501</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1712433473501</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -419,6 +585,7 @@
     <MESSAGE value="CHANGED code" />
     <MESSAGE value="CHANGED code Array" />
     <MESSAGE value="CHANGED code LambdaExpression" />
-    <option name="LAST_COMMIT_MESSAGE" value="CHANGED code LambdaExpression" />
+    <MESSAGE value="CHANGED code position" />
+    <option name="LAST_COMMIT_MESSAGE" value="CHANGED code position" />
   </component>
 </project>

@@ -32,7 +32,7 @@ public class R_85_finallyQ1 {
         // 1. We can use Finally key ofter try
         catch (Exception e){
            // System.out.println("MismatchInput Error");
-            System.out.println("MismathInput");
+            System.out.println("MismatchInput");
             System.out.println(e);
         }
        finally

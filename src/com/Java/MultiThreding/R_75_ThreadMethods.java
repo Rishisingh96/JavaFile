@@ -14,7 +14,7 @@ class MyThread2 extends Thread{
         while(i<100) {
             System.out.println("Sorry Rishi singh");
             try{
-                Thread.sleep(455);
+                Thread.sleep(1055);
             }
             catch(InterruptedException e){
                 e.printStackTrace();

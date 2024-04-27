@@ -3,6 +3,7 @@ import java.util.*;
 
 public class TraversExampleCollection {
     public static void main(String[] args) {
+
         System.out.println("++++++++++++++UNDER LIST++++++++++++++");
         ArrayList<String> names = new ArrayList<>();
         names.add("Rishi singh");

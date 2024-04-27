@@ -38,7 +38,7 @@ class R_48_Method_Overriding{
         //rishi1.meth3();  // this is not print because method takes argument
         rishi2.meth3();     // Not a Overriding because this one argument and second is soon.
 
-        //rishi1.meth4();  // method is Private  so we can not access of class A.
+        //rishi1.meth4();  // method is Private ,so we can not access of class A.
         rishi2.meth4();    // Not a Overriding because this is private.
     }
 }

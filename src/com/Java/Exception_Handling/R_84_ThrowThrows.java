@@ -19,8 +19,8 @@ public class R_84_ThrowThrows {
 
     public static void main(String[] args) {
             try{
-               // double ar = area(-9);
-                double ar = area(9);
+                double ar = area(-9);
+//                double ar = area(9);
                 System.out.println(ar);
             }
             catch (Exception e){

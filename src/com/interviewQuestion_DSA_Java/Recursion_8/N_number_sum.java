@@ -1,5 +1,6 @@
 package com.interviewQuestion_DSA_Java.Recursion_8;
 
+//Problem 4 - Print sum of first n natural numbers.
 public class N_number_sum {
     public static int calcSum(int n){
         if(n==1){  // This is Base case he is important

@@ -1,3 +1,5 @@
+package com.interviewQuestion_DSA_Java.Array_3;
+
 import java.util.*;
 public class ReverseNumber {
     public static void ReverseNumbers(int numbers[]){   
@@ -17,7 +19,7 @@ public class ReverseNumber {
 
         ReverseNumbers(numbers);       
         for (int i = 0; i < numbers.length; i++){
-            System.err.println(numbers[i]+"");
+            System.err.print(numbers[i]+" ");
         }
         System.out.println();
     }

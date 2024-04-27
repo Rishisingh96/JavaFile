@@ -1,7 +1,7 @@
 package com.Java.Exception_Handling;
 import java.util.Scanner;
 class R_79_SyntaxErrors{
-    public static void main(String[] args){
+    public static void main(String[] args) {
         //Syntax Error
     /*
 	int a = 10  //Error: we forgot the ';' semicolon so occur expected
@@ -11,21 +11,20 @@ class R_79_SyntaxErrors{
         //Logical Error
         //WAP to print prime number
         System.out.println("2");
-        for(int i=0; i<5; i++)
-        {
-            System.out.println(2*i+1);
+        for (int i = 0; i < 5; i++) {
+            System.out.println(2 * i + 1);
         }
 /*2
-1
-3
-5
-7
-9
+    1
+    3
+    5
+    7
+    9
 	*/
 
         // Runtime Error
-
         int n;
+        System.out.println("\n\nEnter your number:");
         Scanner x = new Scanner(System.in);
         n=x.nextInt();
         System.out.println(1000/n);

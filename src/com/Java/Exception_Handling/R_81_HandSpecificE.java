@@ -10,14 +10,14 @@ public class R_81_HandSpecificE{
         marks[1] = 40;
         marks[2] = 60;
 
-        System.out.println("Enter index number: ");
+        System.out.println("Enter index number:");
         int ind = sc.nextInt();
 
-        System.out.println("Enter the value for divide index value: ");
+        System.out.println("Enter the value for divide index value:");
         int num = sc.nextInt();
         try{
-            System.out.println("Your index value of marks  = "+ marks[ind]);
-            System.out.println("your Divide is = " + marks[ind]/num);
+            System.out.println("Your index value of marks = "+ marks[ind]);
+            System.out.println("your Divide is =" + marks[ind]/num);
         }
         catch(ArithmeticException e){
             System.out.println("Error : ArithmeticException ");

@@ -1,5 +1,5 @@
 package com.interviewQuestion_DSA_Java.Recursion_8;
-
+// Problem 6 - Check if a given array is sorted or Not.
 public class Array_Sorted_not {
     private static boolean isSorted(int[] arr, int i) {
         if(i== arr.length-1){ // base case

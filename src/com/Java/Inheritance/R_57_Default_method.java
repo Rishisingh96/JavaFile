@@ -35,7 +35,7 @@ class MyCellPhone{
 //    }
     public String[] getNetworks(){
         System.out.println("Getting List of Networks.");
-        String[] networkList = {"Harry","Prashanth","Anjali5G"};
+        String[] networkList = {"Rishi","Prashanth","Anjali5G"};
         return networkList;
     }
 

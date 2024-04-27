@@ -23,10 +23,10 @@ public class R_82_NestedTry {
                 }
             }
             catch (Exception e) {
-                System.out.println("Exception in level 1 ");
+                System.out.println("Exception in level 1");
             }
         }
-        System.out.println("Thank for using this program ");
+        System.out.println("Thank for using this program");
     }
 }
 

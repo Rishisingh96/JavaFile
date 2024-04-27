@@ -9,10 +9,9 @@ public class R_7_Bitwise_Operator {
 	4. ~	bitwise NOT (Unary)
 	5. <<	shift left
 	6. >>	shift right
-	7. >>>	unsigned right shift
-*/
+	7. >>>	unsigned right shift*/
         //===================================
-//        	Bitwise AND Operator (&) in Java
+//    Bitwise AND Operator (&) in Java
 
         /*int a = 10, b = 11;
         System.out.println("(10 & 11): " +(a & b));*/
@@ -23,14 +22,12 @@ From the truth table, On multiplying the individual bits of x and y, we get x & 
 //        Bitwise OR Operator ( | ) in Java
         //	Program code 2:
        /* int a = 20, b = 10;
-        System.out.println("(20 | 10): " +(a | b));
-*/
+        System.out.println("(20 | 10): " +(a | b));*/
         //==================================================================
 //	Bitwise Exclusive OR (XOR) Operator (^)
-
-       /* int a = 20, b = 10;
-        System.out.println("(20 ^ 10): " +(a ^ b));
-*/
+/*
+        int a = 20, b = 10;
+        System.out.println("(20 ^ 10): " +(a ^ b));*/
         ////==================================================================
         ////   Bitwise NOT operator (~)
         int a = 2, b = 10;

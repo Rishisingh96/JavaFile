@@ -17,7 +17,7 @@ interface HornBicycle{
                 System.out.println("Applying Break");
          }
 
-        // @Override
+         @Override
          public void speedUp(int incremetn){
              System.out.println("Applying SpeedUp");
          }
@@ -45,7 +45,7 @@ public class R_54_interface {
        //  cycleHarry.a =445;   // error
         System.out.println(cycleHarry.a);
 
-         cycleHarry . blowHornk3g();
+         cycleHarry.blowHornk3g();
          cycleHarry.blowHornmhn();
 
     }

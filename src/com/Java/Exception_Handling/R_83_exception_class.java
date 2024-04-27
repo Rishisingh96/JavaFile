@@ -35,7 +35,7 @@ public class R_83_exception_class {
                 throw new ArithmeticException("This is an exception");
             }
             catch (Exception e){
-               System.out.println(e.getMessage());
+                System.out.println(e.getMessage());
                 System.out.println(e.toString());
                 e.printStackTrace();
                 System.out.println("Finished");

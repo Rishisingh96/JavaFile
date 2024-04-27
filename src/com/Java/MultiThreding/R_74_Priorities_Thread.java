@@ -13,7 +13,7 @@ class MyThread extends Thread{
 }
 public class R_74_Priorities_Thread {
     public static void main(String args[]){
-        MyThread t1 = new MyThread("Rishi singh (most Importent)");
+        MyThread t1 = new MyThread("Rishi singh (most Important)");
         MyThread t2 = new MyThread("Rishi singh 2");
         MyThread t3 = new MyThread("Rishi singh 3");
         MyThread t4 = new MyThread("Rishi singh 4");

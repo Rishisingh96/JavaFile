@@ -1,6 +1,6 @@
 package com.Java.Inheritance;
 
-class Phone
+class Phone3
 {
     public void showTime(){
         System.out.println("This is 8 am");
@@ -15,7 +15,7 @@ class Phone
     }
 }
 
-class smartPhone extends Phone
+class smartPhone extends Phone3
 {
     public void music(){
         System.out.println("Playing music ... ");
@@ -28,16 +28,15 @@ class  R_49_Dynamic_method
 {
     public static void main(String[] args)
     {
-        /*
-        Phone obj = new Phone();
+/*
+        Phone3 obj = new Phone3();
         smartPhone smobj = new smartPhone();
         obj.name();
         obj.on();
-        smobj.music();
-        */
-        Phone obj = new smartPhone(); // yes it is allowed
-//        smartPhone obj2 = new Phone();  //Not allowed
+        smobj.music();*/
 
+        Phone1 obj = new smartPhone2(); // yes it is allowed
+//        smartPhone obj2 = new Phone();  //Not allowed
         obj.showTime();
         obj.on();
     // obj.music();  // Not allowed
