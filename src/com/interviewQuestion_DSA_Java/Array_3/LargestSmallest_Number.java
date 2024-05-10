@@ -1,5 +1,6 @@
-import java.util.*;
-public class Largest_Number {
+package com.interviewQuestion_DSA_Java.Array_3;
+
+public class LargestSmallest_Number {
     public static int getLargest(int numbers[]){
         int largest = Integer.MIN_VALUE;  // - infinity
         int smallest = Integer.MAX_VALUE; //

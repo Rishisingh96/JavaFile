@@ -1,5 +1,3 @@
-package com.interviewQuestion_DSA_Java.String_3.leetCode;
-
 /**
  * getShortestPath
  */
@@ -36,4 +34,5 @@ public class getShortestPath {
         String path = "NS";
         System.out.println(getShortestPath(path));
     }
+   
 }

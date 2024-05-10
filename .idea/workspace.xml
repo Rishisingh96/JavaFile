@@ -5,7 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
+      <change afterPath="$PROJECT_DIR$/src/com/DayOfproblem/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Loop/SumforEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Loop/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Loop/foEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Universal/AofRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Universal/AofTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Universal/AreaCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Universal/CalculateNetPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Universal/CommandLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Universal/DataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Universal/characterRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Universal/check_vowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Universal/fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Universal/km.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Universal/square_cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Universal/typeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/checkPositiveNegativeusingswitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Universal/Array_Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Universal/FindEveninArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Universal/FindSecondBiggest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Universal/Find_BiggestEven_Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Universal/SecondMaxusingfunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Universal/SumOf_Even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Universal/firstCodeofArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/All_method/charAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/All_method/charAt1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/All_method/toCharArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/Palendrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName_Deepaksir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName_use_charAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName_use_toCharArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Basic/Interview_Datatype_Variable/longbyte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/Universal/longbyte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java_8_17_21/java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Introduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Largest_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/LargestSmallest_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Pairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/diagonal_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/diagonal_sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/getShortestPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/getShortestPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/reverse_of_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/reverse_of_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,16 +69,16 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "author": "Rishisingh96"
+      &quot;author&quot;: &quot;Rishisingh96&quot;
     }
   ],
-  "lastFilter": {
-    "author": "Rishisingh96"
+  &quot;lastFilter&quot;: {
+    &quot;author&quot;: &quot;Rishisingh96&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -69,9 +109,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Application.ATM_Interface_3.executor": "Run",
+    "Application.AddNum.executor": "Run",
+    "Application.AofRectangle.executor": "Run",
+    "Application.AofTriangle.executor": "Run",
+    "Application.AreaCircle.executor": "Run",
     "Application.Armstrong.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.Array_Basic.executor": "Run",
     "Application.Array_Sorted_not.executor": "Run",
     "Application.Array_update.executor": "Run",
     "Application.Binary_Left_Right_shift.executor": "Run",
@@ -85,6 +132,7 @@
     "Application.Converting.executor": "Run",
     "Application.CreateFile.executor": "Run",
     "Application.DaemonThread.executor": "Run",
+    "Application.DataType.executor": "Run",
     "Application.Decreasing_Order.executor": "Run",
     "Application.DigonalSum.executor": "Run",
     "Application.Divide.executor": "Run",
@@ -93,13 +141,19 @@
     "Application.Fibonacci_series_Nth.executor": "Run",
     "Application.File_Deletion.executor": "Run",
     "Application.FinalKeyWord.executor": "Run",
+    "Application.FindEveninArray.executor": "Run",
+    "Application.FindSecondBiggest.executor": "Run",
+    "Application.Find_BiggestEven_Odd.executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.Hierarchical_Inheritance.executor": "Run",
     "Application.Immutable.executor": "Run",
     "Application.Increasing_Order.executor": "Run",
     "Application.Input_Way.executor": "Run",
+    "Application.Introduction.executor": "Run",
+    "Application.Largest_Number.executor": "Run",
     "Application.Linear_Search.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MaxNumber.executor": "Run",
     "Application.Max_Subarray2.executor": "Run",
     "Application.Merg_sort.executor": "Run",
     "Application.Merge_sort.executor": "Run",
@@ -111,6 +165,7 @@
     "Application.Online_Examination_4.executor": "Run",
     "Application.P_7_first_occurrence.executor": "Run",
     "Application.P_8_last_occurrence.executor": "Run",
+    "Application.Palendrom.executor": "Run",
     "Application.Precties.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.QuickSort.executor": "Run",
@@ -159,14 +214,23 @@
     "Application.R_96_DateandTime.executor": "Run",
     "Application.Read_File.executor": "Run",
     "Application.Read_Write.executor": "Run",
+    "Application.ReverseName.executor": "Run",
+    "Application.ReverseName_Deepaksir.executor": "Run",
+    "Application.ReverseName_use_charAt.executor": "Run",
+    "Application.ReverseName_use_toCharArray.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
+    "Application.Reverse_Name.executor": "Run",
     "Application.Scientefic_cal.executor": "Run",
+    "Application.SecondMaxusingfunction.executor": "Run",
     "Application.SingleInheritance.executor": "Run",
     "Application.SquareNumber.executor": "Run",
     "Application.StringBuilder1.executor": "Run",
     "Application.StringConstructors.executor": "Run",
     "Application.String_Compression.executor": "Run",
+    "Application.SumOf_Even.executor": "Run",
+    "Application.SumforEach.executor": "Run",
     "Application.Super_Class.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
     "Application.Test (1).executor": "Run",
     "Application.Test.executor": "Run",
     "Application.Test2.executor": "Run",
@@ -176,12 +240,20 @@
     "Application.Without_using_Third_Variable_XOR.executor": "Run",
     "Application.WriteFile.executor": "Run",
     "Application.byDeepaksir.executor": "Run",
+    "Application.charAt.executor": "Run",
+    "Application.charAt1.executor": "Run",
+    "Application.characterRead.executor": "Run",
+    "Application.checkPositiveNegativeusingswith.executor": "Run",
+    "Application.checkvowels.executor": "Run",
+    "Application.chekvovels.executor": "Run",
     "Application.collectionSet.executor": "Run",
     "Application.com.interviewQuestion_DSA_Java.Array_3.Array_update.executor": "Run",
     "Application.com.lambdaExpression.Multithreading.ThreadDemo.executor": "Run",
+    "Application.commandLine.executor": "Run",
     "Application.diagonal_sum.executor": "Run",
     "Application.equalto.executor": "Run",
     "Application.factorial_for_loop.executor": "Run",
+    "Application.foEach.executor": "Run",
     "Application.function_Square.executor": "Run",
     "Application.halfPyramidnumber.executor": "Run",
     "Application.increment_and_Decrement.executor": "Run",
@@ -189,10 +261,14 @@
     "Application.longbyte.executor": "Run",
     "Application.prime_number (1).executor": "Run",
     "Application.prime_number.executor": "Run",
+    "Application.square.executor": "Run",
+    "Application.square_cube.executor": "Run",
     "Application.starPattern.executor": "Run",
     "Application.startPattern2.executor": "Run",
     "Application.suString.executor": "Run",
     "Application.sum_of_Digit.executor": "Run",
+    "Application.toCharArray.executor": "Run",
+    "Application.typeCasting.executor": "Run",
     "Application.using_Arithmetic.executor": "Run",
     "Application.using_Array.executor": "Run",
     "Application.xtoPower_n_print.executor": "Run",
@@ -209,7 +285,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "fileTemplates"
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -224,23 +300,23 @@
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Notes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaFile\All Java Program\src\com\Java\Basic\Interview_Datatype_Variable" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Project" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\ImKeyword_Class_Method" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Array_3\Notes" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\String_3\Notes" />
-      <recent name="E:\JavaFile\All Java Program\src\com\Java\Notes" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.interviewQuestion_DSA_Java.Bit_Magic_15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Linear_Search">
-    <configuration name="Conditional_Opr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Basic.Conditional_Opr" />
+  <component name="RunManager" selected="Application.MaxNumber">
+    <configuration name="FindSecondBiggest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Universal.FindSecondBiggest" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Basic.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Universal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,12 +324,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Linear_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.Linear_Search" />
+    <configuration name="Find_BiggestEven_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Universal.Find_BiggestEven_Odd" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Searching_4.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Universal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,12 +337,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R_04_literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Basic.R_04_literals" />
+    <configuration name="MaxNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Basic.Universal.MaxNumber" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Basic.*" />
+          <option name="PATTERN" value="com.Java.Basic.Universal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,12 +350,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R_08_Shift_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Basic.R_08_Shift_Operator" />
+    <configuration name="R1_Max_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Basic.R1_Max_number" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Basic.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,12 +363,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R_7_Bitwise_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Basic.R_7_Bitwise_Operator" />
+    <configuration name="SecondMaxusingfunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Universal.SecondMaxusingfunction" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Basic.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Universal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,11 +378,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Linear_Search" />
-        <item itemvalue="Application.R_08_Shift_Operator" />
-        <item itemvalue="Application.R_7_Bitwise_Operator" />
-        <item itemvalue="Application.Conditional_Opr" />
-        <item itemvalue="Application.R_04_literals" />
+        <item itemvalue="Application.MaxNumber" />
+        <item itemvalue="Application.SecondMaxusingfunction" />
+        <item itemvalue="Application.FindSecondBiggest" />
+        <item itemvalue="Application.R1_Max_number" />
+        <item itemvalue="Application.Find_BiggestEven_Odd" />
       </list>
     </recent_temporary>
   </component>
@@ -490,7 +566,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714225202309</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="CHANGED code position collection array">
+      <option name="closed" value="true" />
+      <created>1714225975315</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1714225975315</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

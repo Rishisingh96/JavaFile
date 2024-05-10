@@ -1,4 +1,4 @@
-package com.interviewQuestion_DSA_Java.String_3.leetCode;
+package com.interviewQuestion_DSA_Java.String_3.leetCode.ReverseName;
 import java.util.Scanner;
 public class reverse_of_number {
     public static void main(String[] args) {

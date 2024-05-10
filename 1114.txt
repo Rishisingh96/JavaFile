@@ -1,0 +1,8 @@
+Account Created
+Account Number: 1114
+USER ID - r: mohit123
+Account Holder Name: Mohit
+PIN4546
+Date: Tue Apr 09 10:06:38 IST 2024
+
+
