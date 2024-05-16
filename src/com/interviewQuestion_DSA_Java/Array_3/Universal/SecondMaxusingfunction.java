@@ -3,8 +3,10 @@ package com.interviewQuestion_DSA_Java.Array_3.Universal;
 public class SecondMaxusingfunction {
     public static void secondMax2(int arr[]){
         int i;
-        int max = arr[0];
-        int s_max = arr[1];
+//        int max = arr[0];
+//        int s_max = arr[1];
+        int max = 0;
+        int s_max =1;
         for(i=1;i< arr.length;i++){
             if(arr[i]>max){
                 s_max = max;
@@ -15,13 +17,13 @@ public class SecondMaxusingfunction {
                 s_max=arr[i];
             }
         }
-        System.out.println("\nBeggest number is : "+ max);
+        System.out.println("\nBiggest number is : "+ max);
         System.out.println("second Biggest number is : "+s_max);
     }
     public static int secondMax(int arr[]){
         int i;
-        int max = arr[0];
-        int s_max = arr[1];
+        int max =0;
+        int s_max = 1;
         for(i=1;i< arr.length;i++){
             if(arr[i]>max){
                 s_max = max;

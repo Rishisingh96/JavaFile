@@ -26,9 +26,9 @@ public class MapExampleCollection {
             System.out.println(value);
             System.out.println();
         });
-        System.out.println("\n+++++++++++++++++++++++++++");
-//entry set
-//key set
+        System.out.println("\n++++++++++++++++++++++++++++++++++++++");
+        //entry set
+        //key set
         System.out.println(courses.get("Core Java"));
 
         System.out.println("\n\n++++++++++++LinkedHasMap+++++++++++++++");

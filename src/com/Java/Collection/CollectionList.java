@@ -19,7 +19,8 @@ public class CollectionList {
         names.add("Vandna");
         names.add("Vandna");
 
-        System.out.println(names);
+        System.out.println(names);  //[Rishi singh, Durgesh sir, Sitara, Roshni, Vandna, Vandna]
+
         //get method
         System.out.println(names.get(0));
         System.out.println(names.get(1));
@@ -49,7 +50,7 @@ public class CollectionList {
         //names.clear();
 
 
-        System.out.println("\n--------------UN TYPE SAFE-------------");
+        System.out.println("\n--------------UN TYPE SAFE-------------");  // No matter datatype
 
         //un type safe
         LinkedList list = new LinkedList();

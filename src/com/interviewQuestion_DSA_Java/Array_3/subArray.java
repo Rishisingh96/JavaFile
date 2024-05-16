@@ -1,3 +1,5 @@
+package com.interviewQuestion_DSA_Java.Array_3;
+
 import java.util.*;
 public class subArray {
     public static void printSubArray(int numbers[]){

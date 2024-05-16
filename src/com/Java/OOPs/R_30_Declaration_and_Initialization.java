@@ -80,20 +80,19 @@ public class R_30_Declaration_and_Initialization {
     int breadth;
 
     // Declare an instance method with parameters l and b of data type int.
-    void perValue(int l, int b)
-    {
+    void perValue(int l, int b) {
 // Here, we are setting the name of parameters different from the name of the variables.
 // Because we are not using this reference.
         length = l;
         breadth = b;
     }
-    void calculate()
-    {
+
+    void calculate() {
         int perimeter = 2 * (length + breadth);
-        System.out.println("Perimeter of rectangle: " +perimeter);
+        System.out.println("Perimeter of rectangle: " + perimeter);
     }
-    public static void main(String[] args)
-    {
+
+    public static void main(String[] args) {
         // Create the first object of class.
         R_30_Declaration_and_Initialization rt = new R_30_Declaration_and_Initialization();
 

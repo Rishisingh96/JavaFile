@@ -1,8 +1,8 @@
 Account Created
 Account Number: 1112
-USER ID - r: gariam123
-Account Holder Name: Gariam singh 
-PIN6000
-Date: Tue Apr 09 10:05:28 IST 2024
+USER ID - r: jaya234
+Account Holder Name: Jaya
+PIN6534
+Date: Tue May 14 12:25:49 IST 2024
 
 

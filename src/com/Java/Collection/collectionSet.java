@@ -17,6 +17,7 @@ public class collectionSet {
 
         //cwh
         HashSet<Integer> myHashSet = new HashSet<>(6,05f);
+        System.out.println(myHashSet);
 
         // we can verify initialcapacity and loadFactor ,
         System.out.println("\n--------------TREESET-------------");
