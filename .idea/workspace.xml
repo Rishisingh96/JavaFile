@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/ArrayOF_Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/Array_or_ObjectInputByuser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/Copy_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/Destructor_Garbage_Collector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/Final_keyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/MyBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/Overloding_AreaorCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/RectangleBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/Static_keyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/Student_Dynamic_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/showAllProperties_Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week2/PersonProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/OOPs/R_32_callbyValueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_32_callbyValueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/OOPs/R_32_methond_Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_32_methond_Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Constructor/Constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Loop/AdditionNnumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Loop/AdditionNnumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week2/Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week2/Constructor_Q9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Test/Time_date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Test/Time_date.java" afterDir="false" />
-    </list>
+    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -642,7 +619,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715837831980</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="CHANGED code position collection array">
+      <option name="closed" value="true" />
+      <created>1716007276710</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1716007276710</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
