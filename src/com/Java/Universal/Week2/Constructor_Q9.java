@@ -1,6 +1,6 @@
 package com.Java.Universal.Week2;
 
-public class Constructor {
+public class Constructor_Q9 {
     public static void main(String[] args) {
 
     }

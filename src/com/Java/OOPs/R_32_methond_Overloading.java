@@ -5,7 +5,7 @@ public class R_32_methond_Overloading {
         System.out.println("Good Morning bro !");
     }
     static void foo(int a){
-        System.out.println("Good morning " + a + "bro!");
+        System.out.println("Good morning " + a + " bro!");
     }
     static void change(int a){    // a is  parameter
         a = 488;

@@ -22,6 +22,6 @@ public class Time_date {
 
         System.out.println("Your Year of Days " + years);
         System.out.println("your Month "+months);
-        System.out.println("your A Day "+remainingDays);
+        System.out.println("your A Day "+days);
     }
 }

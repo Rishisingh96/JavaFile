@@ -29,6 +29,8 @@ public class R_32_callbyValueExample {
             R_32_callbyValueExample  t = new R_32_callbyValueExample ();
             t.modify(t.x);
             System.out.println("Original value of x: " +t.x);
+            t.modify(30);
+            System.out.println(t);
 
         }
 }
