@@ -1,13 +1,13 @@
 package com.Java.Inheritance;
 
-class Phone3
+class Phone
 {
     public void showTime(){
         System.out.println("This is 8 am");
     }
 
     public void on(){
-        System.out.println("Turnig on Phone...");
+        System.out.println("Turning on Phone...");
     }
 
     public void name() {
@@ -15,7 +15,7 @@ class Phone3
     }
 }
 
-class smartPhone extends Phone3
+class smartPhone extends Phone
 {
     public void music(){
         System.out.println("Playing music ... ");
@@ -35,10 +35,13 @@ class  R_49_Dynamic_method
         obj.on();
         smobj.music();*/
 
-        Phone1 obj = new smartPhone2(); // yes it is allowed
+        Phone obj = new Phone(); // yes it is allowed
+        Phone obj3 = new smartPhone(); // yes it is allowed
 //        smartPhone obj2 = new Phone();  //Not allowed
         obj.showTime();
         obj.on();
+        obj3.on();
+        obj3.showTime();
     // obj.music();  // Not allowed
     }
 }

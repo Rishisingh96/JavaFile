@@ -16,6 +16,5 @@ public class ReverseNumber {
         }
         System.out.println("your original number is "+temp);
         System.out.println("Your Reverse number is "+reverse);
-
     }
 }

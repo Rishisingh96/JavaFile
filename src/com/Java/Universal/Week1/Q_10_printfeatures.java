@@ -20,6 +20,5 @@ public class Q_10_printfeatures {
         System.out.println("8. High Performance\t\tJava applications are compiled into bytecode, which is highly optimized for execution.");
         System.out.println("9. Multithreaded\t\t\tJava supports multithreading, allowing multiple tasks to be executed concurrently.");
         System.out.println("10. Distributed\t\t\tJava provides libraries for distributed computing, making it easy to develop network applications.");
-
     }
 }

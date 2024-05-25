@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class EmployHR_DAC_Cal_Q3 {
     public static void main(String[] args) {
-        int basicSalary, HRA, DA, totalSalary;
+        double basicSalary, HRA, DA, totalSalary;
         System.out.println("Enter your Basic Salary:");
         Scanner in = new Scanner(System.in);
         basicSalary = in.nextInt();

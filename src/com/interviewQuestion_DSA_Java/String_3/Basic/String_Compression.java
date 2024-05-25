@@ -1,3 +1,5 @@
+package com.interviewQuestion_DSA_Java.String_3.Basic;
+
 public class String_Compression {
     public static String compress(String str){
         String newStr = "";

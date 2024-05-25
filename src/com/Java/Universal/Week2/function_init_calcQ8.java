@@ -3,8 +3,8 @@ package com.Java.Universal.Week2;
 import java.util.Scanner;
 
 public class function_init_calcQ8 {
-    private int radius;
-    private float area;
+    public int radius;
+    public float area;
 
     // Method to input radius from user
     public void init() {

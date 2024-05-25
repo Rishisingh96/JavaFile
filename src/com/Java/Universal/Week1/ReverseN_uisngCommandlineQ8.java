@@ -1,6 +1,6 @@
 package com.Java.Universal.Week1;
 
-public class Q_8_ReverseN_uisngCommandline {
+public class ReverseN_uisngCommandlineQ8 {
     public static void main(String[] args) {
         
     }
