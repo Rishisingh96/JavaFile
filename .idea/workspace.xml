@@ -5,38 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/Universal/Abstract_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/Universal/Abstract_class2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/Universal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/Universal/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/Universal/Inheritance2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/Universal/Method_Overriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week1/ReverseNamenew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week1/SwapTwoNumberuseBufferR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week2/Lucas_Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week2/PersonConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week2/calculateProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/JavaMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/StreamApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/StreamObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/Waysofcreatset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Inheritance/AcssesInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Inheritance/AreaofRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Inheritance/Nested_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Inheritance/useObjectAreofRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Interface/Interface_firstcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Interface/Multiple_Inheritance_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Interface/interface_Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/lamdaExpresstion/Universal/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/lamdaExpresstion/Universal/AdditionReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/lamdaExpresstion/Universal/AreaofCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/lamdaExpresstion/Universal/NetSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/lamdaExpresstion/Universal/Square_Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/lamdaExpresstion/Universal/lambdaExpression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_49_Dynamic_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance/R_49_Dynamic_method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_49_Dynamic_method2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week1/Q_10_printfeatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week1/Q_10_printfeatures.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week1/Q_8_ReverseN_uisngCommandline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week1/ReverseN_uisngCommandlineQ8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week1/swapusingBufferedReaderwithouther.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week2/Constructor_Q9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week2/EmployHR_DAC_Cal_Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week2/EmployHR_DAC_Cal_Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week2/Lucas_Series_StringQ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week2/Lucas_Series_StringQ5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week2/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week2/ReverseNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week2/SortArrayDescendingO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week2/SortArrayDescendingO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week2/TableQ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week2/TableQ4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week2/function_init_calcQ8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week2/function_init_calcQ8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/StringBuilder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/StringBuilder1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/String_Compression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/String_Compression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/getShortestPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/getShortestPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/largestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/largestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid10380.log" beforeDir="false" afterPath="$PROJECT_DIR$/hs_err_pid10380.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid17692.log" beforeDir="false" afterPath="$PROJECT_DIR$/hs_err_pid17692.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid1816.log" beforeDir="false" afterPath="$PROJECT_DIR$/hs_err_pid1816.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Collection/CollectionBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/CollectionBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Collection/CollectionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/CollectionList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Collection/MapExampleCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/MapExampleCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Collection/R_89_Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/R_89_Collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Collection/R_91_ArrayList_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/R_91_ArrayList_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Collection/R_91_ArrayList_method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/R_91_ArrayList_method2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Collection/R_92_ArrayList_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/R_92_ArrayList_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Collection/Super_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/Super_Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Collection/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Collection/TraversExampleCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/TraversExampleCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Collection/collectionSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/collectionSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/Hierarchical_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Hierarchical_Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/Multi_level_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Multi_level_Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_45_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/R_45_Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_48_Method_Overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/R_48_Method_Overriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_48_super_this.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/R_48_super_this.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_49_Dynamic_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/R_49_Dynamic_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_53_abstract_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/R_53_abstract_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_54_interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/R_54_interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_56_Whynotsuppermultipalinheritence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/R_56_Whynotsuppermultipalinheritence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_57_Default_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/R_57_Default_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_58_Inheritance_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/R_58_Inheritance_Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/R_59_Polymorphism_interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/R_59_Polymorphism_interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/Rishi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Rishi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/SingleInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/SingleInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/Universal/Abstract_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Inheritance/Abstract_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/Universal/Abstract_class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Inheritance/Abstract_class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/Universal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Inheritance/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/Universal/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Inheritance/Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/Universal/Inheritance2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Inheritance/Inheritance2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance/Universal/Method_Overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Inheritance/Method_Overriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/JavaMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/JavaMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,11 +126,13 @@
     "Application.AddNum.executor": "Run",
     "Application.Add_row_JaggedArray.executor": "Run",
     "Application.Addition.executor": "Run",
+    "Application.AdditionReturn.executor": "Run",
     "Application.Animal.executor": "Run",
     "Application.AofRectangle.executor": "Run",
     "Application.AofTriangle.executor": "Run",
     "Application.AreaCircle.executor": "Run",
     "Application.AreaCircumference.executor": "Run",
+    "Application.AreaofCircle.executor": "Run",
     "Application.Armstrong.executor": "Run",
     "Application.Array.executor": "Run",
     "Application.ArrayOF_Object.executor": "Run",
@@ -180,10 +201,15 @@
     "Application.Merg_sort.executor": "Run",
     "Application.Merge_sort.executor": "Run",
     "Application.Multi_level_Inheritance.executor": "Run",
+    "Application.Multiple_Inheritance_Interface (1).executor": "Run",
+    "Application.Multiple_Inheritance_Interface.executor": "Run",
     "Application.MyBike (1).executor": "Run",
     "Application.MyBike.executor": "Run",
     "Application.MyWindow.executor": "Run",
     "Application.N_number_sum.executor": "Run",
+    "Application.NetSalary (1).executor": "Run",
+    "Application.NetSalary (2).executor": "Run",
+    "Application.NetSalary.executor": "Run",
     "Application.NotePad.executor": "Run",
     "Application.Number_guessing_game_2.executor": "Run",
     "Application.OddEven.executor": "Run",
@@ -271,6 +297,7 @@
     "Application.SortArrayDescendingO.executor": "Run",
     "Application.SortArrayWithoutSort.executor": "Run",
     "Application.SquareNumber.executor": "Run",
+    "Application.Square_Cube.executor": "Run",
     "Application.StreamApi.executor": "Run",
     "Application.StreamObject.executor": "Run",
     "Application.StringBuilder1.executor": "Run",
@@ -295,6 +322,7 @@
     "Application.Time_date.executor": "Run",
     "Application.TownshipJaggedArray.executor": "Run",
     "Application.TraversExampleCollection.executor": "Run",
+    "Application.Waysofcreatset.executor": "Run",
     "Application.Without_using_Third_Variable.executor": "Run",
     "Application.Without_using_Third_Variable_XOR.executor": "Run",
     "Application.WriteFile.executor": "Run",
@@ -320,6 +348,7 @@
     "Application.halfPyramidnumber.executor": "Run",
     "Application.increment_and_Decrement.executor": "Run",
     "Application.javaswing11.executor": "Run",
+    "Application.lambdaExpression.executor": "Run",
     "Application.lepYearQ2.executor": "Run",
     "Application.lip_year.executor": "Run",
     "Application.longbyte.executor": "Run",
@@ -351,7 +380,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/JavaFile/All Java Program/src/com/Java/Project",
+    "last_opened_file_path": "E:/JavaFile/All Java Program",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -370,24 +399,24 @@
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Notes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaFile\All Java Program\src\com\Java\Inheritance_Inferface\Universal\Inheritance" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Basic\Universal\Quesiton" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Basic\Interview_Datatype_Variable" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Project" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\ImKeyword_Class_Method" />
-      <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Array_3\Notes" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.Java.Basic.Universal.Week2" />
       <recent name="com.interviewQuestion_DSA_Java.Bit_Magic_15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaMethod">
-    <configuration name="Abstract_class2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Inheritance.Universal.Abstract_class2" />
+  <component name="RunManager" selected="Application.Square_Cube">
+    <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java_8_17_21.lamdaExpresstion.Universal.Addition" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Inheritance.Universal.*" />
+          <option name="PATTERN" value="com.Java_8_17_21.lamdaExpresstion.Universal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -395,12 +424,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java_8_17_21.Stream_API.JavaMethod" />
+    <configuration name="AdditionReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java_8_17_21.lamdaExpresstion.Universal.AdditionReturn" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java_8_17_21.Stream_API.*" />
+          <option name="PATTERN" value="com.Java_8_17_21.lamdaExpresstion.Universal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -408,12 +437,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R_49_Dynamic_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Inheritance.R_49_Dynamic_method" />
+    <configuration name="AreaofCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java_8_17_21.lamdaExpresstion.Universal.AreaofCircle" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Inheritance.*" />
+          <option name="PATTERN" value="com.Java_8_17_21.lamdaExpresstion.Universal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -421,12 +450,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java_8_17_21.Stream_API.StreamApi" />
+    <configuration name="Square_Cube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java_8_17_21.lamdaExpresstion.Universal.Square_Cube" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java_8_17_21.Stream_API.*" />
+          <option name="PATTERN" value="com.Java_8_17_21.lamdaExpresstion.Universal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -434,12 +463,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java_8_17_21.Stream_API.StreamObject" />
+    <configuration name="lambdaExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java_8_17_21.lamdaExpresstion.Universal.lambdaExpression" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java_8_17_21.Stream_API.*" />
+          <option name="PATTERN" value="com.Java_8_17_21.lamdaExpresstion.Universal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -449,11 +478,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaMethod" />
-        <item itemvalue="Application.StreamObject" />
-        <item itemvalue="Application.StreamApi" />
-        <item itemvalue="Application.R_49_Dynamic_method" />
-        <item itemvalue="Application.Abstract_class2" />
+        <item itemvalue="Application.Square_Cube" />
+        <item itemvalue="Application.AreaofCircle" />
+        <item itemvalue="Application.AdditionReturn" />
+        <item itemvalue="Application.lambdaExpression" />
+        <item itemvalue="Application.Addition" />
       </list>
     </recent_temporary>
   </component>

@@ -45,8 +45,20 @@ public class JavaMethod {
         numbers.stream().sorted().forEach(System.out::println);
 
         //minumum
-        Optional<Integer> integer = numbers.stream().min((x, y) -> x.compareTo(y)).get();
-        System.out.println("minimum"+ integer);
+        //olde tech
+//        Optional<Integer> integer = numbers.stream().min((x, y)->x.compareTo(y)).get().describeConstable();
+//        System.out.println("minimum"+ integer);
+
+        // Find the minimum value  new tech
+        Optional<Integer> min = numbers.stream().min(Integer::compareTo);
+
+        // Check if a minimum value is present and print it
+        min.ifPresent(value -> System.out.println("Minimum = " + value));
+
+        Optional<Integer> mx = numbers.stream().max(Integer::compareTo);
+
+        // Check if a minimum value is present and print it
+        mx.ifPresent(value -> System.out.println("Minimum = " + value));
 
     }
 }
