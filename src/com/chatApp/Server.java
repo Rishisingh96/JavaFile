@@ -30,7 +30,7 @@ public class Server {
 
     public static void main(String[] args) {
         System.out.println("This is server..going to start server");
-        new Server();
+        new Serverswing();
     }
 
     public void startReading() {

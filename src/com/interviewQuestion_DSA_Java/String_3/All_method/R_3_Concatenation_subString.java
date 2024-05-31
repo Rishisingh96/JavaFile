@@ -1,4 +1,4 @@
-package com.interviewQuestion_DSA_Java.String_3.Basic.StringMethodall;
+package com.interviewQuestion_DSA_Java.String_3.All_method;
 
 public class R_3_Concatenation_subString {
     public static void main(String[] args) {

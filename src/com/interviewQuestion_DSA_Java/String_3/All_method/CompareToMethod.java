@@ -1,4 +1,4 @@
-package com.interviewQuestion_DSA_Java.String_3.Basic.StringMethodall;
+package com.interviewQuestion_DSA_Java.String_3.All_method;
 
 public class CompareToMethod {
     public static void main(String[] args) {

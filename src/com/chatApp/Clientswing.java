@@ -1,10 +1,10 @@
 package com.chatApp;
 import javax.swing.*;
-import java.awt.*;
-public class ClientFx {
+
+public class Clientswing {
     public JFrame jFramex;
     public JLabel jLabel;
-    public ClientFx(){
+    public Clientswing(){
         jFramex = new JFrame("Client Chat Box");
 
         // JLabel
@@ -27,6 +27,6 @@ public class ClientFx {
 
     }
     public static void main(String[] args){
-    ClientFx js = new ClientFx();
+    Clientswing js = new Clientswing();
     }
 }
