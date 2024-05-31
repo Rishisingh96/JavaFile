@@ -5,36 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_1_TotalTail_floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_2_Average_of_PassedNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_3_MathOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chatApp/ChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chatApp/ChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chatApp/ClientSwinguse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_InterviewQ_1/DataTypefind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/All_method/StringAllMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/All_method/indexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/All_method/split_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/Data_Type_find.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/Palendrom2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/usingConstantSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/usingSlicingMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/Word_Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/sortName/SortLongName2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/sortName/Sort_Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/sortName/Sort_Name_me.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/sortName/sort_long_Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_05_StudentRoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_06_AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_0_TotalTail_floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_4_OneBHK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week4/R_2_SumofInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chatApp/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chatApp/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chatApp/ClientFx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chatApp/Clientswing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chatApp/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chatApp/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chatApp/ServerFx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chatApp/Serverswing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/All_method/toCharArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/All_method/toCharArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/StringMethodall/Camparetion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/All_method/Camparetion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/StringMethodall/CompareToMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/All_method/CompareToMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/StringMethodall/R_3_Concatenation_subString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/All_method/R_3_Concatenation_subString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName_Deepaksir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName_Deepaksir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_1_TotalTail_floor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_1_TotalTail_floor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_2_Average_of_PassedNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_2_Average_of_PassedNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_3_MathOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_3_MathOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/sortName/sort_long_Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/sortName/sort_long_Name.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,15 +196,37 @@
     "Application.QuickSort.executor": "Run",
     "Application.R1_Max_number.executor": "Run",
     "Application.R_04_literals.executor": "Run",
+    "Application.R_05_StudentRoll (1).executor": "Run",
+    "Application.R_05_StudentRoll (2).executor": "Run",
+    "Application.R_05_StudentRoll.executor": "Run",
+    "Application.R_06_AbstractClass (1).executor": "Run",
+    "Application.R_06_AbstractClass (2).executor": "Run",
+    "Application.R_06_AbstractClass.executor": "Run",
     "Application.R_08_Shift_Operator.executor": "Run",
+    "Application.R_0_TotalTail_floor (1).executor": "Run",
+    "Application.R_0_TotalTail_floor.executor": "Run",
     "Application.R_12_Strings.executor": "Run",
     "Application.R_13_string.executor": "Run",
     "Application.R_14_String_methods.executor": "Run",
+    "Application.R_1_TotalTail_floor (1).executor": "Run",
+    "Application.R_1_TotalTail_floor (2).executor": "Run",
+    "Application.R_1_TotalTail_floor (3).executor": "Run",
     "Application.R_1_TotalTail_floor.executor": "Run",
+    "Application.R_2_Average_of_PassedNumber (1).executor": "Run",
+    "Application.R_2_Average_of_PassedNumber (2).executor": "Run",
+    "Application.R_2_Average_of_PassedNumber (3).executor": "Run",
+    "Application.R_2_Average_of_PassedNumber (4).executor": "Run",
+    "Application.R_2_Average_of_PassedNumber (5).executor": "Run",
+    "Application.R_2_Average_of_PassedNumber.executor": "Run",
+    "Application.R_2_SumofInteger.executor": "Run",
     "Application.R_32_callbyValueExample.executor": "Run",
     "Application.R_32_methond_Overloading.executor": "Run",
     "Application.R_33_Variable_Argument_varArgs.executor": "Run",
     "Application.R_3_Concatenation_subString.executor": "Run",
+    "Application.R_3_MathOperation (1).executor": "Run",
+    "Application.R_3_MathOperation (2).executor": "Run",
+    "Application.R_3_MathOperation (3).executor": "Run",
+    "Application.R_3_MathOperation.executor": "Run",
     "Application.R_45_Inheritance.executor": "Run",
     "Application.R_47_super_this.executor": "Run",
     "Application.R_48_Method_Overriding.executor": "Run",
@@ -232,6 +234,12 @@
     "Application.R_48_super_this.executor": "Run",
     "Application.R_49_Dynamic_method.executor": "Run",
     "Application.R_49_Dynamic_method2.executor": "Run",
+    "Application.R_4_OneBHK (1).executor": "Run",
+    "Application.R_4_OneBHK (2).executor": "Run",
+    "Application.R_4_OneBHK (3).executor": "Run",
+    "Application.R_4_OneBHK (4).executor": "Run",
+    "Application.R_4_OneBHK (5).executor": "Run",
+    "Application.R_4_OneBHK.executor": "Run",
     "Application.R_4_Unary_Operator.executor": "Run",
     "Application.R_53_abstract_class.executor": "Run",
     "Application.R_54_interface.executor": "Run",
@@ -412,9 +420,9 @@
       <recent name="com.interviewQuestion_DSA_Java.Bit_Magic_15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.R_1_TotalTail_floor">
-    <configuration name="R_1_TotalTail_floor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week3.R_1_TotalTail_floor" />
+  <component name="RunManager" selected="Application.R_2_SumofInteger">
+    <configuration name="R_05_StudentRoll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week3.R_05_StudentRoll" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -426,12 +434,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortLongName2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.String_3.leetCode.sortName.SortLongName2" />
+    <configuration name="R_06_AbstractClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week3.R_06_AbstractClass" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.String_3.leetCode.sortName.*" />
+          <option name="PATTERN" value="com.Java.Universal.Week3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -439,12 +447,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort_long_name2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.String_3.leetCode.sortName.Sort_long_name2" />
+    <configuration name="R_06_AbstractClass (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week3.R_06_AbstractClass" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.String_3.leetCode.sortName.*" />
+          <option name="PATTERN" value="com.Java.Universal.Week3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -452,12 +460,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilder1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.String_3.Basic.StringBuilder1" />
+    <configuration name="R_06_AbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week3.R_06_AbstractClass" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.String_3.Basic.*" />
+          <option name="PATTERN" value="com.Java.Universal.Week3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -465,12 +473,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="suString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.String_3.Basic.suString" />
+    <configuration name="R_2_SumofInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week4.R_2_SumofInteger" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.String_3.Basic.*" />
+          <option name="PATTERN" value="com.Java.Universal.Week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -480,11 +488,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.R_1_TotalTail_floor" />
-        <item itemvalue="Application.SortLongName2" />
-        <item itemvalue="Application.Sort_long_name2" />
-        <item itemvalue="Application.suString" />
-        <item itemvalue="Application.StringBuilder1" />
+        <item itemvalue="Application.R_2_SumofInteger" />
+        <item itemvalue="Application.R_06_AbstractClass" />
+        <item itemvalue="Application.R_06_AbstractClass (2)" />
+        <item itemvalue="Application.R_06_AbstractClass (1)" />
+        <item itemvalue="Application.R_05_StudentRoll" />
       </list>
     </recent_temporary>
   </component>
@@ -724,7 +732,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716952027628</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="CHANGED code position collection array">
+      <option name="closed" value="true" />
+      <created>1717125162907</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1717125162907</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
