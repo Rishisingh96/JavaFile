@@ -35,7 +35,7 @@ class Factorial extends Processor {
 class Circle extends Processor {
 
     public Circle(int radius) {
-        super(radius);
+        super(radius);  //// Call to Processor's constructor
     }
 
     @Override

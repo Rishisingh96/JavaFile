@@ -19,7 +19,7 @@ public class lambdaExpression {
         // obj.p1();
 
         // using lambda expression
-        intern obj = () -> System.out.println("lamda expression");
+        intern obj = () -> System.out.println("lambda expression");
         obj.p1();
     }
 }

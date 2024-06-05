@@ -2,8 +2,17 @@ package com.interviewQuestion_DSA_Java.Mathmatical_Basic_InterviewQ_1.SwappingWa
 
 public class using_temp_variable {
 
-    public static void swap_usingThird(int a,int b){
-
+    public static void swap_usingThird(int x,int y){
+// Declare a temporary variable
+        int temp;;
+        // Assign the value of x to temp
+        temp = x;
+        // Assign the value of y to x
+        x = y;
+        // Assign the value of temp to y
+        y = temp;
+        // Printing the swapped values
+        System.out.println("After Swapping: x = " + x + ", y = " + y);
     }
     public static void main(String[] args) {
         int a = 10, b = 5;

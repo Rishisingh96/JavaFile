@@ -17,6 +17,6 @@ public class R_2_SumofInteger {
             sum = sum + sumvalue;
             // System.out.println(stringcode);
         }
-        System.out.println(sum);
+        System.out.println("Sum of String = " + sum);
     }
 }

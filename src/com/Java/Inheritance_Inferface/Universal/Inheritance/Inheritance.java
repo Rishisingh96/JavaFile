@@ -5,7 +5,7 @@ class Person{
     int age;
     String name;
 }
-class Student extends Person{
+class Student extends Person {
     int rollno;
 }
 public class Inheritance {

@@ -1,8 +1,8 @@
 Account Created
 Account Number: 1113
-USER ID - r: ruanak123
-Account Holder Name: Raunak singh
-PIN3456
-Date: Tue Apr 09 10:05:58 IST 2024
+USER ID - r: ranjeet345
+Account Holder Name: Ranjeet singh
+PIN6532
+Date: Sun Jun 02 20:02:26 IST 2024
 
 

@@ -44,8 +44,8 @@ public class JavaMethod {
         //sort
         numbers.stream().sorted().forEach(System.out::println);
 
-        //minumum
-        //olde tech
+        //minimum
+        //old tech
 //        Optional<Integer> integer = numbers.stream().min((x, y)->x.compareTo(y)).get().describeConstable();
 //        System.out.println("minimum"+ integer);
 

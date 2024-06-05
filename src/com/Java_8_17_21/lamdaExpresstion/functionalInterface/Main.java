@@ -26,13 +26,13 @@ public class Main {
         i2.sayHello();
 */
         // 3-> Lambda Expression
-  /*      MyInter j  = () -> {
+        MyInter j  = () -> {
             System.out.println("3rd way to creating a interfaces using Lambda Expression ");
         };
         j.sayHello();
 
         MyInter j2 =() -> System.out.println("3rd way to creating a interfaces using Lambda Expression .when print value is signal than we write one line ");
-        j.sayHello();*/
+        j2.sayHello();
 
 //        sumInter sumInter = Integer::sum;
        /* sumInter sumInter = (int a, int b) ->{
@@ -42,16 +42,16 @@ public class Main {
         System.out.println(sumInter.sum(2,7));
         }*/
 
-  /*  sumInter sumInter = (a,  b) ->{
+    sumInter sumInter = (a,  b) ->{
         return a+b;
     };
         System.out.println(sumInter.sum1(1,6));
         System.out.println(sumInter.sum1(2,7));
-    }*/
-        LengthInter lengthInter = str -> str.length();
+   // }
+       // LengthInter lengthInter = str -> str.length();
 //        LengthInter  lengthInter = (str -> str.length())
 
-        System.out.println(lengthInter.getLength("Rishi singh"));
+       // System.out.println(lengthInter.getLength("Rishi singh"));
     }
 
 }

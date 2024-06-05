@@ -22,7 +22,7 @@ public class Number_guessing_game_2 {
                 int attempts = 0;
 
                 //System.out.printf("Round %d : Guess the number between %d and %d attemps.\n",i,MIN_RANGE + MAX_ATTEMPTS);
-                System.out.printf("Round %d : Guess the number between %d and %d attemps.\n", i, MIN_RANGE, MIN_RANGE + MAX_ATTEMPTS);
+                System.out.printf("Round %d : Guess the number between %d and %d attempts.\n", i, MIN_RANGE, MIN_RANGE + MAX_ATTEMPTS);
 
                 while(attempts < MAX_ATTEMPTS) {
                     System.out.println("Enter your guess : ");

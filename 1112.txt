@@ -1,8 +1,8 @@
 Account Created
 Account Number: 1112
-USER ID - r: jaya234
-Account Holder Name: Jaya
-PIN6534
-Date: Tue May 14 12:25:49 IST 2024
+USER ID - r: suman234
+Account Holder Name: Suman singh
+PIN4532
+Date: Sun Jun 02 20:01:55 IST 2024
 
 
