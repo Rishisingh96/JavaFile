@@ -1,0 +1,41 @@
+1. What is an object in Java?
+Ans: An object in Java is any real-world thing that has properties and actions. In other words, an entity that has state, behavior, and identity is known as object.
+Object is a collection of data members and the associated member functions.
+Ex - class student_info  ->
+Private:
+	Char name;
+	Int age;
+	Char address;                                  
+	Char course;
+Private:
+	Void getdata();
+	Void displaydata();
+	Void marks();
+
+2. What are the characteristics of an object in Java?
+Ans: An object has three characteristics that are as follows:
+a) State: It represents the properties of an object. It is represented by instance variable/attribute of an object.
+b) Behaviour: It represents functionality or actions. It is represented by methods/functions in Java.
+c) Identity: It represents the unique name of an object. It differentiates one object from the other. The unique name of an object is used to identify the object.
+
+3. What is a class in Java?
+Ans:  A class is a user-defined data type that acts as a template for creating objects of the identical type. It represents the common properties and actions (functions) of an object.
+Class is blueprint of object's.
+
+4. Why do we need a class in Java?
+Ans: We need a class for packing together a group of logical related data items (fields) and methods (functions) that work on them.
+
+5. What is an attribute?
+Ans: A variable that is defined in a class is called attribute.
+
+6. What is instantiating of an object?
+Ans: The process of creating an object of a particular class is called instantiating of an object.
+
+7. Why is an object called an instance of a class?
+Ans: An object is called an instance of a class because every object created from a class gets its own instances of variables defined inside a class. Multiple objects can be constructed from the same class.
+
+8. Is a class a data type in Java?
+Ans: Yes, a class is also considered a user-defined data type because a user defines a class.
+
+9. Can a class represent an object?
+Ans: No, a class never represents an object. It represents data and actions that an object will have.
