@@ -5,49 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/answer_user_1111.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/answers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/ATM_machine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/Exception_Handling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/FailException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/InvalidAegException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/MultiException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/NullPointerEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/NumberformatEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/Throw_throws.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Inheritance/toString_code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Project/Online_Examination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Topic/InstanceOfExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Topic/super_method_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week4/R_3_tex_sell_interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week4/R_4_Calculate_choice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week4/R_5_StringJoiner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week4/R_6_Default_static_interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week4/R_7_VowelsCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Basic/Minimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Basic/usingForEachMaxnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/All_method/toString_code.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1111.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1111.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1112.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1112.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1113.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1113.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1114.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1114.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Inheritance/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Universal/Inheritance/Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Project/ATM_Interface_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Project/ATM_Interface_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Project/Number_guessing_game_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Project/Number_guessing_game_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Project/Online_Examination_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Project/Online_Examination_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_06_AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_06_AbstractClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_3_MathOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week3/R_3_MathOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week4/R_2_SumofInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week4/R_2_SumofInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week4/SturctureCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week4/SturctureCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/JavaMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/JavaMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java_8_17_21/lamdaExpresstion/Universal/lambdaExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/lamdaExpresstion/Universal/lambdaExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java_8_17_21/lamdaExpresstion/functionalInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/lamdaExpresstion/functionalInterface/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Universal/firstCodeofArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Universal/firstCodeofArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_InterviewQ_1/SwappingWay/using_temp_variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Mathmatical_Basic_InterviewQ_1/SwappingWay/using_temp_variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/RishiCode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -463,7 +421,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Rebasing master",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "F:/Java-JSP-Servlet-Program/NoteTaker",
@@ -498,20 +456,7 @@
       <recent name="com.interviewQuestion_DSA_Java.Bit_Magic_15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.R_06_AbstractClass">
-    <configuration name="JavaMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java_8_17_21.Stream_API.JavaMethod" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Java_8_17_21.Stream_API.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RishiCode">
     <configuration name="R_05_StudentRoll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week3.R_05_StudentRoll" />
       <module name="All Java Program" />
@@ -531,6 +476,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Java.Universal.Week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RishiCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java_8_17_21.RishiCode" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Java_8_17_21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -566,11 +524,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RishiCode" />
         <item itemvalue="Application.R_06_AbstractClass" />
         <item itemvalue="Application.R_05_StudentRoll" />
         <item itemvalue="Application.Student" />
         <item itemvalue="Application.Throw_throws" />
-        <item itemvalue="Application.JavaMethod" />
       </list>
     </recent_temporary>
   </component>
