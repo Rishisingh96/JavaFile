@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/RishiCode.java" afterDir="false" />
-    </list>
+    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -308,6 +306,7 @@
     "Application.ReverseNamenew.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
     "Application.Reverse_Name.executor": "Run",
+    "Application.RishiCode.executor": "Run",
     "Application.Scientefic_cal.executor": "Run",
     "Application.SecondMaxusingfunction.executor": "Run",
     "Application.Server.executor": "Run",
