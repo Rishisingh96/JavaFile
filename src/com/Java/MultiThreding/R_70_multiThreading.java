@@ -7,7 +7,7 @@ class Thread3 extends Thread {
         int i=0;
         int count = 0;
         while(i<500){
-            System.out.println("My Coodking Thread is Running."+count);
+            System.out.println(STR."My Coodking Thread is Running.\{count}");
             System.out.println(" I am happy!");
             i  = i+1;
             count++;

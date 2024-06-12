@@ -10,7 +10,7 @@ public class DaemonThread extends Thread
         // Checking whether the thread is Daemon or not
         if(Thread.currentThread().isDaemon())
         {
-            System.out.println(getName() + " is Daemon thread");
+            System.out.println(STR."\{getName()} is Daemon thread");
         }
         else
         {
