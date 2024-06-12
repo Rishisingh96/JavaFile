@@ -1,0 +1,6 @@
+This is some sample text for StringWriter.
+What is Compile time polymorphism (Static polymorphism)?
+A polymorphism where object binding with methods happens at compile time is called static polymorphism or compile-time polymorphism.
+In static polymorphism, the behavior of the method is decided at compile-time based on the parameters or arguments of the method.
+How to achieve or implement static polymorphism in Java?
+Static polymorphism can be achieved by method overloading. Other examples of compile time polymorphism are constructor overloading and method hiding.

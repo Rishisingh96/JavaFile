@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/Universal/FileHandling/BufferedWriterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/Universal/FileHandling/upper_lower_useBufferWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Universal/CheckThreadSafeStringWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Universal/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Universal/StringBufferThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Universal/String_Thread_Lower_upper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Universal/Ticket_Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Universal/TwoString_save_file.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/DaemonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/DaemonThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_70_multiThreading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_70_multiThreading.java" afterDir="false" />
-    </list>
+    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -876,7 +864,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717556754858</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="CHANGED code position collection array">
+      <option name="closed" value="true" />
+      <created>1718199240674</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1718199240675</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
