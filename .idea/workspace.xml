@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/easycode/codebase-v2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/FindNumberofOccurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/Question/boxedInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/Question/countString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/Question/first.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/Question/rangeClosed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/RemoveDuplicateValuefromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Swing/Universal/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Super_This_KeywordEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Swing/Universal/Login1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Swing/Universal/LoginProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Swing/Universal/LoginSingupProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Swing/Universal/LoginuseFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Swing/Universal/MyLogin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/AppletCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AppletCode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Swing/Universal/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Swing/Universal/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +166,12 @@
     "Application.Largest_Number.executor": "Run",
     "Application.Linear_Search.executor": "Run",
     "Application.Login.executor": "Run",
+    "Application.Login1.executor": "Run",
+    "Application.LoginProject (1).executor": "Run",
+    "Application.LoginProject (2).executor": "Run",
+    "Application.LoginProject (3).executor": "Run",
+    "Application.LoginProject (4).executor": "Run",
+    "Application.LoginProject.executor": "Run",
     "Application.Lucas_Series.executor": "Run",
     "Application.Lucas_Series_StringQ5.executor": "Run",
     "Application.MDArray_forEach.executor": "Run",
@@ -187,6 +191,8 @@
     "Application.Multiple_Inheritance_Interface.executor": "Run",
     "Application.MyBike (1).executor": "Run",
     "Application.MyBike.executor": "Run",
+    "Application.MyLogin (1).executor": "Run",
+    "Application.MyLogin.executor": "Run",
     "Application.MyWindow.executor": "Run",
     "Application.N_number_sum.executor": "Run",
     "Application.NetSalary (1).executor": "Run",
@@ -370,6 +376,7 @@
     "Application.SumOf_Even.executor": "Run",
     "Application.SumforEach.executor": "Run",
     "Application.Super_Class.executor": "Run",
+    "Application.Super_This_KeywordEx.executor": "Run",
     "Application.SwapTwoNumberuseBufferR.executor": "Run",
     "Application.SwapusingBufferdReader.executor": "Run",
     "Application.SwitchCase.executor": "Run",
@@ -500,35 +507,9 @@
       <recent name="com.interviewQuestion_DSA_Java.Bit_Magic_15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Login">
-    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chatApp.ChatServer" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chatApp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Clientswing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chatApp.Clientswing" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chatApp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Swing.Universal.Login" />
+  <component name="RunManager" selected="Application.LoginProject (1)">
+    <configuration name="LoginProject (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Swing.Universal.LoginProject" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -540,12 +521,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Serverswing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chatApp.Serverswing" />
+    <configuration name="LoginProject (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Swing.Universal.LoginProject" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chatApp.*" />
+          <option name="PATTERN" value="com.Swing.Universal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -553,12 +534,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaswing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Swing.javaswing" />
+    <configuration name="LoginProject (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Swing.Universal.LoginProject" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Swing.*" />
+          <option name="PATTERN" value="com.Swing.Universal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Swing.Universal.LoginProject" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Swing.Universal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Super_This_KeywordEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Inheritance_Inferface.Super_This_KeywordEx" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Java.Inheritance_Inferface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -568,11 +575,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Login" />
-        <item itemvalue="Application.javaswing" />
-        <item itemvalue="Application.ChatServer" />
-        <item itemvalue="Application.Serverswing" />
-        <item itemvalue="Application.Clientswing" />
+        <item itemvalue="Application.LoginProject (1)" />
+        <item itemvalue="Application.LoginProject" />
+        <item itemvalue="Application.LoginProject (4)" />
+        <item itemvalue="Application.Super_This_KeywordEx" />
+        <item itemvalue="Application.LoginProject (3)" />
       </list>
     </recent_temporary>
   </component>

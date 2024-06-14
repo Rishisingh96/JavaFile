@@ -2,13 +2,81 @@ package com.Swing.Universal;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
 
-public class Login {
-    public JFrame jFrame = new JFrame("Registration Form");
-    void RegistrationForm() {
+class LoginF {
+    private JFrame jFrame = new JFrame("Login Form");
 
+    public LoginF() {
+        JLabel emailLabel = new JLabel("Email: ");
+        emailLabel.setBounds(50, 200, 60, 20);
+        jFrame.add(emailLabel);
+
+        JTextField emailField = new JTextField();
+        emailField.setBounds(120, 200, 200, 20);
+        jFrame.add(emailField);
+
+        JLabel passwordLabel = new JLabel("Password: ");
+        passwordLabel.setBounds(50, 250, 80, 20);
+        jFrame.add(passwordLabel);
+
+        JPasswordField passwordField = new JPasswordField();
+        passwordField.setBounds(150, 250, 170, 20);
+        jFrame.add(passwordField);
+
+        JButton loginButton = new JButton("Login");
+        loginButton.setBounds(120, 390, 100, 30);
+        jFrame.add(loginButton);
+
+        JButton signupButton = new JButton("Sign Up");
+        signupButton.setBounds(250, 390, 100, 30);
+        jFrame.add(signupButton);
+
+        // form validation
+        loginButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                String email = emailField.getText();
+                String password = new String(passwordField.getPassword());
+
+                if (email.isEmpty() || password.isEmpty()) {
+                    JOptionPane.showMessageDialog(jFrame, "Please fill in all the fields", "Error", JOptionPane.ERROR_MESSAGE);
+                } else {
+                    // Add more detailed validation if needed
+                    if (!email.matches("^[A-Za-z0-9+_.-]+@(.+)$")) {
+                        JOptionPane.showMessageDialog(jFrame, "Please enter a valid email address", "Error", JOptionPane.ERROR_MESSAGE);
+                    } else if (password.matches("Rishi@9838")) {
+                        JOptionPane.showMessageDialog(jFrame, "Please enter a valid correct password", "Error", JOptionPane.ERROR_MESSAGE);
+                    } else {
+                        JOptionPane.showMessageDialog(jFrame, "Login Successful", "Success", JOptionPane.INFORMATION_MESSAGE);
+                    }
+                }
+            }
+        });
+
+        jFrame.setLayout(null);
+        jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        signupButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                jFrame.dispose();
+                new SingUP();
+            }
+        });
+
+        // For Window
+        jFrame.setSize(400, 600);
+        jFrame.setVisible(true);
+    }
+}
+
+class SingUP {
+    private JFrame jFrame = new JFrame("Sign Up");
+
+    public SingUP() {
         JLabel nameLabel = new JLabel("Name: ");
         nameLabel.setBounds(50, 50, 60, 20);
         jFrame.add(nameLabel);
@@ -66,11 +134,11 @@ public class Login {
         genderGroup.add(femaleRadioButton);
 
         JLabel jLabel = new JLabel("Choose Course:");
-        jLabel.setBounds(50,345,110,30);
+        jLabel.setBounds(50, 345, 110, 30);
         jFrame.add(jLabel);
 
         Choice ls = new Choice();
-        ls.setBounds(170,350,110,30);
+        ls.setBounds(170, 350, 110, 30);
         ls.add("Select");
         ls.add("MCA");
         ls.add("BCA");
@@ -78,13 +146,14 @@ public class Login {
         ls.add("M.Tec");
         ls.add("MSC");
         jFrame.add(ls);
+
+        JButton signupButton = new JButton("Register");
+        signupButton.setBounds(250, 390, 100, 30);
+        jFrame.add(signupButton);
+
         JButton loginButton = new JButton("Login");
         loginButton.setBounds(120, 390, 100, 30);
         jFrame.add(loginButton);
-
-        JButton signupButton = new JButton("Sign Up");
-        signupButton.setBounds(250, 390, 100, 30);
-        jFrame.add(signupButton);
 
         ls.addItemListener(new ItemListener() {
             @Override
@@ -121,20 +190,29 @@ public class Login {
                         JOptionPane.showMessageDialog(jFrame, "Please enter a valid age", "Error", JOptionPane.ERROR_MESSAGE);
                     } else {
                         JOptionPane.showMessageDialog(jFrame, "Registration Successful", "Success", JOptionPane.INFORMATION_MESSAGE);
+                        jFrame.dispose();
+                        new LoginF();
                     }
                 }
             }
         });
-        //For Window
+
         jFrame.setSize(400, 600);
         jFrame.setLayout(null);
         jFrame.setVisible(true);
-        jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
+        loginButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                jFrame.dispose();
+                new LoginF();
+            }
+        });
     }
+}
 
+public class LoginProject {
     public static void main(String[] args) {
-        Login login = new Login();
-        login.RegistrationForm();
+        new LoginF();  // Start with the login form
     }
 }
