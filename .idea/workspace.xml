@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="" />
+    <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/easycode/codebase-v2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/FindNumberofOccurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/Question/boxedInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/Question/countString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/Question/first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/Question/rangeClosed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/RemoveDuplicateValuefromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Swing/Universal/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AppletCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AppletCode/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,6 +114,7 @@
     "Application.Client.executor": "Run",
     "Application.ClientFx.executor": "Run",
     "Application.ClientSwinguse.executor": "Run",
+    "Application.Clientswing.executor": "Run",
     "Application.CollectionList.executor": "Run",
     "Application.Company.executor": "Run",
     "Application.Compare.executor": "Run",
@@ -140,6 +152,7 @@
     "Application.File_Deletion.executor": "Run",
     "Application.FinalKeyWord.executor": "Run",
     "Application.FindEveninArray.executor": "Run",
+    "Application.FindNumberofOccurence.executor": "Run",
     "Application.FindSecondBiggest.executor": "Run",
     "Application.Find_BiggestEven_Odd.executor": "Run",
     "Application.Hello.executor": "Run",
@@ -154,6 +167,7 @@
     "Application.JavaMethod.executor": "Run",
     "Application.Largest_Number.executor": "Run",
     "Application.Linear_Search.executor": "Run",
+    "Application.Login.executor": "Run",
     "Application.Lucas_Series.executor": "Run",
     "Application.Lucas_Series_StringQ5.executor": "Run",
     "Application.MDArray_forEach.executor": "Run",
@@ -216,6 +230,8 @@
     "Application.R_12_Strings.executor": "Run",
     "Application.R_13_string.executor": "Run",
     "Application.R_14_String_methods.executor": "Run",
+    "Application.R_1_By_Inheritance.executor": "Run",
+    "Application.R_1_First.executor": "Run",
     "Application.R_1_TotalTail_floor (1).executor": "Run",
     "Application.R_1_TotalTail_floor (2).executor": "Run",
     "Application.R_1_TotalTail_floor (3).executor": "Run",
@@ -309,6 +325,7 @@
     "Application.Rectangle (2).executor": "Run",
     "Application.Rectangle.executor": "Run",
     "Application.RectangleBox.executor": "Run",
+    "Application.RemoveDuplicateValuefromArray.executor": "Run",
     "Application.ReverseName.executor": "Run",
     "Application.ReverseName_Deepaksir.executor": "Run",
     "Application.ReverseName_use_charAt.executor": "Run",
@@ -373,6 +390,7 @@
     "Application.Word_Count.executor": "Run",
     "Application.WriteFile.executor": "Run",
     "Application.XYZ.executor": "Run",
+    "Application.boxedInteger.executor": "Run",
     "Application.byDeepaksir.executor": "Run",
     "Application.charAt.executor": "Run",
     "Application.charAt1.executor": "Run",
@@ -389,9 +407,11 @@
     "Application.com.interviewQuestion_DSA_Java.Array_3.Array_update.executor": "Run",
     "Application.com.lambdaExpression.Multithreading.ThreadDemo.executor": "Run",
     "Application.commandLine.executor": "Run",
+    "Application.countString.executor": "Run",
     "Application.diagonal_sum.executor": "Run",
     "Application.equalto.executor": "Run",
     "Application.factorial_for_loop.executor": "Run",
+    "Application.first.executor": "Run",
     "Application.foEach.executor": "Run",
     "Application.function_Square.executor": "Run",
     "Application.function_init_calcQ8.executor": "Run",
@@ -399,7 +419,10 @@
     "Application.halfPyramidnumber.executor": "Run",
     "Application.increment_and_Decrement.executor": "Run",
     "Application.indexOf.executor": "Run",
+    "Application.javaswing.executor": "Run",
     "Application.javaswing11.executor": "Run",
+    "Application.javaswing8Tabel.executor": "Run",
+    "Application.javaswing9.executor": "Run",
     "Application.lambdaExpression.executor": "Run",
     "Application.leetcodeQ1.executor": "Run",
     "Application.lepYearQ2.executor": "Run",
@@ -407,6 +430,7 @@
     "Application.longbyte.executor": "Run",
     "Application.prime_number (1).executor": "Run",
     "Application.prime_number.executor": "Run",
+    "Application.rangeClosed.executor": "Run",
     "Application.secondCode.executor": "Run",
     "Application.showYear_month_Day.executor": "Run",
     "Application.sortName.executor": "Run",
@@ -476,13 +500,13 @@
       <recent name="com.interviewQuestion_DSA_Java.Bit_Magic_15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringBufferThreadSafe (1)">
-    <configuration name="CheckThreadSafeStringWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Universal.CheckThreadSafeStringWriter" />
+  <component name="RunManager" selected="Application.Login">
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chatApp.ChatServer" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.MultiThreding.Universal.*" />
+          <option name="PATTERN" value="com.chatApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -490,12 +514,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileHandlerThread (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Universal.FileHandlerThread" />
+    <configuration name="Clientswing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chatApp.Clientswing" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.MultiThreding.Universal.*" />
+          <option name="PATTERN" value="com.chatApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -503,12 +527,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileHandlerThread (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Universal.FileHandlerThread" />
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Swing.Universal.Login" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.MultiThreding.Universal.*" />
+          <option name="PATTERN" value="com.Swing.Universal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -516,12 +540,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBufferThreadSafe (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Universal.StringBufferThreadSafe" />
+    <configuration name="Serverswing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chatApp.Serverswing" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.MultiThreding.Universal.*" />
+          <option name="PATTERN" value="com.chatApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -529,64 +553,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBufferThreadSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Universal.StringBufferThreadSafe" />
+    <configuration name="javaswing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Swing.javaswing" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.MultiThreding.Universal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="check_ThreadSafe_StringBuffer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Universal.check_ThreadSafe_StringBuffer" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Java.MultiThreding.Universal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="check_ThreadSafe_StringBuffer (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Universal.check_ThreadSafe_StringBuffer" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Java.MultiThreding.Universal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="check_ThreadSafe_StringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Universal.check_ThreadSafe_StringBuffer" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Java.MultiThreding.Universal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="check_ThreadSafe_StringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Universal.check_ThreadSafe_StringBuffer" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Java.MultiThreding.Universal.*" />
+          <option name="PATTERN" value="com.Swing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -596,11 +568,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringBufferThreadSafe (1)" />
-        <item itemvalue="Application.StringBufferThreadSafe" />
-        <item itemvalue="Application.CheckThreadSafeStringWriter" />
-        <item itemvalue="Application.check_ThreadSafe_StringBuffer (3)" />
-        <item itemvalue="Application.check_ThreadSafe_StringBuffer (2)" />
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.javaswing" />
+        <item itemvalue="Application.ChatServer" />
+        <item itemvalue="Application.Serverswing" />
+        <item itemvalue="Application.Clientswing" />
       </list>
     </recent_temporary>
   </component>
