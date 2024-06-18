@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.Swing.Universal;
+=======
+package Swing;
+>>>>>>> 9322992895471427837d2f2f2d548303e2dc0e33
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

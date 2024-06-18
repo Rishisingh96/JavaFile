@@ -1,4 +1,4 @@
-package com.Swing.Universal;
+package Swing;
 
 import javax.swing.*;
 import java.awt.*;

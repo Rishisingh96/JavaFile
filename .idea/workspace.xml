@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Swing/Universal/ActionLiP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Swing/Universal/ActionListenerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Swing/Universal/ActionListenerP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Swing/Universal/ProductSell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Swing/Universal/ProductSellBound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Swing/Universal/ActionListenerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Swing/Universal/ActionListenerExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Swing/Universal/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Swing/Universal/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Swing/Universal/LoginProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Swing/Universal/LoginProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Swing/Universal/ProductSell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Swing/Universal/ProductSell.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -495,7 +492,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging master",
     "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",

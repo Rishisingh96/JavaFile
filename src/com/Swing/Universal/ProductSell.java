@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.Swing.Universal;
 
 import javax.swing.*;
@@ -105,4 +106,15 @@ public class ProductSell {
         Product1 product = new Product1();
         product.setVisible(true);
     }
+=======
+package Swing;
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+class Product{
+	
+}
+public class ProductSell {
+
+>>>>>>> 9322992895471427837d2f2f2d548303e2dc0e33
 }
