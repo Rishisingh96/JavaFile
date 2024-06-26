@@ -2,7 +2,8 @@ package com.Java.Exception_Handling.Universal;
 
 public class NumberformatEx {
     public static void main(String[] args) {
-        String string = "60";
+//        String string = "60.0";
+        String string = "600";
         int result;
         try {
             result = Integer.parseInt(string) * 2;

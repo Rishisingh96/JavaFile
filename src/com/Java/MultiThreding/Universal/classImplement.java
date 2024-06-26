@@ -1,4 +1,4 @@
-package Multithreding3;
+package com.Java.MultiThreding.Universal;
 
 class Student {
     String name;

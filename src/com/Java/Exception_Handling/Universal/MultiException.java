@@ -1,4 +1,5 @@
 package com.Java.Exception_Handling.Universal;
+import java.io.IOException;
 import java.util.Scanner;
 
 public class MultiException {
@@ -12,6 +13,7 @@ public class MultiException {
 
         System.out.println("Enter your number: ");
         n = in.nextInt();
+
         try {
             System.out.println(st[index] / n);
         }catch (ArrayIndexOutOfBoundsException e){
@@ -19,8 +21,8 @@ public class MultiException {
         }catch (ArithmeticException e){
             System.out.println("Your number divide by Zero please give me valid number");
         }
-        catch (Exception e){
-            System.out.println("Exception occurred");
-        }
+//        catch(IOException e){
+//            System.out.println("Exception occurred");
+//        }
     }
 }

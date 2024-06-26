@@ -1,4 +1,4 @@
-package file_exception;
+package com.Java.Exception_Handling;
 import java.io.*;
 import java.io.IOException;
 import java.util.Scanner;

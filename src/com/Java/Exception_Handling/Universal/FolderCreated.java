@@ -15,7 +15,7 @@ public class FolderCreated {
 
 if(file.exists()){
     if(file2.exists()){
-        System.err.println("File is esists.........");
+        System.err.println("File is exists.........");
     }
     
     else{
@@ -28,13 +28,13 @@ else{
     }
 
 if(file3.exists()){
-    System.err.println("File is alredy exist......");
+    System.err.println("File is already exist......");
 }else{
     try{
         file3.createNewFile();
         System.err.println("File is Created.........");
         }catch(IOException e){
-            System.err.println("File is Created.........");
+            System.err.println("File is Created Fails.........");
         }
 }
 

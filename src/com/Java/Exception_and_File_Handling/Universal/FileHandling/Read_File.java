@@ -23,9 +23,10 @@ public class Read_File {
         int st;
         FileInputStream file = null;
         file = new FileInputStream("India/RishiCode.txt");
+
         /*st = file.read();
         System.out.println((char)st);
-*/
+        */
         while ((st = file.read())!=-1){
             System.out.print((char) st);
         }

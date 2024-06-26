@@ -26,7 +26,6 @@ public class Throw_throws {   //User define Exception
         else if (age>=150) {
             System.out.println("Your age is above 150. Please Enter right age .");
         } else
-          throw new InvalidAegException();
-
+             throw new InvalidAegException();
     }
 }
