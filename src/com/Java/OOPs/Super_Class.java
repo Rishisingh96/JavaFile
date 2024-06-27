@@ -1,4 +1,4 @@
-package com.Collection;
+package com.Java.OOPs;
 
     /*/1> super is used to refer immediate parent class instance variable
     class Animal{

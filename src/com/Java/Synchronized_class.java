@@ -1,4 +1,4 @@
-package Multithreding;
+package com.Java;
 
 
 // I want to print First priority that means I want to that execute program one by one .

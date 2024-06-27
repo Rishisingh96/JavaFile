@@ -1,4 +1,4 @@
-package Multithreding;
+package com.Java;
 class FirstThread extends Thread{
 	public void run() {
 		int j;

@@ -1,4 +1,4 @@
-package com.Collection;
+package com.Collection.List;
 import java.util.*;
 public class CollectionList {
     public static void main(String[] args) {

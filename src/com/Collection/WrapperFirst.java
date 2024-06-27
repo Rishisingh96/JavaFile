@@ -1,72 +1,77 @@
-package Wrapper_Class;
+package com.Collection;
 public class WrapperFirst {
     public static void main(String args[]) {
-//     int a1 = 10;   // This is primtive DataType  UnBoxing
-//     Integer I = 10;   // Wrapper class
-//     Integer x = I.intValue();
-//     Integer I1 = new Integer(10);  //AutoBoxing
-//     Integer I3 = new Integer(I.intValue());  //Boxing
-//     Integer I2 = new Integer(a);  //AutoBoxing
-//     
-//     if(a1==I){  // ofter compare I auto convert in UnBoxing
-//         System.out.println("Same value");
-//     }
-//     else{
-//         System.out.println("Diffrent value");
-//     }
-//     
-//     if(I==x){
-//         System.out.println("Same value");
-//     }
-//     else{
-//         System.out.println("Diffrent value");
-//     }
-//     
-//     if(I1==I3){ // refrence is diffrence
-//         System.out.println("Same value");
-//     }
-//     else{
-//         System.out.println("Diffrent value");
-//     }
-//     if(I1==I2){
-//         System.out.println("Same value");
-//     }
-//     else{
-//         System.out.println("Diffrent value");
-//     }
-//     
-//     if(I==I1){
-//         System.out.println("Same value");
-//     }
-//     else{
-//         System.out.println("Diffrent value");
-//     }
-     
-     // Using Integer wrapper class
-Integer num = new Integer(10); // Wrapping int value 10
+        int a1 = 10; // Primitive DataType
 
-int a = num.intValue(); // Unwrapping to get the primitive int value
-System.out.println("Value of num: " + num);
-System.out.println("Unwrapped value of num: " + a);
+        // Autoboxing: int to Integer
+        Integer I = 10;
+        // Unboxing: Integer to int
+        int x = I;
 
-// Auto-boxing and unboxing (automatic conversion between primitive and wrapper types)
-Integer b = 20; // Auto-boxing: int to Integer
-int c = b; // Auto-unboxing: Integer to int
+        // Using Integer.valueOf() instead of new Integer() to avoid deprecated methods
+        Integer I1 = Integer.valueOf(10); // Autoboxing
+        Integer I3 = Integer.valueOf(I.intValue()); // Boxing
+        Integer I2 = Integer.valueOf(a1); // Boxing
 
-System.out.println("Value of b: " + b);
-System.out.println("Value of c: " + c);
+        // Comparing primitive int and Integer (unboxing happens)
+        if (a1 == I) {
+            System.out.println("Same value");
+        } else {
+            System.out.println("Different value");
+        }
 
+        // Comparing two integers (both unboxed to primitives for comparison)
+        if (I == x) {
+            System.out.println("Same value");
+        } else {
+            System.out.println("Different value");
+        }
 
-Integer x = 5;
-x++; // This creates a new Integer object with value 6, x still references the old object.
-System.out.println("Value of x: " + x);
+        // Comparing references of two different Integer objects
+        if (I1 == I3) {
+            System.out.println("Same value");
+        } else {
+            System.out.println("Different value");
+        }
+
+        // Comparing references of two different Integer objects
+        if (I1 == I2) {
+            System.out.println("Same value");
+        } else {
+            System.out.println("Different value");
+        }
+
+        // Comparing references of Integer objects (autoboxed)
+        if (I == I1) {
+            System.out.println("Same value");
+        } else {
+            System.out.println("Different value");
+        }
+
+        // Using Integer wrapper class
+        Integer num = Integer.valueOf(10); // Wrapping int value 10
+        int a = num.intValue(); // Unboxing to get the primitive int value
+        System.out.println("Value of num: " + num);
+        System.out.println("Unwrapped value of num: " + a);
+
+        // Auto-boxing and unboxing (automatic conversion between primitive and wrapper types)
+        Integer b = 20; // Auto-boxing: int to Integer
+        int c = b; // Auto-unboxing: Integer to int
+        System.out.println("Value of b: " + b);
+        System.out.println("Value of c: " + c);
+
+        // Demonstrating auto-boxing and unboxing with increment
+        Integer y = 5;
+        y++; // Unboxes to int, increments, then reboxes to Integer
+        System.out.println("Value of y: " + y);
+
+        // Conversion and Parsing
+        String numStr = "123";
+        Integer numInteger = Integer.valueOf(numStr); // Convert string to Integer
+        int parsedNum = Integer.parseInt(numStr); // Parse string to int
+        System.out.println("Converted Integer: " + numInteger);
+        System.out.println("Parsed int: " + parsedNum);
     }
-    
-// 6. Conversion and Parsing:   
- String numStr = "123";
-Integer num = Integer.valueOf(numStr); // Convert string to Integer
-int parsedNum = Integer.parseInt(numStr); // Parse string to int
-
 }
 
 /*

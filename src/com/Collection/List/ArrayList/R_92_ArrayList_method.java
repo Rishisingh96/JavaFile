@@ -1,8 +1,8 @@
-package com.Collection;
+package com.Collection.List.ArrayList;
 
 import java.util.ArrayList;
 
-public class R_91_ArrayList_method2 {
+public class R_92_ArrayList_method {
     public static void main(String[] args) {
         ArrayList<Integer> l1 = new ArrayList<>();
         ArrayList<Integer> l2 = new ArrayList<>(5);

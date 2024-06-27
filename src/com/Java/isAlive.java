@@ -1,4 +1,4 @@
-package Multithreding;
+package com.Java;
 class MyThread extends Thread{
 	public void run() {
 		int j;
@@ -27,7 +27,7 @@ public static void main(String[] args) {
 		}
 	}
 	if(T1.isAlive())
-		System.out.println("User Define Thrad is still running............");
+		System.out.println("User Define Thread is still running............");
 	else
 		System.out.println("User Defined Thread Ended.........!!!!!!!!!!!");
 	

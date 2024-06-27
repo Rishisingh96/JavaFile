@@ -5,40 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/AddTwoQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/Cloan_Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/Queue_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/check_Identical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/Store_Element_in_Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week5/R1_StoreNameArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week5/R2_Age_check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Swing/Universal/Assigment/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Swing/Universal/Assigment/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/Queue_Stack/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week5/R_03_StudentFee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/File_Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/File_Exception.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/Exception.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/ExceptionHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/File_Lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/File_Lock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/File_read.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/File_read.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/FolderCreated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/FolderCreated.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/MultiException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/MultiException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/NumberformatEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/NumberformatEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/StirngName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/StirngName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/Throw_throws.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/Throw_throws.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/chekExistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/chekExistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/R_79_SyntextErrors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/R_80_Try_catch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/R_81_HandSpecificE.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/R_81_InputMismatchException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/R_82_NestedTry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/R_83_exception_class.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/R_84_Dividefuc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/R_84_ThrowThrows.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/R_85_finallyBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/R_85_finallyQ1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/Universal/FileHandling/Read_File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/Universal/FileHandling/Read_File.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/Universal/classImplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Universal/classImplement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/ArrayList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/ArrayList1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/CollectionBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/CollectionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/List/CollectionList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/List/LinkedList/Linked_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/List/AddTwoQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/Queue_Stack/AddTwoQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/List/Cloan_Set.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/List/Queue_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/Queue_Stack/Queue_Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/MainThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MainThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/MapExampleCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/map/MapExampleCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/MultiThred_Mclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThred_Mclass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/Odd_Even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Odd_Even.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/Q1_Even_Odd_print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/Q1_Even_Odd_print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/R_91_ArrayList_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/R_91_ArrayList_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/R_91_ArrayList_method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/R_91_ArrayList_method2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/R_92_ArrayList_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/R_92_ArrayList_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/Super_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/Super_Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/Synchronized_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Synchronized_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/WrapperFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/WrapperFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/collectionSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/set/collectionSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/isAlive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/isAlive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/multiThredingclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/multiThredingclass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -301,6 +292,9 @@
     "Application.R2_Age_check (4).executor": "Run",
     "Application.R2_Age_check (5).executor": "Run",
     "Application.R2_Age_check.executor": "Run",
+    "Application.R_03_StudentFee (1).executor": "Run",
+    "Application.R_03_StudentFee (2).executor": "Run",
+    "Application.R_03_StudentFee.executor": "Run",
     "Application.R_04_literals.executor": "Run",
     "Application.R_05_StudentRoll (1).executor": "Run",
     "Application.R_05_StudentRoll (2).executor": "Run",
@@ -480,6 +474,7 @@
     "Application.Without_using_Third_Variable.executor": "Run",
     "Application.Without_using_Third_Variable_XOR.executor": "Run",
     "Application.Word_Count.executor": "Run",
+    "Application.WrapperFirst.executor": "Run",
     "Application.WriteFile.executor": "Run",
     "Application.XYZ.executor": "Run",
     "Application.boxedInteger.executor": "Run",
@@ -582,11 +577,11 @@
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Array_3\leetCode" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaFile all\JavaFile\src\com\Collection\List\ArrayList" />
       <recent name="E:\JavaFile all\JavaFile\src\com\Swing\Universal" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Inheritance_Inferface\Universal\Inheritance" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Basic\Universal\Quesiton" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Basic\Interview_Datatype_Variable" />
-      <recent name="E:\JavaFile\All Java Program\src\com\Java\Project" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
@@ -595,35 +590,9 @@
       <recent name="com.interviewQuestion_DSA_Java.Bit_Magic_15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.check_Identical">
-    <configuration name="AddTwoQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.List.AddTwoQueue" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Collection.List.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Queue_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.List.Queue_Class" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Collection.List.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="R1_StoreNameArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week5.R1_StoreNameArray" />
+  <component name="RunManager" selected="Application.R_03_StudentFee (2)">
+    <configuration name="R_03_StudentFee (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week5.R_03_StudentFee" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -635,12 +604,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Store_Element_in_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.set.Store_Element_in_Set" />
+    <configuration name="R_03_StudentFee (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week5.R_03_StudentFee" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.set.*" />
+          <option name="PATTERN" value="com.Java.Universal.Week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -648,8 +617,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="check_Identical" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.List.check_Identical" />
+    <configuration name="R_03_StudentFee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week5.R_03_StudentFee" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Java.Universal.Week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrapperFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.WrapperFirst" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -661,13 +643,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="collectionSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.set.collectionSet" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Collection.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.check_Identical" />
-        <item itemvalue="Application.Store_Element_in_Set" />
-        <item itemvalue="Application.Queue_Class" />
-        <item itemvalue="Application.AddTwoQueue" />
-        <item itemvalue="Application.R1_StoreNameArray" />
+        <item itemvalue="Application.R_03_StudentFee (2)" />
+        <item itemvalue="Application.R_03_StudentFee (1)" />
+        <item itemvalue="Application.R_03_StudentFee" />
+        <item itemvalue="Application.collectionSet" />
+        <item itemvalue="Application.WrapperFirst" />
       </list>
     </recent_temporary>
   </component>

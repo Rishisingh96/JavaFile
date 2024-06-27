@@ -1,4 +1,4 @@
-package com.Collection;
+package com.Collection.set;
 import java.util.*;
 public class collectionSet {
     public static void main(String[] args) {

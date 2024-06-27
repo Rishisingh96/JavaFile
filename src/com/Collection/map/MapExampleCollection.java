@@ -1,4 +1,4 @@
-package com.Collection;
+package com.Collection.map;
 import java.util.HashMap;
 public class MapExampleCollection {
     public static void main(String args[]){

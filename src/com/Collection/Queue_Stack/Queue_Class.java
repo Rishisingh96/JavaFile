@@ -1,7 +1,6 @@
-package com.Collection.List;
+package com.Collection.Queue_Stack;
 
 import java.util.ArrayList;
-import java.util.Objects;
 
 class Student{
     void show(){

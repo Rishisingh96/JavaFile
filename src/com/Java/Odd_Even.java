@@ -1,4 +1,4 @@
-package Multithreding;
+package com.Java;
 
 class Even extends Thread{
 	public void run() {
