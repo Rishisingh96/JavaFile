@@ -28,7 +28,6 @@ public class AddNum extends JFrame implements ActionListener {
         add(t2);
         add(l3);
         add(t3);
-
         add(b1);
         b1.addActionListener(this);
 

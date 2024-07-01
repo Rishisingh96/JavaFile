@@ -4,7 +4,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Person_Name {
+public class Person_Name_FileOutputStream {
     public static void main(String[] args) throws IOException {
         // File Write
         Scanner in = new Scanner(System.in);

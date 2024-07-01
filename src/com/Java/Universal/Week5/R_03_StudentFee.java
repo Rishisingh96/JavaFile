@@ -10,7 +10,7 @@ class Student implements StudentFee {
         if (fees < 0) {
             throw new IllegalArgumentException("Fees cannot be negative.");
         }
-        System.out.println("Fees: " + fees);
+        System.out.println(STR."Fees: \{fees}");
     }
 }
 
@@ -25,6 +25,7 @@ public class R_03_StudentFee {
         }
     }
 }
+
 /*Here is a simplified version of your code to meet the requirements:
 
 ```java

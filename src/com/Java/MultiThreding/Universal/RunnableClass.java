@@ -1,4 +1,4 @@
-package Multithreding3;
+package com.Java.MultiThreding.Universal;
 
 public class RunnableClass implements Runnable {
 	public void run() {

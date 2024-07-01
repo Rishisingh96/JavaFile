@@ -1,11 +1,10 @@
 package com.Java.Exception_and_File_Handling.Universal.FileHandling;
 
 import java.io.FileInputStream;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Read_File {
+public class Read_File_FileInputStream {
     public static void main(String[] args) throws IOException {
         Scanner in = new Scanner(System.in);
         // File Write
@@ -20,13 +19,14 @@ public class Read_File {
         file1.close();
 */
          // File read
+//        int st;
         int st;
         FileInputStream file = null;
         file = new FileInputStream("India/RishiCode.txt");
 
-        /*st = file.read();
-        System.out.println((char)st);
-        */
+//        st = file.read();
+//        System.out.println((char)st);
+
         while ((st = file.read())!=-1){
             System.out.print((char) st);
         }

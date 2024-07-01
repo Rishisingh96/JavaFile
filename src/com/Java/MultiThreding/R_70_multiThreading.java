@@ -1,6 +1,5 @@
 package com.Java.MultiThreding;
 
-
 //using Extending the Thread class
 class Thread3 extends Thread {
     public void run(){

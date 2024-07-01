@@ -1,1 +1,7 @@
-This file has information of TeachersName: Rosy Fernandes, Age: 36Name: Isha Mheta, Age: 29
+This file has information of Teachers
+Name: Rosy Fernandes, Age: 36
+Name: Isha Mheta, Age: 29
+Name: John Doe, Age: 40
+Name: Jane Smith, Age: 30
+Name: Jane Smith, Age: 30
+Name: John Doe, Age: 40

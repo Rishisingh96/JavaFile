@@ -1,4 +1,4 @@
-package com.Swing.Universal.Assigment;
+package com.Java.Universal.Week6;
 
 import javax.swing.*;
 import java.awt.*;
@@ -43,13 +43,13 @@ class ListText extends JFrame implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
         if (e.getSource() == add) {
-//            String[] selectedItems = l1.getSelectedItems();
             String[] selectedItems = l1.getSelectedItems();
             for (String item : selectedItems) {
 //                if(l1.getSelectedItem() == l2.getName()){
 //                    JOptionPane.showMessageDialog(this,"Duplicate item not selected");
 //                }
                 l2.add(item);
+                l1.remove(item);
 //                l1.remove(item);
                 //l1.addNotify();
             }

@@ -1,5 +1,4 @@
 package com.Java.Universal.Week5;
-
 // Custom exception class
 class InvalidAgeException extends Exception {
     public InvalidAgeException(String message) {
@@ -42,7 +41,7 @@ class Worker {
 public class R2_Age_check {
     public static void main(String[] args) {
         try {
-            Worker worker = new Worker(123, "Rishi Singh", 7);
+            Worker worker = new Worker(123, "Rishi Singh", 44);
             System.out.println(worker.toString());
             worker.checkAge();
         } catch (InvalidAgeException e) {
