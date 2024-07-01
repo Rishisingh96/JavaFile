@@ -5,35 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/India/Rishi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/HashSet/EmployeeHashCodeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/Universal/WriteAndReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week5/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week5/R07_FindImageBytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week5/R4_Employee_object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week5/R5_StoreBinaryForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week5/R6_ObjectInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R1_Star_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R2_wait_notify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R3_Synchronization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R4_Frame_Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R5_DetailsAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/SynchronizationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/WaitNotifyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Swing/Universal/Assigment/AddTextOneListSecondList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R6_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R7_TemperatureConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R8_ListText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R9_DesignFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teachers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Teachers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/Read_File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/Read_File.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/Universal/FileHandling/Person_Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/Universal/FileHandling/Person_Name_FileOutputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/Universal/FileHandling/Read_File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_and_File_Handling/Universal/FileHandling/Read_File_FileInputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_70_multiThreading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_70_multiThreading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/Universal/RunnableClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Universal/RunnableClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week5/R2_Age_check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week5/R2_Age_check.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week5/R_03_StudentFee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week5/R_03_StudentFee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Swing/AddNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Swing/AddNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Swing/Universal/ActionListenerP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Swing/Universal/ActionListenerP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Swing/Universal/Assigment/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/ListText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week6/ListText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R5_DetailsAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R5_DetailsAdd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -310,8 +290,17 @@
     "Application.R5_DetailsAdd.executor": "Run",
     "Application.R5_StoreBinaryForm (1).executor": "Run",
     "Application.R5_StoreBinaryForm.executor": "Run",
+    "Application.R6_Calculator (1).executor": "Run",
+    "Application.R6_Calculator (2).executor": "Run",
+    "Application.R6_Calculator (3).executor": "Run",
+    "Application.R6_Calculator (4).executor": "Run",
+    "Application.R6_Calculator (5).executor": "Run",
+    "Application.R6_Calculator.executor": "Run",
     "Application.R6_ObjectInput (1).executor": "Run",
     "Application.R6_ObjectInput.executor": "Run",
+    "Application.R6_TemperatureConverter.executor": "Run",
+    "Application.R7_TemperatureConverter.executor": "Run",
+    "Application.R9_DesignFrame.executor": "Run",
     "Application.R_03_StudentFee (1).executor": "Run",
     "Application.R_03_StudentFee (2).executor": "Run",
     "Application.R_03_StudentFee.executor": "Run",
@@ -619,30 +608,9 @@
       <recent name="com.interviewQuestion_DSA_Java.Bit_Magic_15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Read_File_FileInputStream">
-    <configuration name="R4_Frame_Button" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week6.R4_Frame_Button" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Java.Universal.Week6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="R5_DetailsAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="R5_DetailsAdd" />
-      <module name="All Java Program" />
-      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="R5_StoreBinaryForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week5.R5_StoreBinaryForm" />
+  <component name="RunManager" selected="Application.R9_DesignFrame">
+    <configuration name="R4_Employee_object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week5.R4_Employee_object" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -654,21 +622,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Read_File_FileInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Exception_and_File_Handling.Universal.FileHandling.Read_File_FileInputStream" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Java.Exception_and_File_Handling.Universal.FileHandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.Java.Universal.Week6.R5_DetailsAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week6.R5_DetailsAdd" />
+    <configuration name="R7_TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week6.R7_TemperatureConverter" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -680,13 +635,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="R8_ListText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week6.R8_ListText" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Java.Universal.Week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R9_DesignFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week6.R9_DesignFrame" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Java.Universal.Week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R_03_StudentFee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week5.R_03_StudentFee" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Java.Universal.Week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Read_File_FileInputStream" />
-        <item itemvalue="Application.com.Java.Universal.Week6.R5_DetailsAdd" />
-        <item itemvalue="Application.R4_Frame_Button" />
-        <item itemvalue="Application.R5_StoreBinaryForm" />
-        <item itemvalue="Application.R5_DetailsAdd" />
+        <item itemvalue="Application.R9_DesignFrame" />
+        <item itemvalue="Application.R8_ListText" />
+        <item itemvalue="Application.R4_Employee_object" />
+        <item itemvalue="Application.R_03_StudentFee" />
+        <item itemvalue="Application.R7_TemperatureConverter" />
       </list>
     </recent_temporary>
   </component>

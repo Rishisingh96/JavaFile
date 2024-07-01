@@ -1,7 +1,7 @@
 package com.Java.Universal.Week5;
 
 interface StudentFee {
-    void printFees(int fees) throws IllegalArgumentException;
+    void printFees(int fees);
 }
 
 class Student implements StudentFee {
@@ -17,6 +17,8 @@ class Student implements StudentFee {
 public class R_03_StudentFee {
     public static void main(String[] args) {
         Student student = new Student();
+//        student.printFees(50000); // Valid case
+//        student.printFees(-1000);
         try {
             student.printFees(50000); // Valid case
             student.printFees(-1000); // This will throw IllegalArgumentException

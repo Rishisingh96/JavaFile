@@ -62,27 +62,13 @@ public class R5_DetailsAdd {
         genderGroup.add(maleRadioButton);
         genderGroup.add(femaleRadioButton);
 
-        JLabel jLabel = new JLabel("Choose Course:");
-        jLabel.setBounds(50, 345, 110, 30);
-        jFrame.add(jLabel);
 
-        Choice ls = new Choice();
-        ls.setBounds(170, 350, 110, 30);
-        ls.add("Select");
-        ls.add("MCA");
-        ls.add("BCA");
-        ls.add("B.Tec");
-        ls.add("M.Tec");
-        ls.add("MSC");
-        jFrame.add(ls);
 
-        JButton signupButton = new JButton("Register");
+        JButton signupButton = new JButton("Submit");
         signupButton.setBounds(250, 390, 100, 30);
         jFrame.add(signupButton);
 
-        JButton loginButton = new JButton("Login");
-        loginButton.setBounds(120, 390, 100, 30);
-        jFrame.add(loginButton);
+
 
         jFrame.setSize(400,500);
         jFrame.setVisible(true);

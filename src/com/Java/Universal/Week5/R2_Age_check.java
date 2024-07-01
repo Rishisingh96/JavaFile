@@ -41,7 +41,7 @@ class Worker {
 public class R2_Age_check {
     public static void main(String[] args) {
         try {
-            Worker worker = new Worker(123, "Rishi Singh", 44);
+            Worker worker = new Worker(123, "Rishi Singh", 4);
             System.out.println(worker.toString());
             worker.checkAge();
         } catch (InvalidAgeException e) {
