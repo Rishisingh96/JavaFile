@@ -19,18 +19,21 @@ public class Employee {
                 '}';
     }
 
-    @Override
-    public boolean equals(Object obj) {
-        if (this == obj) return true;
-        if (obj == null || getClass() != obj.getClass()) return false;
+    //way 2
+//    @Override
+//    public boolean equals(Object obj) {
+//        if (this == obj) return true;
+//        if (obj == null || getClass() != obj.getClass()) return false;
+//
+//        Employee employee = (Employee) obj;
+//
+//        return eno == employee.eno;
+//    }
+//
+//    @Override
+//    public int hashCode() {
+//        return Integer.hashCode(eno);
+//    }
 
-        Employee employee = (Employee) obj;
 
-        return eno == employee.eno;
-    }
-
-    @Override
-    public int hashCode() {
-        return Integer.hashCode(eno);
-    }
 }

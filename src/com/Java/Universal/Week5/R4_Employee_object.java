@@ -1,4 +1,5 @@
 package com.Java.Universal.Week5;
+import com.Collection.set.Waysofcreatset;
 import com.Java.Universal.Week5.Employee;
 
 public class R4_Employee_object {
@@ -8,13 +9,23 @@ public class R4_Employee_object {
 
         // Printing employee1
         System.out.println(e1.toString());
+        System.out.println(e2.toString());
 
-        // Comparing employee1 and employee2
-        if (e1.equals(e2)) {
+//        Way 1
+        if(e1.eno == e2.eno){
             System.out.println("Both employees are the same based on eno.");
-        } else {
+        }
+        else {
             System.out.println("Employees are different based on eno.");
         }
+
+        //way 2
+        // Comparing employee1 and employee2
+//        if (e1.equals(e2)) {
+//            System.out.println("Both employees are the same based on eno.");
+//        } else {
+//            System.out.println("Employees are different based on eno.");
+//        }
     }
 }
 /*Sure, let's perform a dry run of the code with the example provided. Here is the step-by-step execution and the expected output.
