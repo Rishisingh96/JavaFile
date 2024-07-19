@@ -14,7 +14,6 @@ public class ReverseName_use_toCharArray {
         }
         return new String(chars);
     }
-
     public static void main(String[] args) {
         String input = "Rishi";
         String result = reverseName(input);

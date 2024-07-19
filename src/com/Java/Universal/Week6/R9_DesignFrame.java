@@ -3,7 +3,6 @@ package com.Java.Universal.Week6;/*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-
 import javax.swing.*;
 import java.awt.event.*;
 
@@ -45,12 +44,10 @@ public class R9_DesignFrame implements ActionListener{
         {
             JOptionPane.showMessageDialog(F, "please Enter city");
         }
-
     }
     public static void main(String args[])
     {
         new R9_DesignFrame();
 
     }
-
 }

@@ -1,16 +1,16 @@
-package com.Java.Universal.Week6;
+package com.Java.Universal.Test;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-class R8_ListText extends JFrame implements ActionListener {
+class Q_3 extends JFrame implements ActionListener {
 
     JButton add,addr,alladd,alladdr;
     List l1, l2;
 
-    public R8_ListText() {
+    public Q_3() {
         l1 = new List(5);
         l1.setBounds(80, 80, 170, 200);
 
@@ -64,33 +64,33 @@ class R8_ListText extends JFrame implements ActionListener {
                 l1.remove(item);
             }
         }
-            if (e.getSource() == addr) {
-                String[] selectedItems2 = l2.getSelectedItems();
-                for (String item : selectedItems2) {
-                    l1.add(item);
-                    l2.remove(item);
-                }
-            }
-
-            if (e.getSource() == alladd) {
-                String[] selectedItems4 = l1.getItems();
-                for (String item : selectedItems4) {
-                    l2.add(item);
-                    l1.remove(item);
-                }
-            }
-
-            if (e.getSource() == alladdr) {
-                String[] selectedItems4 = l2.getItems();
-                for (String item : selectedItems4) {
-                    l1.add(item);
-                    l2.remove(item);
-                }
+        if (e.getSource() == addr) {
+            String[] selectedItems2 = l2.getSelectedItems();
+            for (String item : selectedItems2) {
+                l1.add(item);
+                l2.remove(item);
             }
         }
 
+        if (e.getSource() == alladd) {
+            String[] selectedItems4 = l1.getItems();
+            for (String item : selectedItems4) {
+                l2.add(item);
+                l1.remove(item);
+            }
+        }
+
+        if (e.getSource() == alladdr) {
+            String[] selectedItems4 = l2.getItems();
+            for (String item : selectedItems4) {
+                l1.add(item);
+                l2.remove(item);
+            }
+        }
+    }
+
 
     public static void main(String[] args) {
-        new R8_ListText();
+        new Q_3();
     }
 }

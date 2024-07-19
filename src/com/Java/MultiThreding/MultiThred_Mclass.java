@@ -1,4 +1,4 @@
-package com.Java;
+package com.Java.MultiThreding;
 class Number1 extends Thread{
 	public void run() {
 		for(int i =1; i<=5; i++) {

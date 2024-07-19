@@ -33,10 +33,6 @@ public class reverse_of_number {
         System.out.print(s);
 
         //closing scanner class(not compulsory, but good practice)
-
         sc.close();
-
-
-
     }
 }

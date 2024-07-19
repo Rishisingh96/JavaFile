@@ -2,7 +2,17 @@ Account Created
 Account Number: 1111
 USER ID - r: rishi123
 Account Holder Name: Rishi singh
-PIN4532
-Date: Sun Jun 02 20:10:44 IST 2024
+PIN1234
+Date: Wed Jul 17 06:31:52 IST 2024
 
+
+Deposit: 10000.0
+Date: Wed Jul 17 06:38:28 IST 2024
+Account Number: 1111
+Remaining Balance: 35000.0
+
+Transferred: 3000.0
+Date: Wed Jul 17 06:41:50 IST 2024
+Account Number: 1111
+Remaining Balance: 32000.0
 

@@ -1,8 +1,8 @@
 Account Created
 Account Number: 1113
-USER ID - r: ranjeet345
-Account Holder Name: Ranjeet singh
-PIN6532
-Date: Sun Jun 02 20:02:26 IST 2024
+USER ID - r: mohit123
+Account Holder Name: Mohit singh
+PIN9876
+Date: Wed Jul 17 06:33:15 IST 2024
 
 

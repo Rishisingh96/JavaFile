@@ -1,4 +1,4 @@
-package com.Java;
+package com.Java.MultiThreding;
 
 
 // I want to print First priority that means I want to that execute program one by one .
@@ -9,13 +9,13 @@ class Demo{
 		}
 	}
 }
-class MyThread1 extends Thread{
+class MyThread11 extends Thread{
 	public void run() {
 		Demo D1 = new Demo();
 		D1.show();
 	}
 }
-class MyThread2 extends Thread{
+class MyThread21 extends Thread{
 	public void run() {
 		Demo D2 = new Demo();
 		D2.show();
@@ -23,8 +23,8 @@ class MyThread2 extends Thread{
 }
 public class Synchronized_class {
 public static void main(String[] args) {
-	MyThread1 n1 = new MyThread1();
-	MyThread2 n2 = new MyThread2();
+	MyThread11 n1 = new MyThread11();
+	MyThread21 n2 = new MyThread21();
 	
 	n1.start();
 	n2.start();

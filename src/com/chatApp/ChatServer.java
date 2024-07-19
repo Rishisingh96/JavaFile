@@ -61,7 +61,7 @@ class ClientHandler implements Runnable {
         try (BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()))) {
             String message;
             while ((message = in.readLine()) != null) {
-                System.out.println("Received: " + message);
+                System.out.println(STR."Received: \{message}");
                 server.broadcast(message, this);
             }
         } catch (IOException e) {

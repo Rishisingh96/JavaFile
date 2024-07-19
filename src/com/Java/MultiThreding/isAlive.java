@@ -1,5 +1,5 @@
-package com.Java;
-class MyThread extends Thread{
+package com.Java.MultiThreding;
+class MyThread12 extends Thread{
 	public void run() {
 		int j;
 		for(j=1;j<=10; j++) {
@@ -15,7 +15,7 @@ class MyThread extends Thread{
 }
 public class isAlive {
 public static void main(String[] args) {
-	MyThread T1  = new MyThread();
+	MyThread12 T1  = new MyThread12();
 	T1.start();
 	for(int i=1;i<=10; i++) {
 		System.out.println("i=" +i);

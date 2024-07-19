@@ -23,3 +23,4 @@ public class R6_ObjectInput {
         }
     }
 }
+//Total money spent on all shopping items: 2250

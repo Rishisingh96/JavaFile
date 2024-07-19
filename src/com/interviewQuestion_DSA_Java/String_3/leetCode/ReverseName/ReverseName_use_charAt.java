@@ -11,7 +11,7 @@ public class ReverseName_use_charAt {
     public static void main(String[] args) {
         String name = "Rishi";
         String reversedName = reverseName(name);
-        System.out.println("Reversed Name: " + reversedName);
+        System.out.println(STR."Reversed Name: \{reversedName}");
     }
 }
 /*Sure, let's dry run the code step by step:

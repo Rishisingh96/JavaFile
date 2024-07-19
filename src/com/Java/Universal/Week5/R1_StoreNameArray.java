@@ -6,10 +6,8 @@ public class R1_StoreNameArray {
     public static void main(String[] args) {
         // Store all weekdays in the array
         String[] daysOfWeek = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the day index (0-6) to print the corresponding weekday:");
-
         try {
             int dayIndex = scanner.nextInt();
             // Print the corresponding day name

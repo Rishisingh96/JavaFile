@@ -1,4 +1,4 @@
-package rishi.Java.StringQuestion;
+package com.interviewQuestion_DSA_Java.String_3.Basic;
 
 import java.util.Arrays;
 import java.util.Scanner;

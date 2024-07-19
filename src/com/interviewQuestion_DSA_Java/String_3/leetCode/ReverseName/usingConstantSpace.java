@@ -11,16 +11,12 @@ public class usingConstantSpace {
         ch[j] = temp;
         return new String(ch);
     }
-
     public static String reverse_words(String s)
     {
         int left = 0, i = 0, n = s.length();
-
         while (s.charAt(i) == ' ')
             i++;
-
         left = i;
-
         while (i < n) {
             if (i + 1 == n || s.charAt(i) == ' ') {
                 int j = i - 1;
@@ -34,16 +30,13 @@ public class usingConstantSpace {
             }
             if (i > left && s.charAt(left) == ' ')
                 left = i;
-
             i++;
         }
-
         // Use StringBuilder ".reverse()" method to reverse
         // the whole string.
         s = new StringBuilder(s).reverse().toString();
         return s;
     }
-
     public static void main(String[] args) {
         String str
                 = "i like this program very much";

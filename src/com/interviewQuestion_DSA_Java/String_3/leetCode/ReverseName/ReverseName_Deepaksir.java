@@ -1,7 +1,6 @@
 package com.interviewQuestion_DSA_Java.String_3.leetCode.ReverseName;
 
 public class ReverseName_Deepaksir {
-
     public static void main(String[] args) {
         /*String st = "Rishi singh is a Hero";
         String rev = "";
@@ -9,9 +8,6 @@ public class ReverseName_Deepaksir {
             rev = rev + st.charAt(i);
         }
         System.out.println("Reverse Name : " + rev);*/
-
-
-
             // I want to print Hero a is singh Rishi
         String s[] = "Rishi singh is a Hero".split(" ");
         String ans = "";

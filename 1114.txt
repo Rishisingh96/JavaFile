@@ -1,8 +1,8 @@
 Account Created
 Account Number: 1114
-USER ID - r: garima3453
-Account Holder Name: Garima singh
-PIN1234
-Date: Sun Jun 02 20:02:58 IST 2024
+USER ID - r: akriti123
+Account Holder Name: Akriti singh
+PIN5432
+Date: Wed Jul 17 06:34:14 IST 2024
 
 

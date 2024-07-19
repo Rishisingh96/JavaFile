@@ -1,8 +1,13 @@
 Account Created
 Account Number: 1112
-USER ID - r: suman234
-Account Holder Name: Suman singh
-PIN4532
-Date: Sun Jun 02 20:01:55 IST 2024
+USER ID - r: garima123
+Account Holder Name: Garima singh
+PIN5678
+Date: Wed Jul 17 06:32:39 IST 2024
 
+
+Deposit: 3000.0
+Date: Wed Jul 17 06:41:50 IST 2024
+Account Number: 1112
+Remaining Balance: 23000.0
 

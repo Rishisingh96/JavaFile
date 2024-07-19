@@ -1,4 +1,4 @@
-package com.Java;
+package com.Java.MultiThreding;
 class FirstThread extends Thread{
 	public void run() {
 		int j;

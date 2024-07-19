@@ -4,8 +4,8 @@ import java.awt.*;
 
 public class R5_DetailsAdd {
     public void SingUP() {
-         JFrame jFrame = new JFrame("Login Form");
-         jFrame.setLayout(null);
+        JFrame jFrame = new JFrame("Login Form");
+        jFrame.setLayout(null);
         JLabel nameLabel = new JLabel("Name: ");
         nameLabel.setBounds(50, 50, 60, 20);
         jFrame.add(nameLabel);

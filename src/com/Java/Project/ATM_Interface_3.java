@@ -75,7 +75,7 @@ class ATM extends Account {
                 try{
 
                     // Open the text file for appending new transaction
-                    String fileName = acc.a_no + ".text";
+                    String fileName = acc.a_no + ".txt";
 
                     //System.out.println("The File Name - " + fileName);
                     FileWriter fileWriter = new FileWriter(fileName, true);
