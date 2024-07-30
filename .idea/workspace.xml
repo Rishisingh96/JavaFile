@@ -5,41 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/Cooperation_inter_thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Project/OnlineExaminationGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Test/Q_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Test/Q_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Test/q_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/NamingCases_pascal_camel_etc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/NamingConventionsConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/R1_ArrayList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/R2_classObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/R3_LinkedListformQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/R4_HashSetCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/Test/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/Test/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/Voter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1111.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1111.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1112.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1112.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1113.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1113.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1114.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1114.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer_user_1111.txt" beforeDir="false" afterPath="$PROJECT_DIR$/answer_user_1111.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Exception_Handling/Universal/Exception.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MainThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/MainThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThred_Mclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/MultiThred_Mclass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Odd_Even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Odd_Even.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Project/ATM_Interface_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Project/ATM_Interface_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Synchronized_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Synchronized_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week5/R1_StoreNameArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week5/R1_StoreNameArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week5/R6_ObjectInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week5/R6_ObjectInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R5_DetailsAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R5_DetailsAdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R8_ListText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R8_ListText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R9_DesignFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Week6/R9_DesignFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/isAlive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/isAlive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/multiThredingclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/multiThredingclass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chatApp/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chatApp/ChatServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/c.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/c.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/MinimumDistensespace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/MinimumDistensespace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName_Deepaksir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName_Deepaksir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName_use_charAt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName_use_charAt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName_use_toCharArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName_use_toCharArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/reverse_of_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/reverse_of_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/usingConstantSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/usingConstantSpace.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +118,7 @@
     &quot;Application.AreaofCircle.executor&quot;: &quot;Run&quot;,
     &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
     &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList2.executor&quot;: &quot;Run&quot;,
     &quot;Application.ArrayOF_Object.executor&quot;: &quot;Run&quot;,
     &quot;Application.Array_Basic.executor&quot;: &quot;Run&quot;,
     &quot;Application.Array_Sorted_not.executor&quot;: &quot;Run&quot;,
@@ -308,12 +288,14 @@
     &quot;Application.ProductSellBound (4).executor&quot;: &quot;Run&quot;,
     &quot;Application.ProductSellBound (5).executor&quot;: &quot;Run&quot;,
     &quot;Application.ProductSellBound.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q_10_printfeatures.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q_2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q_3.executor&quot;: &quot;Run&quot;,
     &quot;Application.Queue_Class.executor&quot;: &quot;Run&quot;,
     &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
     &quot;Application.R07_FindImageBytes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R1_ArrayList2.executor&quot;: &quot;Run&quot;,
     &quot;Application.R1_Max_number.executor&quot;: &quot;Run&quot;,
     &quot;Application.R1_Star_pattern.executor&quot;: &quot;Run&quot;,
     &quot;Application.R1_StoreNameArray.executor&quot;: &quot;Run&quot;,
@@ -323,10 +305,13 @@
     &quot;Application.R2_Age_check (4).executor&quot;: &quot;Run&quot;,
     &quot;Application.R2_Age_check (5).executor&quot;: &quot;Run&quot;,
     &quot;Application.R2_Age_check.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R2_classObject.executor&quot;: &quot;Run&quot;,
     &quot;Application.R2_wait_notify.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R3_LinkedListformQueue.executor&quot;: &quot;Run&quot;,
     &quot;Application.R4_Employee_object (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.R4_Employee_object.executor&quot;: &quot;Run&quot;,
     &quot;Application.R4_Frame_Button.executor&quot;: &quot;Run&quot;,
+    &quot;Application.R4_HashSetCode.executor&quot;: &quot;Run&quot;,
     &quot;Application.R5_DetailsAdd.executor&quot;: &quot;Run&quot;,
     &quot;Application.R5_StoreBinaryForm (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.R5_StoreBinaryForm.executor&quot;: &quot;Run&quot;,
@@ -524,6 +509,7 @@
     &quot;Application.Time_date.executor&quot;: &quot;Run&quot;,
     &quot;Application.TownshipJaggedArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.TraversExampleCollection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeSetExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.TwoString_save_file.executor&quot;: &quot;Run&quot;,
     &quot;Application.WaitNotifyExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.Waysofcreatset.executor&quot;: &quot;Run&quot;,
@@ -651,13 +637,13 @@
       <recent name="com.interviewQuestion_DSA_Java.Bit_Magic_15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q_3">
-    <configuration name="Q_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Test.Q_2" />
+  <component name="RunManager" selected="Application.TreeSetExample">
+    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Advance_Java.Test.Q1" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Universal.Test.*" />
+          <option name="PATTERN" value="com.Java.Universal.Advance_Java.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -665,12 +651,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Test.Q_3" />
+    <configuration name="R1_ArrayList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Advance_Java.R1_ArrayList2" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Universal.Test.*" />
+          <option name="PATTERN" value="com.Java.Universal.Advance_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -678,12 +664,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R5_DetailsAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week6.R5_DetailsAdd" />
+    <configuration name="R3_LinkedListformQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Advance_Java.R3_LinkedListformQueue" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Universal.Week6.*" />
+          <option name="PATTERN" value="com.Java.Universal.Advance_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -691,12 +677,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R6_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Week6.R6_Calculator" />
+    <configuration name="R4_HashSetCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Advance_Java.R4_HashSetCode" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Universal.Week6.*" />
+          <option name="PATTERN" value="com.Java.Universal.Advance_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -704,12 +690,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Test.q_1" />
+    <configuration name="TreeSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Universal.Advance_Java.TreeSetExample" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Universal.Test.*" />
+          <option name="PATTERN" value="com.Java.Universal.Advance_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -719,11 +705,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q_3" />
-        <item itemvalue="Application.Q_2" />
-        <item itemvalue="Application.q_1" />
-        <item itemvalue="Application.R6_Calculator" />
-        <item itemvalue="Application.R5_DetailsAdd" />
+        <item itemvalue="Application.TreeSetExample" />
+        <item itemvalue="Application.R1_ArrayList2" />
+        <item itemvalue="Application.R4_HashSetCode" />
+        <item itemvalue="Application.Q1" />
+        <item itemvalue="Application.R3_LinkedListformQueue" />
       </list>
     </recent_temporary>
   </component>

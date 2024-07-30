@@ -7,8 +7,6 @@ public class reverse_of_number {
         try {
             System.out.print("Enter a number : ");
             int number = sc.nextInt();
-
-
         } catch(Exception e){
             System.out.println("This is Not a Number");
             e.printStackTrace();
