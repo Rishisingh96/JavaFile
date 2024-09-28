@@ -1,4 +1,4 @@
-package com.Java.Universal.Advance_Java;
+package com.Java.Universal.Advance_Java.week1;
 
 import java.util.HashSet;
 import java.util.Iterator;

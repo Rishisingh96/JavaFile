@@ -9,7 +9,7 @@ public class ReverseName_use_charAt {
         return new String(reversed);
     }
     public static void main(String[] args) {
-        String name = "Rishi";
+        String name = "Rishi singh";
         String reversedName = reverseName(name);
         System.out.println(STR."Reversed Name: \{reversedName}");
     }

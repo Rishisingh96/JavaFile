@@ -12,7 +12,7 @@ public class MinimumDistensespace {
 //            st[i] = sc.nextLine();
 //        }
         String k[] = {"Rahul","Mohit","Rohit"};
-        String s = "Mohitr";
+        String s = "Mohit";
        // System.out.println(Arrays.binarySearch(k,s));
         if(Arrays.binarySearch(k,s) ==1){
             System.out.println("Element found");

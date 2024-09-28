@@ -1,11 +1,11 @@
-package com.Java.Universal.Advance_Java;
+package com.Java.Universal.Advance_Java.week1;
 
 import java.util.Scanner;
 import java.util.Set;
 import java.util.TreeSet;
 import java.util.concurrent.atomic.AtomicBoolean;
 
-public class TreeSetExample {
+public class R5_TreeSetExample {
     public static void main(String[] args) {
         Set<Voter> voterSet = new TreeSet<>();
 
@@ -63,3 +63,10 @@ public class TreeSetExample {
         scanner.close();
     }
 }
+/*TreeSet of Voters: [Voter{age=22, name='Charlie'}, Voter{age=25, name='Alice'}, Voter{age=30, name='Bob'}]
+Enter age of Voter to search: 25
+Voter found: Voter{age=25, name='Alice'}
+Enter name of Voter to delete: Bob
+Voter(s) with name 'Bob' have been deleted.
+TreeSet after deletion: [Voter{age=22, name='Charlie'}, Voter{age=25, name='Alice'}]
+*/

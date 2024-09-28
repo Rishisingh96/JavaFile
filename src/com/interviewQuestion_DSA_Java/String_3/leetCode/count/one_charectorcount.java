@@ -1,6 +1,6 @@
-package com.interviewQuestion_DSA_Java.String_3.leetCode;
+package com.interviewQuestion_DSA_Java.String_3.leetCode.count;
 
-public class Word_Count {
+public class one_charectorcount {
     public static void main(String[] args) {
         String str2 = "Rishi singh";
         char[] charArray1 = str2.toCharArray();
