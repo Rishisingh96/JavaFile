@@ -1,8 +1,10 @@
+package com.interviewQuestion_DSA_Java.Array_3;
+
 public class Max_Subarray3 {
    
    // ---------  kadans Algorith ------------------time complexity = O(n)----------------------------------------------
 
-   public static void kadansAlgorith(int numbers[]){
+   public static void KadanesAlgorithm(int numbers[]){
     int ms = Integer.MIN_VALUE;
     int cs = 0;
 
@@ -18,6 +20,7 @@ public class Max_Subarray3 {
 
     public static void main(String args[]){
         int numbers[] = {-2,-3,4,-1,-2,1,5,-3};
-        kadansAlgorith(numbers);
+    //    int numbers[] = {1,2,3,4,5};
+        KadanesAlgorithm(numbers);
     }
 }

@@ -13,9 +13,7 @@ public class R1_Max_number {
         for (int i = 0; i < 10; i++) {
             a[i] = scanner.nextInt();
         }
-
         max = a[0];
-
         for (int i = 1; i < 10; i++) {
             if (a[i] > max) {
                 max = a[i];

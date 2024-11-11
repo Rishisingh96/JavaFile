@@ -5,54 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/sharadhaMam/Classroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/sharadhaMam/Max_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/sharadhaMam/Multidimensional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/sharadhaMam/sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/sharadhaMam/swapNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/week1/R6_HashMapOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/week1/R7_TreeMapOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/Array_BT_SM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/Count_QueenRightPotion_SM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/FindSubset_SM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/GridWays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/OneSolution_QueenRightPotion_SM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/QueenRightPotion_SM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/Queen_2D__Possibility_SM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/BinarySearch/BinarySearchAcce_O.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/BinarySearch/BinarySearchDecc_O.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchTechniques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/SortingTechniques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/QA100/Q1_Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/LargestStringByLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseStringWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/Reverses_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/count/character_count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/count/one_charectorcount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/stringBulderandbuffer/StringBuffer_ThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/stringBulderandbuffer/StringBulder_notThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/stringBulderandbuffer/String_Format.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/stringBulderandbuffer/StringjoinerJava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/MultipleInheritanceAchieve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/jhh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Basic/FindMaxMinOneFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_List/Classroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_List/Max_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_List/Multidimensional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_List/Revers_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_List/sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_List/swapNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/Rat_In_Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/SudokuFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/AddFirst_Last.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hs_err_pid10820.log" beforeDir="false" afterPath="$PROJECT_DIR$/hs_err_pid10820.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/R1_ArrayList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/week1/R1_ArrayList2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/R2_classObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/week1/R2_classObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/R3_LinkedListformQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/week1/R3_LinkedListformQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/R4_HashSetCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/week1/R4_HashSetCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/TreeSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/week1/R5_TreeSetExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/Voter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Advance_Java/week1/Voter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/MinimumDistensespace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/Basic/MinimumDistensespace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/Palendrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/Palendrom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName_Deepaksir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName_Deepaksir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName_use_charAt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/ReverseName_use_charAt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/usingSlicingMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/usingSlicingMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/String_Compression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/String_countMetacharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/Word_Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/count/Word_Count.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/largestString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Basic/R1_Max_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Basic/R1_Max_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Trapping_Rainwater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Trapping_Rainwater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/QueenRightPotion_SM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/QueenRightPotion_SM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/Queen_2D__Possibility_SM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/Queen_2D__Possibility_SM.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +109,7 @@
     "Application.ActionListenerP (4).executor": "Run",
     "Application.ActionListenerP (5).executor": "Run",
     "Application.ActionListenerP.executor": "Run",
+    "Application.AddFirst_Last.executor": "Run",
     "Application.AddNum.executor": "Run",
     "Application.AddTwoQueue.executor": "Run",
     "Application.Add_row_JaggedArray.executor": "Run",
@@ -221,6 +194,7 @@
     "Application.File_Deletion.executor": "Run",
     "Application.FinalKeyWord.executor": "Run",
     "Application.FindEveninArray.executor": "Run",
+    "Application.FindMaxMinOneFunc.executor": "Run",
     "Application.FindNumberofOccurence.executor": "Run",
     "Application.FindSecondBiggest.executor": "Run",
     "Application.FindSubset_SM.executor": "Run",
@@ -258,6 +232,7 @@
     "Application.Matrices3x3_Q7.executor": "Run",
     "Application.MaxNumber.executor": "Run",
     "Application.Max_Subarray2.executor": "Run",
+    "Application.Max_Subarray3.executor": "Run",
     "Application.Max_number.executor": "Run",
     "Application.MenuBarExample (1).executor": "Run",
     "Application.MenuBarExample.executor": "Run",
@@ -278,6 +253,7 @@
     "Application.MultiException.executor": "Run",
     "Application.Multi_level_Inheritance.executor": "Run",
     "Application.Multidimensional.executor": "Run",
+    "Application.MultipleInheritanceAchieve.executor": "Run",
     "Application.Multiple_Inheritance_Interface (1).executor": "Run",
     "Application.Multiple_Inheritance_Interface.executor": "Run",
     "Application.MyBike (1).executor": "Run",
@@ -336,8 +312,8 @@
     "Application.Q_10_printfeatures.executor": "Run",
     "Application.Q_2.executor": "Run",
     "Application.Q_3.executor": "Run",
-    "Application.QueenRightPotion_SM.executor": "Run",
-    "Application.Queen_2D__Possibility_SM.executor": "Run",
+    "Application.QueenRightPotion_SM.executor": "Debug",
+    "Application.Queen_2D__Possibility_SM.executor": "Debug",
     "Application.Queue_Class.executor": "Run",
     "Application.QuickSort.executor": "Run",
     "Application.R07_FindImageBytes.executor": "Run",
@@ -491,6 +467,7 @@
     "Application.RectangleBox.executor": "Run",
     "Application.RemoveDuplicateValuefromArray.executor": "Run",
     "Application.Reveres_sereveR.executor": "Run",
+    "Application.Revers_Number.executor": "Run",
     "Application.Reverse.executor": "Run",
     "Application.ReverseName.executor": "Run",
     "Application.ReverseName_Deepaksir.executor": "Run",
@@ -543,6 +520,7 @@
     "Application.SturctureCode (1).executor": "Run",
     "Application.SturctureCode (2).executor": "Run",
     "Application.SturctureCode.executor": "Run",
+    "Application.SudokuFind.executor": "Run",
     "Application.SumOf_Even.executor": "Run",
     "Application.SumforEach.executor": "Run",
     "Application.Super_Class.executor": "Run",
@@ -569,6 +547,7 @@
     "Application.Ticket_Booking.executor": "Run",
     "Application.Time_date.executor": "Run",
     "Application.TownshipJaggedArray.executor": "Run",
+    "Application.Trapping_Rainwater.executor": "Run",
     "Application.TraversExampleCollection.executor": "Run",
     "Application.TreeMapOperations.executor": "Run",
     "Application.TreeSetExample.executor": "Run",
@@ -603,6 +582,7 @@
     "Application.com.Swing.Universal.Assigment.ListText.executor": "Run",
     "Application.com.Swing.Universal.Assigment.ListText2.executor": "Run",
     "Application.com.interviewQuestion_DSA_Java.Array_3.Array_update.executor": "Run",
+    "Application.com.interviewQuestion_DSA_Java.Array_3.Trapping_Rainwater.executor": "Run",
     "Application.com.lambdaExpression.Multithreading.ThreadDemo.executor": "Run",
     "Application.commandLine.executor": "Run",
     "Application.countString.executor": "Run",
@@ -627,6 +607,7 @@
     "Application.lepYearQ2.executor": "Run",
     "Application.lip_year.executor": "Run",
     "Application.longbyte.executor": "Run",
+    "Application.pattern.executor": "Run",
     "Application.prime_number (1).executor": "Run",
     "Application.prime_number.executor": "Run",
     "Application.q_1 (1).executor": "Run",
@@ -672,7 +653,7 @@
     "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/JavaFile all/JavaFile",
+    "last_opened_file_path": "A:/Spring and Spring Boot/MyProject/SpringCoreDemoApp",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -685,11 +666,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaFile all\JavaFile\src\com\interviewQuestion_DSA_Java\Linked_List_10" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\String_3\All_method" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Project" />
       <recent name="E:\JavaFile\All Java Program\src\com\leetCode151" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\String_3\Basic" />
-      <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\Array_3\leetCode" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\JavaFile all\JavaFile\India" />
@@ -706,13 +687,13 @@
       <recent name="com.interviewQuestion_DSA_Java.Bit_Magic_15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GridWays">
-    <configuration name="BinarySearchAcce_O" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.BinarySearch.BinarySearchAcce_O" />
+  <component name="RunManager" selected="Application.AddFirst_Last">
+    <configuration name="AddFirst_Last" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Linked_List_10.AddFirst_Last" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Searching_4.BinarySearch.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Linked_List_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -720,12 +701,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Count_QueenRightPotion_SM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Backtracking.Count_QueenRightPotion_SM" />
+    <configuration name="Max_Subarray3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Max_Subarray3" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Backtracking.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -733,12 +714,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GridWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Backtracking.GridWays" />
+    <configuration name="MultipleInheritanceAchieve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Inheritance_Inferface.MultipleInheritanceAchieve" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Backtracking.*" />
+          <option name="PATTERN" value="com.Java.Inheritance_Inferface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -746,12 +727,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OneSolution_QueenRightPotion_SM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Backtracking.OneSolution_QueenRightPotion_SM" />
+    <configuration name="com.interviewQuestion_DSA_Java.Array_3.Trapping_Rainwater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Trapping_Rainwater" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Backtracking.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -759,12 +740,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueenRightPotion_SM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Backtracking.QueenRightPotion_SM" />
+    <configuration name="swapNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_List.swapNumber" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Backtracking.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -774,11 +755,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GridWays" />
-        <item itemvalue="Application.BinarySearchAcce_O" />
-        <item itemvalue="Application.Count_QueenRightPotion_SM" />
-        <item itemvalue="Application.OneSolution_QueenRightPotion_SM" />
-        <item itemvalue="Application.QueenRightPotion_SM" />
+        <item itemvalue="Application.AddFirst_Last" />
+        <item itemvalue="Application.swapNumber" />
+        <item itemvalue="Application.MultipleInheritanceAchieve" />
+        <item itemvalue="Application.Max_Subarray3" />
+        <item itemvalue="Application.com.interviewQuestion_DSA_Java.Array_3.Trapping_Rainwater" />
       </list>
     </recent_temporary>
   </component>
@@ -1066,5 +1047,20 @@
     <MESSAGE value="CHANGED code position" />
     <MESSAGE value="CHANGED code position collection array" />
     <option name="LAST_COMMIT_MESSAGE" value="CHANGED code position collection array" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/QueenRightPotion_SM.java</url>
+          <line>24</line>
+          <properties class="com.interviewQuestion_DSA_Java.Backtracking.QueenRightPotion_SM" method="nQueens">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

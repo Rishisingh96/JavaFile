@@ -1,3 +1,5 @@
+package com.interviewQuestion_DSA_Java.Array_3;
+
 import java.util.*;
 public class Trapping_Rainwater {
     public static int trappedRainwater(int height[]){
@@ -27,11 +29,10 @@ public class Trapping_Rainwater {
             trappedWater += waterLevel - height[i];
         }
         return trappedWater;
-
     }
 
     public static void main(String arg[]){
-            int height[] ={ 4,2,0,6,3,2,5};
+            int height[] ={4,2,0,6,3,2,5};
             System.out.println(trappedRainwater(height));
     }
 }
