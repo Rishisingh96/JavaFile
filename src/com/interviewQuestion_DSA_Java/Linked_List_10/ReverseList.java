@@ -1,7 +1,6 @@
 package com.interviewQuestion_DSA_Java.Linked_List_10;
 
-public class AddFirst_Last {
-
+public class ReverseList {
 
     // Define the Node class to represent each element in the linked list
     public static class Node {
@@ -97,7 +96,22 @@ public class AddFirst_Last {
         size++;
     }
 
+    public void reverse(){
+        Node prev = null;
+        Node curr = tail = head;
+        Node next;
+
+        while(curr != null){
+            next = curr.next;
+            curr.next  = prev;
+            prev = curr;
+            curr = next;
+        }
+        head = prev;
+    }
     // Method to print the entire linked list
+
+
     public void print() {
         // Step 1: Check if the list is empty
         if (head == null) {
@@ -116,35 +130,22 @@ public class AddFirst_Last {
         System.out.println("null");
     }
 
-    // Main method to test the linked list methods
-    public static void main(String[] args) {
+    public static void main(String args[]){
         // Step 1: Create an instance of AddFirst_Last
-        AddFirst_Last li = new AddFirst_Last();
-
+        ReverseList li = new ReverseList();
         // Step 2: Test the print method (empty list)
         li.print();
-
         // Step 3: Add elements to the beginning of the list
         li.addFirst(2); // Add 2
-        li.print();     // Print: 2->null
-
         li.addFirst(1); // Add 1
-        li.print();     // Print: 1->2->null
-
         // Step 4: Add elements to the end of the list
         li.addLast(3); // Add 3
-        li.print();    // Print: 1->2->3->null
-
-        li.addLast(4); // Add 4
-        li.print();    // Print: 1->2->3->4->null
-
+        li.addLast(8); // Add 4
+        li.addLast(10); // Add 4
         // Step 5: Add an element in the middle of the list
         li.addMiddle(2, 9); // Add 9 at index 2
         li.print();         // Print: 1->2->9->3->4->null
-
-
-        // Step 6: Print the size of the linked list
-        System.out.println("Size of the linked list: " + li.size); // Output: 5
-
+        li.reverse();
+        li.print();
     }
 }

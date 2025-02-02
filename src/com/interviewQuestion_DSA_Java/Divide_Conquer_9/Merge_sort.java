@@ -58,7 +58,8 @@ public class Merge_sort {
         }
     }
     public static void main(String[] args) {
-        int arr[] = {6,3,9,5,2,8,-2};
+//        int arr[] = {6,3,9,5,2,8,-2};
+        int arr[] = {38, 27, 43, 3, 9, 82, 10};
         mergeSort(arr,0,arr.length-1);
         printArr(arr);
 

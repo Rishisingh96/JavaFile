@@ -1,4 +1,4 @@
-package com.interviewQuestion_DSA_Java.Array_3;
+package com.interviewQuestion_DSA_Java.Searching_4.BinarySearch;
 
 /**
  * Linear_Search

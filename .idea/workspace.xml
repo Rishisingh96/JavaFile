@@ -5,26 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/MultipleInheritanceAchieve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/jhh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Basic/FindMaxMinOneFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_List/Classroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_List/Max_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_List/Multidimensional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_List/Revers_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_List/sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_List/swapNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/Rat_In_Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/SudokuFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/AddFirst_Last.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/JoinMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/MovieBookApp_21_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/MovieBookApp_SB_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/MovieBookApp_SS_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/MovieBookApp_S_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/MovieBookApp_W_Syn_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/PrioritiesThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/ThreadClass_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/ThreadInterrupt_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/ThreadNameDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/YieldMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/Question/EvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/Question/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/FindAndRemoveNthNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/LoopCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/RemoveFirstLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/SearchIterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/BinarySearch/Linear_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/Linear_Search_indexF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/count/SpaceCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Basic/R1_Max_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Basic/R1_Max_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Trapping_Rainwater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Trapping_Rainwater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/QueenRightPotion_SM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/QueenRightPotion_SM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/Queen_2D__Possibility_SM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Backtracking/Queen_2D__Possibility_SM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/DaemonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/DaemonThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_74_Priorities_Thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_74_Priorities_Thread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Loop/prime_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Loop/prime_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java_8_17_21/lamdaExpresstion/Universal/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/lamdaExpresstion/Universal/Addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Binary_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/Binary_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Linear_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Linear_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/R_1_MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/R_1_MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/Merge_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/Merge_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/AddFirst_Last.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/AddFirst_Last.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/sortName/sort_long_Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/sortName/sort_long_Name.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +127,7 @@
     "Application.AddNum.executor": "Run",
     "Application.AddTwoQueue.executor": "Run",
     "Application.Add_row_JaggedArray.executor": "Run",
+    "Application.Addition (1).executor": "Run",
     "Application.Addition.executor": "Run",
     "Application.AdditionReturn.executor": "Run",
     "Application.Animal.executor": "Run",
@@ -168,6 +183,7 @@
     "Application.DataTypefind.executor": "Run",
     "Application.Data_Type_find.executor": "Run",
     "Application.Decreasing_Order.executor": "Run",
+    "Application.DetectLoopCycle.executor": "Run",
     "Application.DigitCount.executor": "Run",
     "Application.DigonalSum.executor": "Run",
     "Application.Divide.executor": "Run",
@@ -177,6 +193,7 @@
     "Application.Employee_object (1).executor": "Run",
     "Application.Employee_object (2).executor": "Run",
     "Application.Employee_object.executor": "Run",
+    "Application.EvenNumber.executor": "Run",
     "Application.Exception.executor": "Run",
     "Application.ExceptionHandling.executor": "Run",
     "Application.Exception_Handling.executor": "Run",
@@ -193,6 +210,7 @@
     "Application.FileHandlerThread.executor": "Run",
     "Application.File_Deletion.executor": "Run",
     "Application.FinalKeyWord.executor": "Run",
+    "Application.FindAndRemoveNthNode.executor": "Run",
     "Application.FindEveninArray.executor": "Run",
     "Application.FindMaxMinOneFunc.executor": "Run",
     "Application.FindNumberofOccurence.executor": "Run",
@@ -210,6 +228,7 @@
     "Application.Introduction.executor": "Run",
     "Application.Jagged_Array.executor": "Run",
     "Application.JavaMethod.executor": "Run",
+    "Application.JoinMethod.executor": "Run",
     "Application.LargestStringByLength.executor": "Run",
     "Application.Largest_Number.executor": "Run",
     "Application.Linear_Search.executor": "Run",
@@ -222,12 +241,14 @@
     "Application.LoginProject (3).executor": "Run",
     "Application.LoginProject (4).executor": "Run",
     "Application.LoginProject.executor": "Run",
+    "Application.LoopCycle.executor": "Run",
     "Application.Lucas_Series.executor": "Run",
     "Application.Lucas_Series_StringQ5.executor": "Run",
     "Application.MDArray_forEach.executor": "Run",
     "Application.MDArray_input_user.executor": "Run",
     "Application.MDArrayusingforeach.executor": "Run",
     "Application.Main.executor": "Debug",
+    "Application.MapExample.executor": "Run",
     "Application.MapExampleCollection.executor": "Run",
     "Application.Matrices3x3_Q7.executor": "Run",
     "Application.MaxNumber.executor": "Run",
@@ -237,7 +258,8 @@
     "Application.MenuBarExample (1).executor": "Run",
     "Application.MenuBarExample.executor": "Run",
     "Application.Merg_sort.executor": "Run",
-    "Application.Merge_sort.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.Merge_sort.executor": "Debug",
     "Application.Minimum.executor": "Run",
     "Application.MinimumDistensespace.executor": "Run",
     "Application.MouseColour.executor": "Run",
@@ -250,6 +272,18 @@
     "Application.MouseListenerExample (2).executor": "Run",
     "Application.MouseListenerExample (3).executor": "Run",
     "Application.MouseListenerExample.executor": "Run",
+    "Application.MovieBookApp_21_method (1).executor": "Run",
+    "Application.MovieBookApp_21_method (2).executor": "Run",
+    "Application.MovieBookApp_21_method (3).executor": "Run",
+    "Application.MovieBookApp_21_method.executor": "Run",
+    "Application.MovieBookApp_SB_18.executor": "Run",
+    "Application.MovieBookApp_SB_19.executor": "Run",
+    "Application.MovieBookApp_SS_20 (1).executor": "Run",
+    "Application.MovieBookApp_SS_20.executor": "Run",
+    "Application.MovieBookApp_S_18 (1).executor": "Run",
+    "Application.MovieBookApp_S_18.executor": "Run",
+    "Application.MovieBookApp_Syn_17.executor": "Run",
+    "Application.MovieBookApp_W_Syn_17.executor": "Run",
     "Application.MultiException.executor": "Run",
     "Application.Multi_level_Inheritance.executor": "Run",
     "Application.Multidimensional.executor": "Run",
@@ -293,8 +327,13 @@
     "Application.PersonConstructor.executor": "Run",
     "Application.PersonProperties (1).executor": "Run",
     "Application.PersonProperties.executor": "Run",
+    "Application.Practice (1).executor": "Run",
+    "Application.Practice (2).executor": "Debug",
+    "Application.Practice (3).executor": "Run",
+    "Application.Practice.executor": "Run",
     "Application.Precties.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
+    "Application.PrioritiesThread.executor": "Run",
     "Application.ProductQ10.executor": "Run",
     "Application.ProductSell (1).executor": "Run",
     "Application.ProductSell (2).executor": "Run",
@@ -466,9 +505,11 @@
     "Application.Rectangle.executor": "Run",
     "Application.RectangleBox.executor": "Run",
     "Application.RemoveDuplicateValuefromArray.executor": "Run",
+    "Application.RemoveFirstLast.executor": "Run",
     "Application.Reveres_sereveR.executor": "Run",
     "Application.Revers_Number.executor": "Run",
     "Application.Reverse.executor": "Run",
+    "Application.ReverseList.executor": "Run",
     "Application.ReverseName.executor": "Run",
     "Application.ReverseName_Deepaksir.executor": "Run",
     "Application.ReverseName_use_charAt.executor": "Run",
@@ -480,6 +521,8 @@
     "Application.Reverses_String.executor": "Run",
     "Application.RishiCode.executor": "Run",
     "Application.Scientefic_cal.executor": "Run",
+    "Application.SearchIterative (1).executor": "Run",
+    "Application.SearchIterative.executor": "Run",
     "Application.SearchTechniques.executor": "Run",
     "Application.SecondMaxusingfunction.executor": "Run",
     "Application.Server.executor": "Run",
@@ -494,6 +537,7 @@
     "Application.Sort_Name_me.executor": "Run",
     "Application.Sort_long_name2.executor": "Run",
     "Application.SortingTechniques.executor": "Run",
+    "Application.SpaceCount.executor": "Run",
     "Application.SquareNumber.executor": "Run",
     "Application.Square_Cube.executor": "Run",
     "Application.Store_Element_in_Set.executor": "Run",
@@ -542,6 +586,9 @@
     "Application.Test2 (2).executor": "Run",
     "Application.Test2.executor": "Run",
     "Application.ThreadDemo.executor": "Run",
+    "Application.ThreadInterrupt_15.executor": "Run",
+    "Application.ThreadNameDemo (1).executor": "Run",
+    "Application.ThreadNameDemo.executor": "Run",
     "Application.Throw_throws.executor": "Run",
     "Application.Ticket_Booking (1).executor": "Run",
     "Application.Ticket_Booking.executor": "Run",
@@ -562,6 +609,7 @@
     "Application.WriteAndReadFile.executor": "Run",
     "Application.WriteFile.executor": "Run",
     "Application.XYZ.executor": "Run",
+    "Application.YieldMethod.executor": "Run",
     "Application.boxedInteger.executor": "Run",
     "Application.byDeepaksir.executor": "Run",
     "Application.charAt.executor": "Run",
@@ -597,6 +645,7 @@
     "Application.halfPyramidnumber.executor": "Run",
     "Application.increment_and_Decrement.executor": "Run",
     "Application.indexOf.executor": "Run",
+    "Application.isAlive.executor": "Run",
     "Application.javaswing.executor": "Run",
     "Application.javaswing11.executor": "Run",
     "Application.javaswing8Tabel.executor": "Run",
@@ -653,7 +702,7 @@
     "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "A:/Spring and Spring Boot/MyProject/SpringCoreDemoApp",
+    "last_opened_file_path": "G:/Spring and Spring Boot/Spring-Boot-All/SpringMvcProject/SpringMvcProject",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -680,16 +729,16 @@
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Inheritance_Inferface\Universal\Inheritance" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.interviewQuestion_DSA_Java.Searching_4" />
       <recent name="com.Java.Universal.Week6" />
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
       <recent name="com.interviewQuestion_DSA_Java.String_3.Basic" />
       <recent name="com.Java.Basic.Universal.Week2" />
-      <recent name="com.interviewQuestion_DSA_Java.Bit_Magic_15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddFirst_Last">
-    <configuration name="AddFirst_Last" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Linked_List_10.AddFirst_Last" />
+  <component name="RunManager" selected="Application.LoopCycle">
+    <configuration name="DetectLoopCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Linked_List_10.DetectLoopCycle" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -701,12 +750,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_Subarray3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Max_Subarray3" />
+    <configuration name="LoopCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Linked_List_10.LoopCycle" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Linked_List_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -714,12 +763,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleInheritanceAchieve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.Inheritance_Inferface.MultipleInheritanceAchieve" />
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java_8_17_21.Stream_API.Question.MapExample" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.Inheritance_Inferface.*" />
+          <option name="PATTERN" value="com.Java_8_17_21.Stream_API.Question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -727,12 +776,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.interviewQuestion_DSA_Java.Array_3.Trapping_Rainwater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Trapping_Rainwater" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Linked_List_10.MergeSort" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Linked_List_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -740,12 +789,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swapNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_List.swapNumber" />
+    <configuration name="boxedInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java_8_17_21.Stream_API.Question.boxedInteger" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_List.*" />
+          <option name="PATTERN" value="com.Java_8_17_21.Stream_API.Question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -755,11 +804,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AddFirst_Last" />
-        <item itemvalue="Application.swapNumber" />
-        <item itemvalue="Application.MultipleInheritanceAchieve" />
-        <item itemvalue="Application.Max_Subarray3" />
-        <item itemvalue="Application.com.interviewQuestion_DSA_Java.Array_3.Trapping_Rainwater" />
+        <item itemvalue="Application.LoopCycle" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.DetectLoopCycle" />
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.boxedInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -1031,7 +1080,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

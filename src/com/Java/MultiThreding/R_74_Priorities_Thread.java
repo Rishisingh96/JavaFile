@@ -1,6 +1,6 @@
 package com.Java.MultiThreding;
-class MyThread extends Thread{
-    public MyThread (String name) {
+class myThread extends Thread{
+    public myThread (String name) {
         super(name);
     }
     public void run(){
@@ -13,11 +13,11 @@ class MyThread extends Thread{
 }
 public class R_74_Priorities_Thread {
     public static void main(String args[]){
-        MyThread t1 = new MyThread("Rishi singh (most Important)");
-        MyThread t2 = new MyThread("Rishi singh 2");
-        MyThread t3 = new MyThread("Rishi singh 3");
-        MyThread t4 = new MyThread("Rishi singh 4");
-        MyThread t5 = new MyThread("Rishi singh 5");
+        myThread t1 = new myThread("Rishi singh (most Important)");
+        myThread t2 = new myThread("Rishi singh 2");
+        myThread t3 = new myThread("Rishi singh 3");
+        myThread t4 = new myThread("Rishi singh 4");
+        myThread t5 = new myThread("Rishi singh 5");
         t1.setPriority(Thread.MAX_PRIORITY);
         t2.setPriority(Thread.MIN_PRIORITY);
         t3.setPriority(Thread.MIN_PRIORITY);

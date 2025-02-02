@@ -7,7 +7,6 @@ interface Add
 class sum implements Add
 {
     public void add (int a,int b){
-
     }
 }
 public class Addition {
@@ -15,7 +14,12 @@ public class Addition {
         //sum  obj = new sum();
         //	obj.add(43,5);
 
-        Add ob = (a,b)->System.out.println("Your sum is = " + (a+b));
-        ob.add(56,4);
+//        Add ob = (a,b)->System.out.println("Your sum is = " + (a+b));
+//        ob.add(56,4);
+//        int a= 10;
+//        int b = 30;
+//       (a,b)-> System.out.println("Your sum is = "+(a+b));
+        Add add =  (a,b)-> System.out.println("Your sum is = "+(a+b));
+        add.add(56,4);
     }
 }

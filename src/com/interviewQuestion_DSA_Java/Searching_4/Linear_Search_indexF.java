@@ -1,9 +1,9 @@
-package com.interviewQuestion_DSA_Java.Array_3;
+package com.interviewQuestion_DSA_Java.Searching_4;
 
 /**
  * Linear_Search
  */
-public class Linear_Search {
+public class Linear_Search_indexF {
         public static int linearSearch(int numbers[], int key){
         for(int i=0; i<numbers.length; i++) {
             if(numbers[i]== key){

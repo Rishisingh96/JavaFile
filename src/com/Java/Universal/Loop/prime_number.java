@@ -29,18 +29,34 @@ public class prime_number {
         return true;
     }
 
+    private static void Prime_number3rdWay(int n) {
+        int count=0;
+        for (int i=2; i<=n/2; i++){
+            if(n%i == 0){
+                count++;
+                break;
+            }
+        }
+        if(count==0){
+            System.out.println("%d is a prime number");
+        }
+        else{
+            System.out.println("%d is not a prime number");
+        }
+    }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter your value");
         int n = scanner.nextInt();
 //        Prime_number1Way(n);
-
-        if (Prime_number2Way(n)) {
+        Prime_number3rdWay(n);
+      /*  if (Prime_number2Way(n)) {
             System.out.println("Your number is prime");
         } else {
             System.out.println("Your number is not Prime");
         }
         scanner.close(); // Remember to close the scanner
+    */
     }
 }

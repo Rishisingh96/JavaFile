@@ -4,7 +4,7 @@ public class sort_long_Name {
     public static void main(String[] args) {
         String str2 = "Rishi singh kumar jain tyagi";
         String[] words = str2.split(" ");
-       // System.out.println(words.length);
+       System.out.println(words.length);
         StringBuilder result = new StringBuilder();
 
         for (int i = 0; i < words.length; i++) {

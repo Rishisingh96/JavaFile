@@ -1,6 +1,8 @@
 package com.interviewQuestion_DSA_Java.Linked_List_10;
 
-public class AddFirst_Last {
+public class SearchIterative {
+
+
 
 
     // Define the Node class to represent each element in the linked list
@@ -97,6 +99,36 @@ public class AddFirst_Last {
         size++;
     }
 
+
+    public int itrSearch(int key){
+        Node temp = head;
+        int i = 0;
+        while(temp != null){
+            if(temp.data == key){ //key found
+                return i;
+            }
+            temp= temp.next;
+            i++;
+        }
+        return -1;
+    }
+
+    public int helper(Node head, int key) {
+        if (head == null) {
+            return -1;
+        }
+        if (head.data == key) {
+            return 0;
+        }
+        int idx = helper(head.next, key);
+        if(idx == -1){
+            return -1;
+        }
+        return idx+1;
+    }
+    public int recSearch(int key){
+        return helper(head,key);
+    }
     // Method to print the entire linked list
     public void print() {
         // Step 1: Check if the list is empty
@@ -116,10 +148,9 @@ public class AddFirst_Last {
         System.out.println("null");
     }
 
-    // Main method to test the linked list methods
-    public static void main(String[] args) {
+    public static void main(String args[]){
         // Step 1: Create an instance of AddFirst_Last
-        AddFirst_Last li = new AddFirst_Last();
+        SearchIterative li = new SearchIterative();
 
         // Step 2: Test the print method (empty list)
         li.print();
@@ -135,16 +166,21 @@ public class AddFirst_Last {
         li.addLast(3); // Add 3
         li.print();    // Print: 1->2->3->null
 
-        li.addLast(4); // Add 4
+        li.addLast(8); // Add 4
+        li.print();    // Print: 1->2->3->4->null
+
+        li.addLast(10); // Add 4
         li.print();    // Print: 1->2->3->4->null
 
         // Step 5: Add an element in the middle of the list
         li.addMiddle(2, 9); // Add 9 at index 2
         li.print();         // Print: 1->2->9->3->4->null
 
-
         // Step 6: Print the size of the linked list
         System.out.println("Size of the linked list: " + li.size); // Output: 5
+        System.out.println(li.itrSearch(3));
+        System.out.println(li.recSearch(108));
+        //reverse a number
 
     }
 }
