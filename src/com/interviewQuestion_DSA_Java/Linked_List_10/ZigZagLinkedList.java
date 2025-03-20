@@ -1,6 +1,7 @@
 package com.interviewQuestion_DSA_Java.Linked_List_10;
 
-public class MergeSort {
+public class ZigZagLinkedList {
+
     public static class Node {
         int data;  // Data stored in the node
         Node next; // Pointer to the next node in the list
@@ -99,9 +100,51 @@ public class MergeSort {
         return merge(newLeft, newRight);
     }
 
+    //
+    public void zigZag(){
+        //find mid
+
+        Node slow = head;
+        Node fast = head.next;
+        while(fast != null && fast.next != slow){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        Node mid = slow;
+
+        //reverse 2nd half
+        Node current = mid.next;
+        mid.next = null;
+        Node previous = null;
+        Node next;
+
+        while (current != null){
+            next = current.next;
+            current.next = previous;
+            previous = current;
+            current = next;
+        }
+
+        Node left = head;
+        Node right = previous;
+        Node nextL , nextR;
+
+        //alt merge - zig-zag merge
+        while (left != null && right != null){
+            nextL = left.next;
+            left.next = right;
+            nextR = right.next;
+            right.next = nextL;
+
+            left = nextL;
+            right = nextR;
+        }
+    }
+
 
     public static void main(String[] args) {
-        MergeSort list = new MergeSort();
+        ZigZagLinkedList list = new ZigZagLinkedList();
 
         // Add elements to the linked list
         list.addFirst(1);
@@ -119,113 +162,7 @@ public class MergeSort {
         System.out.println("Sorted list:");
         list.print();
 
-
+        list.zigZag();
+        list.print();
     }
 }
-/*Dry Run all code
-ChatGPT said:
-ChatGPT
-Let's perform a dry run of your merge sort implementation on a linked list. Here's the dry run of your code using the following input:
-
-Input Linked List: 5 -> 4 -> 3 -> 2 -> 1 -> null
-
-Step-by-Step Dry Run:
-Initialization:
-
-We create a MergeSort instance.
-Using the addFirst() method, we add elements 1, 2, 3, 4, 5 to the linked list. Since we are adding at the beginning each time, the final list becomes:
-rust
-Copy
-Edit
-5 -> 4 -> 3 -> 2 -> 1 -> null
-Initial Call to mergeSorts():
-
-We call mergeSorts(head) where head points to 5.
-
-Current list: 5 -> 4 -> 3 -> 2 -> 1 -> null
-
-First Split:
-Finding Midpoint (getMid()):
-
-Start with slow = 5, fast = 4.
-
-Move slow and fast: slow = 4, fast = 2.
-
-Move again: slow = 3, fast = null.
-
-Midpoint found at node 3.
-
-Split into Two Halves:
-
-Left half: 5 -> 4 -> 3 -> null
-Right half: 2 -> 1 -> null
-Recursive Calls on Each Half:
-
-Left Half (5 -> 4 -> 3):
-Finding Midpoint for Left Half (getMid()):
-
-Start with slow = 5, fast = 4.
-
-Move slow and fast: slow = 4, fast = null.
-
-Midpoint found at node 4.
-
-Split Left Half:
-
-Left sub-half: 5 -> 4 -> null
-Right sub-half: 3 -> null
-Recursive Calls on Each Sub-Half:
-
-Sub-Half (5 -> 4):
-Finding Midpoint for Sub-Half (getMid()):
-
-Start with slow = 5, fast = 4.
-Midpoint found at node 5.
-Split Sub-Half:
-
-Left: 5 -> null
-Right: 4 -> null
-Base Case for Sub-Half:
-
-Since both left and right halves have only one element, they are already sorted.
-Merge Left Sub-Half (merge()):
-
-Merge 5 and 4:
-Compare: 4 <= 5, so merged list becomes: 4 -> 5 -> null.
-Right Sub-Half (3 -> null):
-Base Case for Right Sub-Half:
-
-List contains one element (3), so it is already sorted.
-Merge Left Half (merge()):
-
-Merge 4 -> 5 and 3:
-Compare: 3 <= 4, merged list becomes: 3 -> 4 -> 5 -> null.
-Right Half (2 -> 1):
-Finding Midpoint for Right Half (getMid()):
-
-Start with slow = 2, fast = 1.
-Midpoint found at node 2.
-Split Right Half:
-
-Left: 2 -> null
-Right: 1 -> null
-Base Case for Right Half:
-
-Since both left and right halves have only one element, they are already sorted.
-Merge Right Half (merge()):
-
-Merge 2 and 1:
-Compare: 1 <= 2, merged list becomes: 1 -> 2 -> null.
-Final Merge:
-Merge Full List (merge()):
-Merge 3 -> 4 -> 5 and 1 -> 2:
-Compare: 1 <= 3, merged list becomes: 1.
-Compare: 2 <= 3, merged list becomes: 1 -> 2.
-Compare: 3 <= 4, merged list becomes: 1 -> 2 -> 3.
-Compare: 4 <= 5, merged list becomes: 1 -> 2 -> 3 -> 4.
-Append remaining node: 1 -> 2 -> 3 -> 4 -> 5.
-Final Output:
-The sorted linked list is: 1 -> 2 -> 3 -> 4 -> 5 -> null.
-
-Conclusion:
-The code correctly sorts the input linked list using the merge sort algorithm, and each step (splitting, recursive sorting, and merging) follows the intended logic.*/

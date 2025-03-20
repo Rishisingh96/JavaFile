@@ -5,40 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/JoinMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/MovieBookApp_21_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/MovieBookApp_SB_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/MovieBookApp_SS_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/MovieBookApp_S_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/MovieBookApp_W_Syn_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/PrioritiesThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/ThreadClass_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/ThreadInterrupt_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/ThreadNameDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/YieldMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/Question/EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/Question/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/FindAndRemoveNthNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/LoopCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/RemoveFirstLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/SearchIterative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/BinarySearch/Linear_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/Linear_Search_indexF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/count/SpaceCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/newFeature/InhancedSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/DurgeshSir100DayCode/InhancedSwitch_Day30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/DurgeshSir100DayCode/JsonValue_Day28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/DurgeshSir100DayCode/TyeCatchFinally_Day29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/testingshastraLoginQuestion/ReflectionAPI/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/testingshastraLoginQuestion/ReflectionAPI/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/testingshastraLoginQuestion/printHelloWihoutUseMainMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Basic/Duplicate_Array_Remove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/DoubleLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/ReverseDLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/ZigZagLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Stack_12/DuplicateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Stack_12/MaxAreaHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Stack_12/NextGreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Stack_12/PushAtBottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Stack_12/ReverseStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Stack_12/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Stack_12/StackUseArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Stack_12/StackUseCollectionF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Stack_12/StackUseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Stack_12/StockSpanProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Stack_12/ValidParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/DaemonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/DaemonThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_74_Priorities_Thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/R_74_Priorities_Thread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Universal/Loop/prime_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Universal/Loop/prime_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java_8_17_21/lamdaExpresstion/Universal/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/lamdaExpresstion/Universal/Addition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Binary_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/Binary_Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Linear_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Linear_Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/R_1_MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/R_1_MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/Merge_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Divide_Conquer_9/Merge_sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/AddFirst_Last.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/AddFirst_Last.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/sortName/sort_long_Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/sortName/sort_long_Name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Linked_List_10/MergeSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,6 +180,9 @@
     "Application.DigonalSum.executor": "Run",
     "Application.Divide.executor": "Run",
     "Application.Dog3.executor": "Run",
+    "Application.DoubleLL.executor": "Run",
+    "Application.DuplicateParentheses.executor": "Run",
+    "Application.Duplicate_Array_Remove.executor": "Debug",
     "Application.EmployHR_DAC_Cal_Q3.executor": "Run",
     "Application.EmployeeHashCodeExample.executor": "Run",
     "Application.Employee_object (1).executor": "Run",
@@ -222,6 +217,7 @@
     "Application.Hierarchical_Inheritance.executor": "Run",
     "Application.Immutable.executor": "Run",
     "Application.Increasing_Order.executor": "Run",
+    "Application.InhancedSwitch.executor": "Run",
     "Application.Input_Way.executor": "Run",
     "Application.InstanceOfExample.executor": "Run",
     "Application.Interview_Question.executor": "Run",
@@ -229,6 +225,7 @@
     "Application.Jagged_Array.executor": "Run",
     "Application.JavaMethod.executor": "Run",
     "Application.JoinMethod.executor": "Run",
+    "Application.JsonValue_Day28.executor": "Run",
     "Application.LargestStringByLength.executor": "Run",
     "Application.Largest_Number.executor": "Run",
     "Application.Linear_Search.executor": "Run",
@@ -251,6 +248,7 @@
     "Application.MapExample.executor": "Run",
     "Application.MapExampleCollection.executor": "Run",
     "Application.Matrices3x3_Q7.executor": "Run",
+    "Application.MaxAreaHistogram.executor": "Run",
     "Application.MaxNumber.executor": "Run",
     "Application.Max_Subarray2.executor": "Run",
     "Application.Max_Subarray3.executor": "Run",
@@ -258,6 +256,7 @@
     "Application.MenuBarExample (1).executor": "Run",
     "Application.MenuBarExample.executor": "Run",
     "Application.Merg_sort.executor": "Run",
+    "Application.MergeSort (1).executor": "Run",
     "Application.MergeSort.executor": "Run",
     "Application.Merge_sort.executor": "Debug",
     "Application.Minimum.executor": "Run",
@@ -301,6 +300,7 @@
     "Application.NetSalary (1).executor": "Run",
     "Application.NetSalary (2).executor": "Run",
     "Application.NetSalary.executor": "Run",
+    "Application.NextGreater.executor": "Run",
     "Application.NotePad.executor": "Run",
     "Application.NullPointerEx.executor": "Run",
     "Application.Number_guessing_game_2.executor": "Run",
@@ -347,6 +347,8 @@
     "Application.ProductSellBound (4).executor": "Run",
     "Application.ProductSellBound (5).executor": "Run",
     "Application.ProductSellBound.executor": "Run",
+    "Application.PushAtBottom.executor": "Run",
+    "Application.PushatBottom.executor": "Run",
     "Application.Q1.executor": "Run",
     "Application.Q_10_printfeatures.executor": "Run",
     "Application.Q_2.executor": "Run",
@@ -509,6 +511,7 @@
     "Application.Reveres_sereveR.executor": "Run",
     "Application.Revers_Number.executor": "Run",
     "Application.Reverse.executor": "Run",
+    "Application.ReverseDLL.executor": "Run",
     "Application.ReverseList.executor": "Run",
     "Application.ReverseName.executor": "Run",
     "Application.ReverseName_Deepaksir.executor": "Run",
@@ -516,10 +519,13 @@
     "Application.ReverseName_use_toCharArray.executor": "Run",
     "Application.ReverseNamenew.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
+    "Application.ReverseStack.executor": "Run",
+    "Application.ReverseString.executor": "Run",
     "Application.ReverseStringWord.executor": "Run",
     "Application.Reverse_Name.executor": "Run",
     "Application.Reverses_String.executor": "Run",
     "Application.RishiCode.executor": "Run",
+    "Application.RotateArray.executor": "Run",
     "Application.Scientefic_cal.executor": "Run",
     "Application.SearchIterative (1).executor": "Run",
     "Application.SearchIterative.executor": "Run",
@@ -540,6 +546,12 @@
     "Application.SpaceCount.executor": "Run",
     "Application.SquareNumber.executor": "Run",
     "Application.Square_Cube.executor": "Run",
+    "Application.StackUseArrayList (1).executor": "Run",
+    "Application.StackUseArrayList.executor": "Run",
+    "Application.StackUseCollectionF.executor": "Run",
+    "Application.StackUseLinkedList (2).executor": "Run",
+    "Application.StackUseLinkedList.executor": "Run",
+    "Application.StockSpanProblem.executor": "Run",
     "Application.Store_Element_in_Set.executor": "Run",
     "Application.StreamApi.executor": "Run",
     "Application.StreamObject.executor": "Run",
@@ -599,6 +611,7 @@
     "Application.TreeMapOperations.executor": "Run",
     "Application.TreeSetExample.executor": "Run",
     "Application.TwoString_save_file.executor": "Run",
+    "Application.TyeCatchFinally_Day29.executor": "Run",
     "Application.Uppercase.executor": "Run",
     "Application.WaitNotifyExample.executor": "Run",
     "Application.Waysofcreatset.executor": "Run",
@@ -610,6 +623,7 @@
     "Application.WriteFile.executor": "Run",
     "Application.XYZ.executor": "Run",
     "Application.YieldMethod.executor": "Run",
+    "Application.ZigZagLinkedList.executor": "Run",
     "Application.boxedInteger.executor": "Run",
     "Application.byDeepaksir.executor": "Run",
     "Application.charAt.executor": "Run",
@@ -702,7 +716,7 @@
     "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "G:/Spring and Spring Boot/Spring-Boot-All/SpringMvcProject/SpringMvcProject",
+    "last_opened_file_path": "G:/Spring and Spring Boot/2025 Spring and Microservices/Quize-API/Quize-API",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -729,20 +743,20 @@
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Inheritance_Inferface\Universal\Inheritance" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Java.DurgeshSir100DayCode" />
+      <recent name="com.interviewQuestion_DSA_Java.Stack_12" />
       <recent name="com.interviewQuestion_DSA_Java.Searching_4" />
       <recent name="com.Java.Universal.Week6" />
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
-      <recent name="com.interviewQuestion_DSA_Java.String_3.Basic" />
-      <recent name="com.Java.Basic.Universal.Week2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LoopCycle">
-    <configuration name="DetectLoopCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Linked_List_10.DetectLoopCycle" />
+  <component name="RunManager" selected="Application.MaxAreaHistogram">
+    <configuration name="InhancedSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Basic.newFeature.InhancedSwitch" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Linked_List_10.*" />
+          <option name="PATTERN" value="com.Java.Basic.newFeature.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -750,12 +764,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Linked_List_10.LoopCycle" />
+    <configuration name="JsonValue_Day28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.DurgeshSir100DayCode.JsonValue_Day28" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Linked_List_10.*" />
+          <option name="PATTERN" value="com.Java.DurgeshSir100DayCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -763,12 +777,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java_8_17_21.Stream_API.Question.MapExample" />
+    <configuration name="MaxAreaHistogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Stack_12.MaxAreaHistogram" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java_8_17_21.Stream_API.Question.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Stack_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -776,12 +790,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Linked_List_10.MergeSort" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.testingshastraLoginQuestion.ReflectionAPI.Test" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Linked_List_10.*" />
+          <option name="PATTERN" value="com.Java.testingshastraLoginQuestion.ReflectionAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -789,12 +803,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="boxedInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java_8_17_21.Stream_API.Question.boxedInteger" />
+    <configuration name="TyeCatchFinally_Day29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.DurgeshSir100DayCode.TyeCatchFinally_Day29" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java_8_17_21.Stream_API.Question.*" />
+          <option name="PATTERN" value="com.Java.DurgeshSir100DayCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -804,11 +818,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LoopCycle" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.DetectLoopCycle" />
-        <item itemvalue="Application.MapExample" />
-        <item itemvalue="Application.boxedInteger" />
+        <item itemvalue="Application.MaxAreaHistogram" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.JsonValue_Day28" />
+        <item itemvalue="Application.TyeCatchFinally_Day29" />
+        <item itemvalue="Application.InhancedSwitch" />
       </list>
     </recent_temporary>
   </component>

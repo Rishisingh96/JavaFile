@@ -1,8 +1,8 @@
-package com.interviewQuestion_DSA_Java.Array_3;
+package com.interviewQuestion_DSA_Java.Stack_12;
 
 import java.util.Stack;
 
-public class RotateArray {
+public class NextGreater {
     public static void main(String[] args) {
         int arr[] = {6,8,0,1,3};
         Stack<Integer> s = new Stack<>();
