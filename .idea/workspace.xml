@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Queue/ArrayImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Queue/CircularQueueArrayUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Queue/PrintNonRepeatingWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Queue/Queue_using2Stacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Queue/StackUsing2Queues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Queue/UsingLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Queue/Interleave2HalvesOfaQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Queue/QueueReversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -205,6 +200,7 @@
     "Application.InhancedSwitch.executor": "Run",
     "Application.Input_Way.executor": "Run",
     "Application.InstanceOfExample.executor": "Run",
+    "Application.Interleave2HalvesOfaQueue.executor": "Run",
     "Application.Interview_Question.executor": "Run",
     "Application.Introduction.executor": "Run",
     "Application.Jagged_Array.executor": "Run",
@@ -341,6 +337,7 @@
     "Application.Q_3.executor": "Run",
     "Application.QueenRightPotion_SM.executor": "Debug",
     "Application.Queen_2D__Possibility_SM.executor": "Debug",
+    "Application.QueueReversal.executor": "Run",
     "Application.Queue_Class.executor": "Run",
     "Application.Queue_using2Stacks (1).executor": "Run",
     "Application.Queue_using2Stacks.executor": "Run",
@@ -743,9 +740,35 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintNonRepeatingWord">
+  <component name="RunManager" selected="Application.Interleave2HalvesOfaQueue">
+    <configuration name="Interleave2HalvesOfaQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Queue.Interleave2HalvesOfaQueue" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintNonRepeatingWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Queue.PrintNonRepeatingWord" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Queue.QueueReversal" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -785,6 +808,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Interleave2HalvesOfaQueue" />
+        <item itemvalue="Application.QueueReversal" />
         <item itemvalue="Application.PrintNonRepeatingWord" />
         <item itemvalue="Application.StackUsing2Queues" />
         <item itemvalue="Application.Queue_using2Stacks (1)" />
