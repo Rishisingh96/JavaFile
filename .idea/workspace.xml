@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Queue/Interleave2HalvesOfaQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Queue/QueueReversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/GFG_100_Q/FindUniqueNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Greedy_Algorithms_20/ActivitySelectionAlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Greedy_Algorithms_20/ActivitySelectionUseSortingAlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Queue/BasicImplimentation/Deque_Double_Ended_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Queue/BasicImplimentation/QueuePrintUsingCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Queue/Question/GenerateBinaryNumberCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Queue/Question/StackAndQueueUsingDeque.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +97,8 @@
     "Application.ActionListenerP (4).executor": "Run",
     "Application.ActionListenerP (5).executor": "Run",
     "Application.ActionListenerP.executor": "Run",
+    "Application.ActivitySelectionAlg.executor": "Run",
+    "Application.ActivitySelectionUseSortingAlg.executor": "Debug",
     "Application.AddFirst_Last.executor": "Run",
     "Application.AddNum.executor": "Run",
     "Application.AddTwoQueue.executor": "Run",
@@ -155,6 +162,7 @@
     "Application.DataTypefind.executor": "Run",
     "Application.Data_Type_find.executor": "Run",
     "Application.Decreasing_Order.executor": "Run",
+    "Application.Deque_Double_Ended_Queue.executor": "Run",
     "Application.DetectLoopCycle.executor": "Run",
     "Application.DigitCount.executor": "Run",
     "Application.DigonalSum.executor": "Run",
@@ -191,7 +199,9 @@
     "Application.FindNumberofOccurence.executor": "Run",
     "Application.FindSecondBiggest.executor": "Run",
     "Application.FindSubset_SM.executor": "Run",
+    "Application.FindUniqueNumber.executor": "Run",
     "Application.Find_BiggestEven_Odd.executor": "Run",
+    "Application.GenerateBinaryNumber.executor": "Run",
     "Application.GridWays.executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.Hierarchical_Inheritance.executor": "Run",
@@ -531,6 +541,7 @@
     "Application.SpaceCount.executor": "Run",
     "Application.SquareNumber.executor": "Run",
     "Application.Square_Cube.executor": "Run",
+    "Application.StackAndQueueUsingDeque.executor": "Run",
     "Application.StackUseArrayList (1).executor": "Run",
     "Application.StackUseArrayList.executor": "Run",
     "Application.StackUseCollectionF.executor": "Run",
@@ -706,7 +717,7 @@
     "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "G:/Spring and Spring Boot/Microservices and other/QuizeService/QuizeService",
+    "last_opened_file_path": "G:/Spring and Spring Boot/E-Commerce by Code with Zosh/Ecommerce App/Ecommerce-App",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -740,13 +751,13 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Interleave2HalvesOfaQueue">
-    <configuration name="Interleave2HalvesOfaQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Queue.Interleave2HalvesOfaQueue" />
+  <component name="RunManager" selected="Application.ActivitySelectionUseSortingAlg">
+    <configuration name="ActivitySelectionAlg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Greedy_Algorithms_20.ActivitySelectionAlg" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Queue.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Greedy_Algorithms_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -754,12 +765,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintNonRepeatingWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Queue.PrintNonRepeatingWord" />
+    <configuration name="ActivitySelectionUseSortingAlg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Greedy_Algorithms_20.ActivitySelectionUseSortingAlg" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Queue.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Greedy_Algorithms_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -767,12 +778,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Queue.QueueReversal" />
+    <configuration name="FindUniqueNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.GFG_100_Q.FindUniqueNumber" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Queue.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.GFG_100_Q.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -780,12 +791,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue_using2Stacks (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Queue.Queue_using2Stacks" />
+    <configuration name="GenerateBinaryNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Queue.Question.GenerateBinaryNumber" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Queue.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Queue.Question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -793,12 +804,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackUsing2Queues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Queue.StackUsing2Queues" />
+    <configuration name="StackAndQueueUsingDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Queue.Question.StackAndQueueUsingDeque" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Queue.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Queue.Question.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -808,11 +819,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Interleave2HalvesOfaQueue" />
-        <item itemvalue="Application.QueueReversal" />
-        <item itemvalue="Application.PrintNonRepeatingWord" />
-        <item itemvalue="Application.StackUsing2Queues" />
-        <item itemvalue="Application.Queue_using2Stacks (1)" />
+        <item itemvalue="Application.ActivitySelectionUseSortingAlg" />
+        <item itemvalue="Application.ActivitySelectionAlg" />
+        <item itemvalue="Application.FindUniqueNumber" />
+        <item itemvalue="Application.GenerateBinaryNumber" />
+        <item itemvalue="Application.StackAndQueueUsingDeque" />
       </list>
     </recent_temporary>
   </component>
