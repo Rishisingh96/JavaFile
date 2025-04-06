@@ -1,0 +1,263 @@
+✅ Matrix Rotation & Transformation
+
+1. Rotate a square matrix by 90 degrees clockwise (in-place)
+
+Input:
+
+1 2 3
+4 5 6
+7 8 9
+
+Output:
+
+7 4 1
+8 5 2
+9 6 3
+
+2. Rotate a square matrix by 90 degrees anti-clockwise (in-place)
+
+Input:
+
+1 2 3
+4 5 6
+7 8 9
+
+Output:
+
+3 6 9
+2 5 8
+1 4 7
+
+3. Transpose of a matrix
+
+Input:
+
+1 2 3
+4 5 6
+7 8 9
+
+Output:
+
+1 4 7
+2 5 8
+3 6 9
+
+4. Check if a matrix is symmetric
+
+Input:
+
+1 2 3
+2 4 5
+3 5 6
+
+Output:
+
+True (Symmetric)
+
+🔍 Searching in 2D Arrays
+
+5. Search in row-wise and column-wise sorted matrix
+
+Input:
+
+1  4  7
+8  10 12
+14 16 20
+Target: 10
+
+Output:
+
+Found at position (1, 1)
+
+6. Search in sorted matrix (LeetCode-style)
+
+Input:
+
+1 3 5 7
+10 11 16 20
+23 30 34 50
+Target: 3
+
+Output:
+
+Found at position (0, 1)
+
+7. Binary Search in a 2D Matrix
+
+Input:
+
+Matrix is sorted in row-major form
+1 3 5 7
+10 11 16 20
+23 30 34 50
+Target: 34
+
+Output:
+
+Found at position (2, 2)
+
+💡 Spiral and Zigzag Traversal
+
+8. Spiral Order Traversal
+
+Input:
+
+1 2 3
+4 5 6
+7 8 9
+
+Output:
+
+1 2 3 6 9 8 7 4 5
+
+9. Zigzag / Diagonal Traversal
+
+Input:
+
+1 2 3
+4 5 6
+7 8 9
+
+Output:
+
+1 2 4 7 5 3 6 8 9
+
+🔁 Matrix Manipulation Problems
+
+10. Set entire row and column to 0 if an element is 0
+
+Input:
+
+1 1 1
+1 0 1
+1 1 1
+
+Output:
+
+1 0 1
+0 0 0
+1 0 1
+
+11. Flip the image (horizontal flip + invert)
+
+Input:
+
+1 0 0
+0 1 0
+1 1 1
+
+Output:
+
+1 1 0
+1 0 1
+0 0 0
+
+12. Rotate using transpose + reverse
+
+Input:
+
+1 2 3
+4 5 6
+7 8 9
+
+Output (clockwise):
+
+7 4 1
+8 5 2
+9 6 3
+
+📏 Pattern & Traversal
+
+13. Snake Pattern Print
+
+Input:
+
+1 2 3
+4 5 6
+7 8 9
+
+Output:
+
+1 2 3
+6 5 4
+7 8 9
+
+14. Print matrix boundary elements
+
+Input:
+
+1 2 3
+4 5 6
+7 8 9
+
+Output:
+
+1 2 3 6 9 8 7 4
+
+15. Find maximum element in each row
+
+Input:
+
+1 2 3
+4 9 6
+7 8 5
+
+Output:
+
+3 9 8
+
+💣 Hard Level
+
+16. Find row with maximum 1s (each row sorted)
+
+Input:
+
+0 0 1 1
+0 1 1 1
+1 1 1 1
+0 0 0 1
+
+Output:
+
+Row 2 has the maximum 1s
+
+17. Count number of islands (DFS in 2D Grid)
+
+Input:
+
+1 1 0 0
+0 1 0 0
+1 0 0 1
+0 0 1 1
+
+Output:
+
+Number of islands = 3
+
+18. Largest square of 1s in binary matrix
+
+Input:
+
+1 0 1 0 0
+1 0 1 1 1
+1 1 1 1 1
+1 0 0 1 0
+
+Output:
+
+Largest square area: 9
+
+📘 Bonus: Pattern Printing
+
+19. Print star pattern (Diamond)
+
+Input: N = 3
+Output:
+
+  *
+ ***
+*****
+ ***
+  *
+
+✅ Would you like Java code + dry run for each? I can begin one by one.

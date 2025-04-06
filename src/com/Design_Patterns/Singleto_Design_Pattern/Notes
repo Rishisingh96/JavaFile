@@ -1,0 +1,272 @@
+It looks like you want to implement a Singleton class (SamosaRA) in Java with protection against Reflection API attacks, and then test it using the ExampleRA class. Below is a corrected and improved version of your code:
+
+Updated Singleton Class (SamosaRA)
+Uses double-checked locking for thread safety.
+
+Throws an exception if an attempt is made to break the Singleton using Reflection API.
+
+java
+Copy
+Edit
+package com.Design_Patterns.Singleton_Design_Pattern;
+
+public class SamosaRA {
+    private static volatile SamosaRA samosa; // Volatile to ensure visibility across threads
+
+    // Private constructor to prevent instantiation
+    private SamosaRA() {
+        if (samosa != null) {
+            throw new RuntimeException("You are trying to break singleton pattern using Reflection API");
+        }
+    }
+
+    // Public method to get the instance (Thread-safe with double-checked locking)
+    public static SamosaRA getSamosa() {
+        if (samosa == null) {
+            synchronized (SamosaRA.class) { // Lock the class to prevent multiple instantiations
+                if (samosa == null) {
+                    samosa = new SamosaRA(); // Create the instance
+                }
+            }
+        }
+        return samosa;
+    }
+}
+Testing Singleton with Reflection (ExampleRA)
+Attempts to create another instance using Reflection API.
+
+Handles exception properly if an attack is detected.
+
+java
+Copy
+Edit
+package com.Design_Patterns.Singleton_Design_Pattern;
+
+import java.lang.reflect.Constructor;
+
+public class ExampleRA {
+    public static void main(String[] args) {
+        try {
+            // Get singleton instance
+            SamosaRA samosa1 = SamosaRA.getSamosa();
+            System.out.println("Samosa 1 hashcode: " + samosa1.hashCode());
+
+            // Try to break Singleton using Reflection
+            Constructor<SamosaRA> constructor = SamosaRA.class.getDeclaredConstructor();
+            constructor.setAccessible(true); // Break encapsulation
+
+            // This should throw an exception
+            SamosaRA samosa2 = constructor.newInstance();
+            System.out.println("Samosa 2 hashcode: " + samosa2.hashCode());
+        } catch (Exception e) {
+            System.out.println("Exception caught: " + e.getMessage());
+        }
+    }
+}
+Expected Output:
+sql
+Copy
+Edit
+Samosa 1 hashcode: 12345678
+Exception caught: You are trying to break singleton pattern using Reflection API
+This implementation successfully prevents Singleton violations using Reflection. Let me know if you need further modifications! 🚀
+
+
+
+
+
+
+
+
+You said:
+How many Singleton methods present in Design patten
+
+
+ChatGPT said:
+In design patterns, there are several ways to implement the Singleton pattern. The most commonly used methods include:
+
+1. Eager Initialization
+The instance is created at the time of class loading.
+
+It is simple but not efficient if the instance is never used.
+
+java
+Copy
+Edit
+public class EagerSingleton {
+    private static final EagerSingleton instance = new EagerSingleton();
+
+    private EagerSingleton() { }
+
+    public static EagerSingleton getInstance() {
+        return instance;
+    }
+}
+✅ Pros: Fast, thread-safe.
+❌ Cons: Instance is created even if not used.
+
+2. Lazy Initialization (Non-Thread Safe)
+The instance is created only when requested.
+
+Not thread-safe (may create multiple instances in a multithreading environment).
+
+java
+Copy
+Edit
+public class LazySingleton {
+    private static LazySingleton instance;
+
+    private LazySingleton() { }
+
+    public static LazySingleton getInstance() {
+        if (instance == null) {
+            instance = new LazySingleton();
+        }
+        return instance;
+    }
+}
+✅ Pros: Saves memory by creating the instance only when needed.
+❌ Cons: Not thread-safe (multiple threads can create multiple instances).
+
+3. Thread-Safe Singleton (Synchronized Method)
+Uses synchronized to prevent multiple instances.
+
+Slower performance due to synchronized method.
+
+java
+Copy
+Edit
+public class ThreadSafeSingleton {
+    private static ThreadSafeSingleton instance;
+
+    private ThreadSafeSingleton() { }
+
+    public static synchronized ThreadSafeSingleton getInstance() {
+        if (instance == null) {
+            instance = new ThreadSafeSingleton();
+        }
+        return instance;
+    }
+}
+✅ Pros: Thread-safe.
+❌ Cons: Performance overhead due to synchronized method.
+
+4. Double-Checked Locking (Best Practice)
+Uses synchronized block for efficiency.
+
+The volatile keyword ensures visibility in a multithreaded environment.
+
+java
+Copy
+Edit
+public class DoubleCheckedSingleton {
+    private static volatile DoubleCheckedSingleton instance;
+
+    private DoubleCheckedSingleton() { }
+
+    public static DoubleCheckedSingleton getInstance() {
+        if (instance == null) {
+            synchronized (DoubleCheckedSingleton.class) {
+                if (instance == null) {
+                    instance = new DoubleCheckedSingleton();
+                }
+            }
+        }
+        return instance;
+    }
+}
+✅ Pros: Efficient, thread-safe, and lazy-loaded.
+❌ Cons: Slightly complex.
+
+5. Bill Pugh Singleton (Best Performance)
+Uses a static inner helper class.
+
+Instance is created only when accessed.
+
+java
+Copy
+Edit
+public class BillPughSingleton {
+    private BillPughSingleton() { }
+
+    private static class SingletonHelper {
+        private static final BillPughSingleton INSTANCE = new BillPughSingleton();
+    }
+
+    public static BillPughSingleton getInstance() {
+        return SingletonHelper.INSTANCE;
+    }
+}
+✅ Pros: Best performance, thread-safe, and lazy initialization.
+❌ Cons: Slightly complex to understand.
+
+6. Enum Singleton (Best for Serialization)
+The simplest way to implement Singleton.
+
+Prevents Reflection API attacks and is serialization-safe.
+
+java
+Copy
+Edit
+public enum EnumSingleton {
+    INSTANCE;
+
+    public void showMessage() {
+        System.out.println("Hello from Enum Singleton!");
+    }
+}
+✅ Pros: Thread-safe, serialization-safe, reflection-proof.
+❌ Cons: Can't extend other classes.
+
+7. Serializable Singleton (Handling Serialization Issue)
+Ensures only one instance exists even after deserialization.
+
+java
+Copy
+Edit
+import java.io.Serializable;
+
+public class SerializableSingleton implements Serializable {
+    private static final long serialVersionUID = 1L;
+    private static SerializableSingleton instance;
+
+    private SerializableSingleton() { }
+
+    public static SerializableSingleton getInstance() {
+        if (instance == null) {
+            instance = new SerializableSingleton();
+        }
+        return instance;
+    }
+
+    protected Object readResolve() {
+        return getInstance();
+    }
+}
+✅ Pros: Prevents duplicate instances after deserialization.
+❌ Cons: Requires extra handling.
+
+Conclusion
+Singleton Method	Thread-Safe	Lazy Initialization	Performance
+Eager Initialization	✅	❌	⭐⭐⭐⭐⭐ (Best)
+Lazy Initialization	❌	✅	⭐⭐
+Thread-Safe (Synchronized Method)	✅	✅	⭐
+Double-Checked Locking	✅	✅	⭐⭐⭐⭐
+Bill Pugh Singleton	✅	✅	⭐⭐⭐⭐⭐ (Best)
+Enum Singleton	✅	✅	⭐⭐⭐⭐⭐ (Best)
+Serializable Singleton	✅	✅	⭐⭐⭐
+Best Practices
+Use Bill Pugh Singleton or Enum Singleton in most cases.
+
+Use Double-Checked Locking if synchronization is required.
+
+Avoid Lazy Initialization without synchronization in multi-threaded environments.
+
+Would you like examples with testing code for any of these? 🚀
+
+
+
+
+
+
+

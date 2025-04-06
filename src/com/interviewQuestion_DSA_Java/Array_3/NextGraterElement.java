@@ -2,7 +2,7 @@ package com.interviewQuestion_DSA_Java.Array_3;
 
 import java.util.Stack;
 
-public class RotateArray {
+public class NextGraterElement {
     public static void main(String[] args) {
         int arr[] = {6,8,0,1,3};
         Stack<Integer> s = new Stack<>();
@@ -24,7 +24,7 @@ public class RotateArray {
             s.push(i);
         }
         for(int i=0; i<nxtGreater.length; i++){
-            System.out.print(nxtGreater[i] + " ");
+            System.out.print("Next Grater "  + nxtGreater[i] + " ");
         }
         System.out.println();
         // 4 type ke Question ban sakte hai
