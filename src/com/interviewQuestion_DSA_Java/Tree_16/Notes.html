@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Binary Tree Operations</title>
+    <style>
+        body {
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          background: #f9f9f9;
+          color: #333;
+          padding: 40px;
+          max-width: 900px;
+          margin: auto;
+          line-height: 1.7;
+        }
+
+        h1 {
+          text-align: center;
+          color: #2c3e50;
+          margin-bottom: 30px;
+        }
+
+        .operation {
+          background-color: #fff;
+          border-left: 5px solid #3498db;
+          padding: 20px;
+          margin-bottom: 20px;
+          box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+          border-radius: 10px;
+        }
+
+        .operation h2 {
+          margin: 0;
+          font-size: 1.3em;
+          color: #2980b9;
+        }
+
+        .method {
+          color: #27ae60;
+          font-weight: bold;
+        }
+
+        code {
+          display: block;
+          background: #f4f4f4;
+          padding: 10px;
+          margin-top: 10px;
+          border-left: 3px solid #ccc;
+          font-family: Consolas, monospace;
+          white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+<h1>🌳 Binary Tree Operations in Java</h1>
+
+<div class="operation">
+    <h2>1. Build a Binary Tree</h2>
+    <p><span class="method">Method:</span> buildTree(int[] nodes)</p>
+    <p><strong>Purpose:</strong> Construct tree recursively from preorder array with -1 as null.</p>
+</div>
+
+<div class="operation">
+    <h2>2. Tree Traversals</h2>
+    <p><strong>Inorder:</strong> inorder(Node root) → Left → Root → Right</p>
+    <p><strong>Preorder:</strong> preorder(Node root) → Root → Left → Right</p>
+    <p><strong>Postorder:</strong> postorder(Node root) → Left → Right → Root</p>
+    <p><strong>Level Order:</strong> levelOrder(Node root) → BFS Level-wise</p>
+</div>
+
+<div class="operation">
+    <h2>3. Count Total Nodes</h2>
+    <p><span class="method">Method:</span> countNodes(Node root)</p>
+    <code>
+        public static int countNodes(Node root) {
+        if (root == null) return 0;
+        return 1 + countNodes(root.left) + countNodes(root.right);
+        }
+    </code>
+</div>
+
+<div class="operation">
+    <h2>4. Count Leaf Nodes</h2>
+    <p><span class="method">Method:</span> countLeafNodes(Node root)</p>
+    <code>
+        public static int countLeafNodes(Node root) {
+        if (root == null) return 0;
+        if (root.left == null && root.right == null) return 1;
+        return countLeafNodes(root.left) + countLeafNodes(root.right);
+        }
+    </code>
+</div>
+
+<div class="operation">
+    <h2>5. Height of Tree</h2>
+    <p><span class="method">Method:</span> height(Node root)</p>
+    <code>
+        public static int height(Node root) {
+        if (root == null) return 0;
+        return Math.max(height(root.left), height(root.right)) + 1;
+        }
+    </code>
+</div>
+
+<div class="operation">
+    <h2>6. Sum of All Nodes</h2>
+    <p><span class="method">Method:</span> sumOfNodes(Node root)</p>
+    <code>
+        public static int sumOfNodes(Node root) {
+        if (root == null) return 0;
+        return root.data + sumOfNodes(root.left) + sumOfNodes(root.right);
+        }
+    </code>
+</div>
+
+<div class="operation">
+    <h2>7. Search a Node</h2>
+    <p><span class="method">Method:</span> search(Node root, int key)</p>
+    <code>
+        public static boolean search(Node root, int key) {
+        if (root == null) return false;
+        if (root.data == key) return true;
+        return search(root.left, key) || search(root.right, key);
+        }
+    </code>
+</div>
+
+<div class="operation">
+    <h2>8. Mirror Tree</h2>
+    <p><span class="method">Method:</span> mirror(Node root)</p>
+    <code>
+        public static void mirror(Node root) {
+        if (root == null) return;
+        Node temp = root.left;
+        root.left = root.right;
+        root.right = temp;
+
+        mirror(root.left);
+        mirror(root.right);
+        }
+    </code>
+</div>
+
+<div class="operation">
+    <h2>9. Check if Tree is Balanced</h2>
+    <p><span class="method">Method:</span> isBalanced(Node root)</p>
+    <code>
+        public static boolean isBalanced(Node root) {
+        return checkHeight(root) != -1;
+        }
+        private static int checkHeight(Node root) {
+        if (root == null) return 0;
+        int left = checkHeight(root.left);
+        if (left == -1) return -1;
+        int right = checkHeight(root.right);
+        if (right == -1) return -1;
+        if (Math.abs(left - right) > 1) return -1;
+        return Math.max(left, right) + 1;
+        }
+    </code>
+</div>
+
+<div class="operation">
+    <h2>10. Diameter of Tree</h2>
+    <p><span class="method">Method:</span> diameter(Node root)</p>
+    <code>
+        static int diameter = 0;
+        public static int diameter(Node root) {
+        diameter = 0;
+        diameterUtil(root);
+        return diameter;
+        }
+        private static int diameterUtil(Node root) {
+        if (root == null) return 0;
+        int left = diameterUtil(root.left);
+        int right = diameterUtil(root.right);
+        diameter = Math.max(diameter, left + right + 1);
+        return Math.max(left, right) + 1;
+        }
+    </code>
+</div>
+
+<div class="operation">
+    <h2>11. Max Path Sum</h2>
+    <p><span class="method">Method:</span> maxPathSum(Node root)</p>
+    <code>
+        static int maxPathSum = Integer.MIN_VALUE;
+        public static int maxPathSum(Node root) {
+        maxPathSum = Integer.MIN_VALUE;
+        maxPathSumUtil(root);
+        return maxPathSum;
+        }
+        private static int maxPathSumUtil(Node root) {
+        if (root == null) return 0;
+        int left = Math.max(0, maxPathSumUtil(root.left));
+        int right = Math.max(0, maxPathSumUtil(root.right));
+        maxPathSum = Math.max(maxPathSum, left + right + root.data);
+        return root.data + Math.max(left, right);
+        }
+    </code>
+</div>
+
+<div class="operation">
+    <h2>12. Lowest Common Ancestor (LCA)</h2>
+    <p><span class="method">Method:</span> lca(Node root, int n1, int n2)</p>
+    <code>
+        public static Node lca(Node root, int n1, int n2) {
+        if (root == null || root.data == n1 || root.data == n2) return root;
+        Node left = lca(root.left, n1, n2);
+        Node right = lca(root.right, n1, n2);
+        if (left != null && right != null) return root;
+        return (left != null) ? left : right;
+        }
+    </code>
+</div>
+
+<div class="operation">
+    <h2>13. Print K Level Nodes</h2>
+    <p><span class="method">Method:</span> printKLevel(Node root, int k)</p>
+    <code>
+        public static void printKLevel(Node root, int k) {
+        if (root == null) return;
+        if (k == 0) {
+        System.out.print(root.data + " ");
+        return;
+        }
+        printKLevel(root.left, k - 1);
+        printKLevel(root.right, k - 1);
+        }
+    </code>
+</div>
+
+<div class="operation">
+    <h2>14. Is Subtree</h2>
+    <p><span class="method">Method:</span> isSubtree(Node main, Node sub)</p>
+    <code>
+        public static boolean isSubtree(Node main, Node sub) {
+        if (sub == null) return true;
+        if (main == null) return false;
+        if (isIdentical(main, sub)) return true;
+        return isSubtree(main.left, sub) || isSubtree(main.right, sub);
+        }
+        private static boolean isIdentical(Node a, Node b) {
+        if (a == null && b == null) return true;
+        if (a == null || b == null || a.data != b.data) return false;
+        return isIdentical(a.left, b.left) && isIdentical(a.right, b.right);
+        }
+    </code>
+</div>
+
+<div class="operation">
+    <h2>15. Right View</h2>
+    <p><span class="method">Method:</span> rightView(Node root)</p>
+    <code>
+        static int maxLevelRight = -1;
+        public static void rightView(Node root) {
+        rightViewUtil(root, 0);
+        }
+        private static void rightViewUtil(Node root, int level) {
+        if (root == null) return;
+        if (level > maxLevelRight) {
+        System.out.print(root.data + " ");
+        maxLevelRight = level;
+        }
+        rightViewUtil(root.right, level + 1);
+        rightViewUtil(root.left, level + 1);
+        }
+    </code>
+</div>
+
+<div class="operation">
+    <h2>16. Left View</h2>
+    <p><span class="method">Method:</span> leftView(Node root)</p>
+    <code>
+        static int maxLevelLeft = -1;
+        public static void leftView(Node root) {
+        leftViewUtil(root, 0);
+        }
+        private static void leftViewUtil(Node root, int level) {
+        if (root == null) return;
+        if (level > maxLevelLeft) {
+        System.out.print(root.data + " ");
+        maxLevelLeft = level;
+        }
+        leftViewUtil(root.left, level + 1);
+        leftViewUtil(root.right, level + 1);
+        }
+    </code>
+</div>
+</body>
+</html>

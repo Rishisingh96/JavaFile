@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Binary Tree Notes (DSA + Java)</title>
+    <style>
+        body {
+          font-family: 'Segoe UI', sans-serif;
+          background-color: #f5f7fa;
+          color: #2c3e50;
+          line-height: 1.7;
+          margin: 0;
+          padding: 40px;
+          max-width: 1000px;
+          margin: auto;
+        }
+
+        h1, h2 {
+          color: #2980b9;
+        }
+
+        h1 {
+          text-align: center;
+          font-size: 2.5em;
+        }
+
+        .section {
+          background-color: #ffffff;
+          padding: 25px;
+          border-radius: 10px;
+          box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+          margin-bottom: 30px;
+        }
+
+        pre {
+          background-color: #ecf0f1;
+          padding: 15px;
+          overflow-x: auto;
+          font-family: Consolas, monospace;
+          border-left: 4px solid #3498db;
+          border-radius: 5px;
+        }
+
+        .tag {
+          font-weight: bold;
+          color: #27ae60;
+        }
+
+        .emoji {
+          font-weight: bold;
+        }
+
+        code {
+          background-color: #f2f2f2;
+          padding: 2px 5px;
+          border-radius: 3px;
+          font-family: Consolas, monospace;
+        }
+    </style>
+</head>
+<body>
+
+<h1>🌳 Binary Tree in Java – DSA Notes</h1>
+
+<div class="section">
+    <h2>✅ 1. What is a Binary Tree?</h2>
+    <p><span class="emoji">📘 Definition:</span> A Binary Tree is a hierarchical data structure in which each node has at most <strong>two children</strong>: left and right.</p>
+
+    <pre>
+       1
+     /   \
+    2     3
+   / \
+  4   5
+    </pre>
+
+    <p><span class="tag">Root:</span> 1<br/>
+        <span class="tag">Leaf nodes:</span> 3, 4, 5</p>
+</div>
+
+<div class="section">
+    <h2>✅ 2. Tree Traversals</h2>
+
+    <h3>🔍 Method: inorder(Node root)</h3>
+    <p><span class="emoji">✅ Purpose:</span> Traverse the tree in <code>Left → Root → Right</code> order.</p>
+    <p><span class="emoji">🧠 Logic:</span></p>
+    <ul>
+        <li>Recursively go to left</li>
+        <li>Print root</li>
+        <li>Recursively go to right</li>
+    </ul>
+    <pre>
+public static void inorder(Node root) {
+    if (root == null) return;
+    inorder(root.left);
+    System.out.print(root.data + " ");
+    inorder(root.right);
+}
+    </pre>
+
+    <h3>🔍 Method: preorder(Node root)</h3>
+    <p><span class="emoji">✅ Purpose:</span> Traverse in <code>Root → Left → Right</code></p>
+    <pre>
+public static void preorder(Node root) {
+    if (root == null) return;
+    System.out.print(root.data + " ");
+    preorder(root.left);
+    preorder(root.right);
+}
+    </pre>
+
+    <h3>🔍 Method: postorder(Node root)</h3>
+    <p><span class="emoji">✅ Purpose:</span> Traverse in <code>Left → Right → Root</code></p>
+    <pre>
+public static void postorder(Node root) {
+    if (root == null) return;
+    postorder(root.left);
+    postorder(root.right);
+    System.out.print(root.data + " ");
+}
+    </pre>
+
+    <h3>🔍 Method: levelOrder(Node root)</h3>
+    <p><span class="emoji">✅ Purpose:</span> Traverse nodes <strong>level by level</strong> (BFS)</p>
+    <pre>
+public static void levelOrder(Node root) {
+    if (root == null) return;
+
+    Queue&lt;Node&gt; q = new LinkedList&lt;&gt;();
+    q.add(root);
+
+    while (!q.isEmpty()) {
+        Node curr = q.poll();
+        System.out.print(curr.data + " ");
+        if (curr.left != null) q.add(curr.left);
+        if (curr.right != null) q.add(curr.right);
+    }
+}
+    </pre>
+</div>
+
+<div class="section">
+    <h2>✅ 3. Binary Tree Operations</h2>
+
+    <h3>🔍 Method: countNodes</h3>
+    <p><span class="emoji">✅ Purpose:</span> Count total number of nodes</p>
+    <pre>
+public static int countNodes(Node root) {
+    if (root == null) return 0;
+    return 1 + countNodes(root.left) + countNodes(root.right);
+}
+    </pre>
+
+    <h3>🔍 Method: countLeafNodes</h3>
+    <p><span class="emoji">✅ Purpose:</span> Count total leaf nodes</p>
+    <pre>
+public static int countLeafNodes(Node root) {
+    if (root == null) return 0;
+    if (root.left == null && root.right == null) return 1;
+    return countLeafNodes(root.left) + countLeafNodes(root.right);
+}
+    </pre>
+
+    <h3>🔍 Method: height</h3>
+    <p><span class="emoji">✅ Purpose:</span> Calculate tree height</p>
+    <pre>
+public static int height(Node root) {
+    if (root == null) return 0;
+    return Math.max(height(root.left), height(root.right)) + 1;
+}
+    </pre>
+
+    <h3>🔍 Method: search</h3>
+    <p><span class="emoji">✅ Purpose:</span> Search key in tree</p>
+    <pre>
+public static boolean search(Node root, int key) {
+    if (root == null) return false;
+    if (root.data == key) return true;
+    return search(root.left, key) || search(root.right, key);
+}
+    </pre>
+
+    <h3>🔍 Method: mirror</h3>
+    <p><span class="emoji">✅ Purpose:</span> Convert to mirror tree</p>
+    <pre>
+public static void mirror(Node root) {
+    if (root == null) return;
+    Node temp = root.left;
+    root.left = root.right;
+    root.right = temp;
+    mirror(root.left);
+    mirror(root.right);
+}
+    </pre>
+</div>
+
+<div class="section">
+    <h2>🧪 Want More?</h2>
+    <p>You can continue this structure for all remaining methods like:</p>
+    <ul>
+        <li>isBalanced</li>
+        <li>diameter</li>
+        <li>maxPathSum</li>
+        <li>lowest common ancestor (LCA)</li>
+        <li>rightView / leftView</li>
+        <li>isSubtree</li>
+        <li>printKLevel</li>
+    </ul>
+    <p>Just follow the same styling format. Let me know if you want me to generate the rest as well 🙌</p>
+</div>
+
+</body>
+</html>

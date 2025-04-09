@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Singleton Design Pattern</title>
+    <link rel="stylesheet" href="singleton.css" />
+</head>
+<body>
+<header>
+    <h1>☕ Singleton Design Pattern in Java</h1>
+    <p>Protect your instance from Reflection API attacks with best practices.</p>
+</header>
+
+<section class="code-section">
+    <h2>🧪 Singleton Example (SamosaRA.java)</h2>
+    <pre><code>
+package com.Design_Patterns.Singleton_Design_Pattern;
+
+public class SamosaRA {
+    private static volatile SamosaRA samosa;
+
+    private SamosaRA() {
+        if (samosa != null) {
+            throw new RuntimeException("You are trying to break singleton pattern using Reflection API");
+        }
+    }
+
+    public static SamosaRA getSamosa() {
+        if (samosa == null) {
+            synchronized (SamosaRA.class) {
+                if (samosa == null) {
+                    samosa = new SamosaRA();
+                }
+            }
+        }
+        return samosa;
+    }
+}
+    </code></pre>
+</section>
+
+<section class="code-section">
+    <h2>🧪 Testing Singleton with Reflection (ExampleRA.java)</h2>
+    <pre><code>
+package com.Design_Patterns.Singleton_Design_Pattern;
+
+import java.lang.reflect.Constructor;
+
+public class ExampleRA {
+    public static void main(String[] args) {
+        try {
+            SamosaRA samosa1 = SamosaRA.getSamosa();
+            System.out.println("Samosa 1 hashcode: " + samosa1.hashCode());
+
+            Constructor&lt;SamosaRA&gt; constructor = SamosaRA.class.getDeclaredConstructor();
+            constructor.setAccessible(true);
+            SamosaRA samosa2 = constructor.newInstance();
+
+            System.out.println("Samosa 2 hashcode: " + samosa2.hashCode());
+        } catch (Exception e) {
+            System.out.println("Exception caught: " + e.getMessage());
+        }
+    }
+}
+    </code></pre>
+    <p><strong>✅ Expected Output:</strong></p>
+    <pre><code>
+Samosa 1 hashcode: 12345678
+Exception caught: You are trying to break singleton pattern using Reflection API
+    </code></pre>
+</section>
+
+<section>
+    <h2>📘 Different Singleton Methods</h2>
+    <table>
+        <thead>
+        <tr>
+            <th>Method</th>
+            <th>Thread-Safe</th>
+            <th>Lazy Initialization</th>
+            <th>Performance</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Eager Initialization</td>
+            <td>✅</td>
+            <td>❌</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Lazy Initialization</td>
+            <td>❌</td>
+            <td>✅</td>
+            <td>⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Thread-Safe (synchronized)</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>⭐</td>
+        </tr>
+        <tr>
+            <td>Double-Checked Locking</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Bill Pugh Singleton</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Enum Singleton</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Serializable Singleton</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>⭐⭐⭐</td>
+        </tr>
+        </tbody>
+    </table>
+</section>
+
+<footer>
+    <p>Created by Rishi Singh 👨‍💻 | Design Pattern: Singleton | Java Based Learning</p>
+</footer>
+</body>
+</html>

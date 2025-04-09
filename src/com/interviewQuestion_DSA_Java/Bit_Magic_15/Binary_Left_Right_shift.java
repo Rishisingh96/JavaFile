@@ -9,7 +9,7 @@ public class Binary_Left_Right_shift {
         System.out.println(6>>1);
 
 
-        //Notes - If int x = -10 then calculate x >> 2 value.
+        //Notes.md - If int x = -10 then calculate x >> 2 value.
         //The value of x is -10 that is a negative number. So, we will use 2’s
         /*int x = -10,
                 c = 0;

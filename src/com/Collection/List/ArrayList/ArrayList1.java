@@ -113,7 +113,7 @@ list.stream().forEach(System.out::println);
 ```
 This method creates a stream from the `ArrayList` and uses the `forEach` method to print each element.
 
-### Notes:
+### Notes.md:
 - Each of these methods has its advantages depending on the specific use case and coding style preference.
 - The choice of method may depend on factors such as performance requirements, readability, and the version of Java being used (especially when considering Java 8 features like Streams).
 - Ensure that the `ArrayList` is properly instantiated and populated with elements before attempting to print its contents.

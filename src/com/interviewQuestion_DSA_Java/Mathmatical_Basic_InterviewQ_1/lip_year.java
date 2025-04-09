@@ -20,7 +20,7 @@ public class lip_year {
         }
     }
 }
-//Notes
+//Notes.md
 /*Certainly! Let's use the example of the year 2023 to explain whether it's a leap year or not according to the rules:
 
 Divisible by 4: We first check if 2023 is divisible by 4. When we divide 2023 by 4, we get a remainder. In this case, 2023 is not divisible by 4, as 2023 ÷ 4 equals 505 with a remainder of 3.
