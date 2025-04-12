@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Subtree Of Another Tree - Java Code</title>
+    <style>
+        body {
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          background-color: #f4f4f9;
+          color: #333;
+          padding: 20px;
+          line-height: 1.6;
+        }
+
+        h1, h2 {
+          color: #2c3e50;
+        }
+
+        code {
+<!--          background-color: #eef;-->
+          padding: 3px 6px;
+          border-radius: 4px;
+          font-size: 15px;
+        }
+
+        pre {
+          background-color: #272822;
+          color: #f8f8f2;
+          padding: 20px;
+          border-radius: 10px;
+          overflow-x: auto;
+          font-size: 14px;
+        }
+
+        .comment {
+          color: #75715e;
+        }
+
+        .keyword {
+          color: #66d9ef;
+        }
+
+        .type {
+          color: #a6e22e;
+        }
+
+        .method {
+          color: #fd971f;
+        }
+
+        .string {
+          color: #e6db74;
+        }
+
+        .output {
+          background-color: #dff0d8;
+          color: #3c763d;
+          border-left: 6px solid #3c763d;
+          padding: 10px;
+          margin-top: 20px;
+          border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Subtree Of Another Tree - Java Program</h1>
+
+<h2>✅ Java Code</h2>
+
+<pre><code>
+<span class="comment">// SubtreeOfAnotherTree.java</span>
+<span class="keyword">public class</span> <span class="type">SubtreeOfAnotherTree</span> {
+
+    <span class="comment">// Node class representing a tree node</span>
+    <span class="keyword">static class</span> <span class="type">Node</span> {
+        <span class="type">int</span> data;
+        Node left, right;
+
+        Node(<span class="type">int</span> data) {
+            <span class="keyword">this</span>.data = data;
+            left = right = <span class="keyword">null</span>;
+        }
+    }
+
+    <span class="comment">// Checks if two trees are identical</span>
+    <span class="keyword">public static boolean</span> isIdentical(Node node, Node subRoot) {
+        <span class="keyword">if</span> (node == <span class="keyword">null</span> && subRoot == <span class="keyword">null</span>) {
+            <span class="keyword">return true</span>;
+        } <span class="keyword">else if</span> (node == <span class="keyword">null</span> || subRoot == <span class="keyword">null</span> || node.data != subRoot.data) {
+            <span class="keyword">return false</span>;
+        }
+
+        <span class="keyword">if</span> (!isIdentical(node.left, subRoot.left)) {
+            <span class="keyword">return false</span>;
+        }
+        <span class="keyword">if</span> (!isIdentical(node.right, subRoot.right)) {
+            <span class="keyword">return false</span>;
+        }
+
+        <span class="keyword">return true</span>;
+    }
+
+    <span class="comment">// Checks if subRoot is a subtree of root</span>
+    <span class="keyword">public static boolean</span> isSubtree(Node root, Node subRoot) {
+        <span class="keyword">if</span> (root == <span class="keyword">null</span>) {
+            <span class="keyword">return false</span>;
+        }
+
+        <span class="keyword">if</span> (root.data == subRoot.data) {
+            <span class="keyword">if</span> (isIdentical(root, subRoot)) {
+                <span class="keyword">return true</span>;
+            }
+        }
+
+        <span class="keyword">return</span> isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
+    }
+
+    <span class="comment">// Main driver method</span>
+    <span class="keyword">public static void</span> main(String[] args) {
+        Node root1 = <span class="keyword">new</span> Node(1);
+        root1.left = <span class="keyword">new</span> Node(2);
+        root1.right = <span class="keyword">new</span> Node(3);
+        root1.left.left = <span class="keyword">new</span> Node(4);
+        root1.left.right = <span class="keyword">new</span> Node(5);
+
+        Node root2 = <span class="keyword">new</span> Node(2);
+        root2.left = <span class="keyword">new</span> Node(4);
+        <span class="comment">// root2.right = new Node(5); // Uncomment to test with 5</span>
+
+        <span class="type">boolean</span> result = isSubtree(root1, root2);
+        System.out.println(result);  <span class="comment">// Output: false if right is commented</span>
+    }
+}
+  </code></pre>
+
+<div class="output">
+    ✅ Output: <strong>false</strong> (if <code>root2.right = new Node(5);</code> is commented out)
+</div>
+
+<h2>📌 Explanation</h2>
+<ul>
+    <li><strong>isIdentical</strong>: Recursively checks if two trees are structurally and value-wise equal.</li>
+    <li><strong>isSubtree</strong>: Traverses the main tree and uses isIdentical to find a match.</li>
+    <li>If <code>root2</code> is missing the right child (5), it's not an exact match with the corresponding subtree in root1, so the result is <strong>false</strong>.</li>
+</ul>
+
+</body>
+</html>
