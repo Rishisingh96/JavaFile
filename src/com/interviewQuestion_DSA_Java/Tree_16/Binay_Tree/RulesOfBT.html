@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Binary Tree Types</title>
+    <style>
+        body {
+          font-family: Arial, sans-serif;
+          background: #f0f4f8;
+          color: #333;
+          padding: 20px;
+        }
+        h1, h2 {
+          color: #2c3e50;
+        }
+        .tree {
+          font-family: monospace;
+          background: #fff;
+          padding: 10px;
+          border-radius: 10px;
+          box-shadow: 0 0 10px rgba(0,0,0,0.1);
+          margin-bottom: 20px;
+          white-space: pre;
+        }
+        table {
+          width: 100%;
+          border-collapse: collapse;
+          margin-top: 10px;
+        }
+        th, td {
+          border: 1px solid #ccc;
+          padding: 10px;
+          text-align: left;
+        }
+        th {
+          background-color: #3498db;
+          color: white;
+        }
+        .example {
+          margin: 20px 0;
+        }
+        .tag {
+          font-weight: bold;
+          color: #27ae60;
+        }
+    </style>
+</head>
+<body>
+<h1>🌳 Binary Tree & Its Types</h1>
+
+<h2>What is a Binary Tree?</h2>
+<p>A Binary Tree is a hierarchical structure where each node has at most two children referred to as the Left Child and Right Child.</p>
+
+<h2>✅ Rules of Binary Tree</h2>
+<table>
+    <tr><th>Rule No.</th><th>Rule Description</th></tr>
+    <tr><td>1️⃣</td><td>Each node can have 0, 1, or 2 children.</td></tr>
+    <tr><td>2️⃣</td><td>The top node is called the Root Node.</td></tr>
+    <tr><td>3️⃣</td><td>The structure is recursive — each child is also a subtree.</td></tr>
+    <tr><td>4️⃣</td><td>Only one path from root to any node.</td></tr>
+    <tr><td>5️⃣</td><td>No cycles allowed.</td></tr>
+    <tr><td>6️⃣</td><td>For n nodes, there are n - 1 edges.</td></tr>
+</table>
+
+<div class="example">
+    <h2>👇 Visual Example of a Binary Tree</h2>
+    <div class="tree">
+            1
+          /   \
+         2     3
+        / \   /
+        4   5 6
+    </div>
+    <p><span class="tag">Root:</span> 1<br>
+        <span class="tag">Children of 1:</span> 2 and 3<br>
+        <span class="tag">Children of 2:</span> 4 and 5<br>
+        <span class="tag">Child of 3:</span> 6</p>
+</div>
+
+<h2>📘 Types of Binary Trees</h2>
+
+<div class="example">
+    <h3>1. 🌲 Full Binary Tree</h3>
+    <p>Each node has 0 or 2 children.</p>
+    <div class="tree">
+            1
+          /   \
+         2     3
+        / \   / \
+        4  5  6  7
+    </div>
+</div>
+
+<div class="example">
+    <h3>2. ✅ Complete Binary Tree</h3>
+    <p>All levels filled, and last level filled from left to right.</p>
+    <div class="tree">
+            1
+          /   \
+         2     3
+        / \   /
+        4  5  6
+    </div>
+</div>
+
+<div class="example">
+    <h3>3. ⭐ Perfect Binary Tree</h3>
+    <p>All internal nodes have 2 children and all leaves are at the same level.</p>
+    <div class="tree">
+            1
+          /   \
+         2     3
+        / \   / \
+        4  5  6  7
+    </div>
+</div>
+
+<div class="example">
+    <h3>4. ⚖️ Balanced Binary Tree</h3>
+    <p>Height difference between left and right subtrees is not more than 1.</p>
+    <div class="tree">
+         1
+        /   \
+        2     3
+        /
+        4
+    </div>
+    <p><strong>⛔ Not Balanced Example:</strong></p>
+    <div class="tree">
+        1
+        /
+        2
+        /
+        3
+    </div>
+</div>
+
+<div class="example">
+    <h3>5. 📏 Degenerate / Skewed Binary Tree</h3>
+    <p>Each node has only one child, forming a linear tree.</p>
+    <p><strong>✅ Left Skewed:</strong></p>
+    <div class="tree">
+        1
+        /
+        2
+        /
+        3
+    </div>
+    <p><strong>✅ Right Skewed:</strong></p>
+    <div class="tree">
+        1
+        \
+        2
+        \
+        3
+    </div>
+</div>
+
+<h2>📌 Summary Table</h2>
+<table>
+    <tr><th>Type</th><th>Rule</th></tr>
+    <tr><td>Full Binary Tree</td><td>Every node has 0 or 2 children</td></tr>
+    <tr><td>Complete Binary Tree</td><td>All levels filled, last filled left to right</td></tr>
+    <tr><td>Perfect Binary Tree</td><td>All internal nodes have 2 children, leaves at same level</td></tr>
+    <tr><td>Balanced Binary Tree</td><td>Height diff between left and right ≤ 1</td></tr>
+    <tr><td>Skewed Binary Tree</td><td>Every node has only 1 child — like a linked list</td></tr>
+</table>
+
+</body>
+</html>

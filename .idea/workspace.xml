@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree_Part2/SubtreeOfAnotherTree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree_Part2/SubtreeOfAnotherTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree_Part2/TopViewOfATree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree/RulesOfBT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Part3/Kth_Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Part3/LowestCommonAncestor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/BinayTree.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree/BinayTree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree/DiameterOfTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree_Part2/DiameterOfTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Check_balanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree/Check_balanced.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Count_leaf_nodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree/Count_leaf_nodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Count_nodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree/Count_nodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Height_of_the_tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree/Height_of_the_tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Mirror_tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree/Mirror_tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Notes.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree/Notes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Sum_of_Nodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree/Sum_of_Nodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree_Part2/TopViewOfATree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree_Part2/TopViewOfATree.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +22,8 @@
       <list>
         <option value="Interface" />
         <option value="Record" />
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -242,6 +235,7 @@
     "Application.JavaMethod.executor": "Run",
     "Application.JoinMethod.executor": "Run",
     "Application.JsonValue_Day28.executor": "Run",
+    "Application.Kth_Level.executor": "Run",
     "Application.LargestStringByLength.executor": "Run",
     "Application.Largest_Number.executor": "Run",
     "Application.LazySingletonExample.executor": "Run",
@@ -256,6 +250,7 @@
     "Application.LoginProject (4).executor": "Run",
     "Application.LoginProject.executor": "Run",
     "Application.LoopCycle.executor": "Run",
+    "Application.LowestCommonAncestor.executor": "Run",
     "Application.Lucas_Series.executor": "Run",
     "Application.Lucas_Series_StringQ5.executor": "Run",
     "Application.MDArray_forEach.executor": "Run",
@@ -790,7 +785,7 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TopViewOfATree">
+  <component name="RunManager" selected="Application.LowestCommonAncestor">
     <configuration name="AnonymousExa2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Java.OOPs.AnonymousExa2" />
       <module name="All Java Program" />
@@ -804,12 +799,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiameterOfTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Tree_16.Binay_Tree_Part2.DiameterOfTree" />
+    <configuration name="Kth_Level" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Tree_16.Part3.Kth_Level" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Tree_16.Binay_Tree_Part2.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Tree_16.Part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -817,12 +812,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.loop.NumberP" />
+    <configuration name="LowestCommonAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Tree_16.Part3.LowestCommonAncestor" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.loop.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Tree_16.Part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -858,11 +853,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LowestCommonAncestor" />
+        <item itemvalue="Application.Kth_Level" />
         <item itemvalue="Application.TopViewOfATree" />
         <item itemvalue="Application.SubtreeOfAnotherTree" />
         <item itemvalue="Application.AnonymousExa2" />
-        <item itemvalue="Application.DiameterOfTree" />
-        <item itemvalue="Application.NumberP" />
       </list>
     </recent_temporary>
   </component>
