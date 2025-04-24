@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree/RulesOfBT.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Part3/Kth_Level.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Part3/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/DayOfproblem/April/FindDifferenceBetweenTwoNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Part3/Min_Distance_Between_nodes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree_Part2/TopViewOfATree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Binay_Tree_Part2/TopViewOfATree.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +19,8 @@
       <list>
         <option value="Interface" />
         <option value="Record" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -208,6 +205,7 @@
     "Application.File_Deletion.executor": "Run",
     "Application.FinalKeyWord.executor": "Run",
     "Application.FindAndRemoveNthNode.executor": "Run",
+    "Application.FindDifferenceBetweenTwoNumber.executor": "Run",
     "Application.FindEveninArray.executor": "Run",
     "Application.FindMaxMinOneFunc.executor": "Run",
     "Application.FindNumberofOccurence.executor": "Run",
@@ -273,6 +271,7 @@
     "Application.MergeSort.executor": "Run",
     "Application.Merge_sort.executor": "Debug",
     "Application.MinAbsoluteDifferencePairs.executor": "Run",
+    "Application.Min_Distance_Between_nodes.executor": "Run",
     "Application.Minimum.executor": "Run",
     "Application.MinimumDistensespace.executor": "Run",
     "Application.MouseColour.executor": "Run",
@@ -785,13 +784,13 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LowestCommonAncestor">
-    <configuration name="AnonymousExa2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.OOPs.AnonymousExa2" />
+  <component name="RunManager" selected="Application.Min_Distance_Between_nodes">
+    <configuration name="FindDifferenceBetweenTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DayOfproblem.April.FindDifferenceBetweenTwoNumber" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.OOPs.*" />
+          <option name="PATTERN" value="com.DayOfproblem.April.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -825,12 +824,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubtreeOfAnotherTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Tree_16.Binay_Tree_Part2.SubtreeOfAnotherTree" />
+    <configuration name="Min_Distance_Between_nodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Tree_16.Part3.Min_Distance_Between_nodes" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Tree_16.Binay_Tree_Part2.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Tree_16.Part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -853,11 +852,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Min_Distance_Between_nodes" />
+        <item itemvalue="Application.FindDifferenceBetweenTwoNumber" />
         <item itemvalue="Application.LowestCommonAncestor" />
         <item itemvalue="Application.Kth_Level" />
         <item itemvalue="Application.TopViewOfATree" />
-        <item itemvalue="Application.SubtreeOfAnotherTree" />
-        <item itemvalue="Application.AnonymousExa2" />
       </list>
     </recent_temporary>
   </component>
