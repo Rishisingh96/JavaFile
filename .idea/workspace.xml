@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/DayOfproblem/April/FindDifferenceBetweenTwoNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Part3/Min_Distance_Between_nodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Operator/Bitwise_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Operator/shift_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/ConstructorWithArrayOfObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/NonStaticMemberInside.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/PassingClassObjectParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/ReturnCurrentObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/ForEachLoop/PrintNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/InfiniteLoop/CompoundRelation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/InfiniteLoop/JavaPrintSimultaneously.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/InfiniteLoop/SeparatedByNextComma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/InfiniteLoop/SumOfCube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/InfiniteLoop/firstApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/NestedForLoop/DisplayValueInnerandOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/NestedForLoop/PrintCharacterAtoE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/NestedForLoop/TriangleOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Part3/KthAncestorOfNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/OOPs/R_30_anonymous_object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_30_anonymous_object.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/leetCode/R_01_Roted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/leetCode/R_01_Roted_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +94,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Application.AND_O.executor": "Run",
     "Application.ATM_Interface_3 (1).executor": "Run",
     "Application.ATM_Interface_3.executor": "Run",
     "Application.Abstract_class2.executor": "Run",
@@ -129,6 +147,7 @@
     "Application.BinarySearch.executor": "Debug",
     "Application.Binary_Left_Right_shift.executor": "Run",
     "Application.Binary_Search.executor": "Run",
+    "Application.Bitwise_Operator.executor": "Run",
     "Application.BuildTreeAllOperation.executor": "Run",
     "Application.BuildTreePreorder.executor": "Run",
     "Application.CONSTRUCTOR.executor": "Run",
@@ -147,11 +166,13 @@
     "Application.Company.executor": "Run",
     "Application.Compare.executor": "Run",
     "Application.CompareToMethod.executor": "Run",
+    "Application.CompoundRelation.executor": "Run",
     "Application.Conditional_Opr.executor": "Run",
     "Application.Constructor (1).executor": "Run",
     "Application.Constructor (2).executor": "Run",
     "Application.Constructor (3).executor": "Run",
     "Application.Constructor.executor": "Run",
+    "Application.ConstructorWithArrayOfObjects.executor": "Run",
     "Application.Converting.executor": "Run",
     "Application.Cooperation_inter_thread (1).executor": "Run",
     "Application.Cooperation_inter_thread (2).executor": "Run",
@@ -171,6 +192,7 @@
     "Application.DiameterOfTree.executor": "Run",
     "Application.DigitCount.executor": "Run",
     "Application.DigonalSum.executor": "Run",
+    "Application.DisplayValueInnerandOuter.executor": "Run",
     "Application.Divide.executor": "Run",
     "Application.Dog3.executor": "Run",
     "Application.DoubleLL.executor": "Run",
@@ -231,8 +253,11 @@
     "Application.Introduction.executor": "Run",
     "Application.Jagged_Array.executor": "Run",
     "Application.JavaMethod.executor": "Run",
+    "Application.JavaPrintSimultaneously.executor": "Run",
     "Application.JoinMethod.executor": "Run",
     "Application.JsonValue_Day28.executor": "Run",
+    "Application.KthAncestorOfNode.executor": "Run",
+    "Application.KthAncestorOfnode.executor": "Run",
     "Application.Kth_Level.executor": "Run",
     "Application.LargestStringByLength.executor": "Run",
     "Application.Largest_Number.executor": "Run",
@@ -314,6 +339,8 @@
     "Application.NetSalary (2).executor": "Run",
     "Application.NetSalary.executor": "Run",
     "Application.NextGreater.executor": "Run",
+    "Application.NonStaticMemberInside$Demo.executor": "Run",
+    "Application.NonStaticMemberInside.executor": "Run",
     "Application.NotePad.executor": "Run",
     "Application.NullPointerEx.executor": "Run",
     "Application.NumberP.executor": "Run",
@@ -334,6 +361,7 @@
     "Application.P_8_last_occurrence.executor": "Run",
     "Application.Palendrom.executor": "Run",
     "Application.Palendrom2.executor": "Run",
+    "Application.PassingClassObjectParameter.executor": "Run",
     "Application.Permutation.executor": "Run",
     "Application.PersonConstructor (1).executor": "Debug",
     "Application.PersonConstructor (2).executor": "Run",
@@ -347,7 +375,9 @@
     "Application.Practice.executor": "Run",
     "Application.Precties.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
+    "Application.PrintCharacterAtoE.executor": "Run",
     "Application.PrintNonRepeatingWord.executor": "Run",
+    "Application.PrintNumber.executor": "Run",
     "Application.PrioritiesThread.executor": "Run",
     "Application.ProductQ10.executor": "Run",
     "Application.ProductSell (1).executor": "Run",
@@ -411,6 +441,7 @@
     "Application.R7_TreeMapOperations.executor": "Run",
     "Application.R8_ListText.executor": "Run",
     "Application.R9_DesignFrame.executor": "Run",
+    "Application.R_01_Roted_Array.executor": "Run",
     "Application.R_03_StudentFee (1).executor": "Run",
     "Application.R_03_StudentFee (2).executor": "Run",
     "Application.R_03_StudentFee.executor": "Run",
@@ -550,6 +581,7 @@
     "Application.SearchIterative.executor": "Run",
     "Application.SearchTechniques.executor": "Run",
     "Application.SecondMaxusingfunction.executor": "Run",
+    "Application.SeparatedByNextComma.executor": "Run",
     "Application.Server.executor": "Run",
     "Application.Serverswing.executor": "Run",
     "Application.ShowYearMonthDay (1).executor": "Run",
@@ -602,6 +634,7 @@
     "Application.SturctureCode.executor": "Run",
     "Application.SubtreeOfAnotherTree.executor": "Run",
     "Application.SudokuFind.executor": "Run",
+    "Application.SumOfCube.executor": "Run",
     "Application.SumOf_Even.executor": "Run",
     "Application.Sum_of_Nodes.executor": "Run",
     "Application.SumforEach.executor": "Run",
@@ -637,6 +670,7 @@
     "Application.TraversExampleCollection.executor": "Run",
     "Application.TreeMapOperations.executor": "Run",
     "Application.TreeSetExample.executor": "Run",
+    "Application.TriangleOfNumber.executor": "Run",
     "Application.TwoString_save_file.executor": "Run",
     "Application.TyeCatchFinally_Day29.executor": "Run",
     "Application.Uppercase.executor": "Run",
@@ -673,6 +707,7 @@
     "Application.collectionSet.executor": "Run",
     "Application.com.Design_Patterns.Singleton_Design_Pattern.ExampleRA.executor": "Run",
     "Application.com.Java.Universal.Week6.R5_DetailsAdd.executor": "Run",
+    "Application.com.Java.method.PassingClassObjectParameter.executor": "Run",
     "Application.com.Swing.Universal.Assigment.ListText.executor": "Run",
     "Application.com.Swing.Universal.Assigment.ListText2.executor": "Run",
     "Application.com.interviewQuestion_DSA_Java.Array_3.Array_update.executor": "Run",
@@ -684,6 +719,7 @@
     "Application.equalto.executor": "Run",
     "Application.factorial_for_loop.executor": "Run",
     "Application.first.executor": "Run",
+    "Application.firstApp.executor": "Run",
     "Application.foEach.executor": "Run",
     "Application.function_Square.executor": "Run",
     "Application.function_init_calcQ8.executor": "Run",
@@ -711,6 +747,7 @@
     "Application.rangeClosed.executor": "Run",
     "Application.reverse_of_number.executor": "Run",
     "Application.secondCode.executor": "Run",
+    "Application.shift_Operator.executor": "Run",
     "Application.showYear_month_Day.executor": "Run",
     "Application.sortName.executor": "Run",
     "Application.sort_long_Name.executor": "Run",
@@ -754,7 +791,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults"
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -784,13 +821,13 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Min_Distance_Between_nodes">
-    <configuration name="FindDifferenceBetweenTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.DayOfproblem.April.FindDifferenceBetweenTwoNumber" />
+  <component name="RunManager" selected="Application.School">
+    <configuration name="AddNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Swing.AddNum" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.DayOfproblem.April.*" />
+          <option name="PATTERN" value="com.Swing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -798,12 +835,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kth_Level" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Tree_16.Part3.Kth_Level" />
+    <configuration name="ConstructorWithArrayOfObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.MethodAndConstructor.ConstructorWithArrayOfObjects" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Tree_16.Part3.*" />
+          <option name="PATTERN" value="com.Java.MethodAndConstructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -811,12 +848,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowestCommonAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Tree_16.Part3.LowestCommonAncestor" />
+    <configuration name="ReturnCurrentObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.MethodAndConstructor.ReturnCurrentObject" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Tree_16.Part3.*" />
+          <option name="PATTERN" value="com.Java.MethodAndConstructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -824,12 +861,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Min_Distance_Between_nodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Tree_16.Part3.Min_Distance_Between_nodes" />
+    <configuration name="School" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.MethodAndConstructor.School" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Tree_16.Part3.*" />
+          <option name="PATTERN" value="com.Java.MethodAndConstructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -837,12 +874,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopViewOfATree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Tree_16.Binay_Tree_Part2.TopViewOfATree" />
+    <configuration name="com.Java.MethodAndConstructor.PassingClassObjectParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.MethodAndConstructor.PassingClassObjectParameter" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Tree_16.Binay_Tree_Part2.*" />
+          <option name="PATTERN" value="com.Java.MethodAndConstructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -852,11 +889,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Min_Distance_Between_nodes" />
-        <item itemvalue="Application.FindDifferenceBetweenTwoNumber" />
-        <item itemvalue="Application.LowestCommonAncestor" />
-        <item itemvalue="Application.Kth_Level" />
-        <item itemvalue="Application.TopViewOfATree" />
+        <item itemvalue="Application.School" />
+        <item itemvalue="Application.ConstructorWithArrayOfObjects" />
+        <item itemvalue="Application.AddNum" />
+        <item itemvalue="Application.ReturnCurrentObject" />
+        <item itemvalue="Application.com.Java.MethodAndConstructor.PassingClassObjectParameter" />
       </list>
     </recent_temporary>
   </component>

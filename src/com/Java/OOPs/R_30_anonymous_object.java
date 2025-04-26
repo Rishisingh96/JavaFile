@@ -18,7 +18,7 @@ public class R_30_anonymous_object {
         new R_30_anonymous_object().start();
         new R_30_anonymous_object().stop();
     }
-
+D
    */
 
 //    public class Multiplication
