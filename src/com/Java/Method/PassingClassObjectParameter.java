@@ -1,4 +1,4 @@
-package com.Java.MethodAndConstructor;
+package com.Java.Method;
 
 // Class representing a Student
 class student {

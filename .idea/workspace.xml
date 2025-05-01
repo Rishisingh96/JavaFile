@@ -5,26 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Operator/Bitwise_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Operator/shift_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/ConstructorWithArrayOfObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/NonStaticMemberInside.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/PassingClassObjectParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/ReturnCurrentObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/ForEachLoop/PrintNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/InfiniteLoop/CompoundRelation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/InfiniteLoop/JavaPrintSimultaneously.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/InfiniteLoop/SeparatedByNextComma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/InfiniteLoop/SumOfCube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/InfiniteLoop/firstApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/NestedForLoop/DisplayValueInnerandOuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/NestedForLoop/PrintCharacterAtoE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/NestedForLoop/TriangleOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tree_16/Part3/KthAncestorOfNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/map/FinalHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Block_In_Java/InstanceBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Block_In_Java/LocalBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Block_In_Java/OrderOfExecutionOfInstanceBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Block_In_Java/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Block_In_Java/StaticBlockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Block_In_Java/TryToOverrideStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/ImKeyword_Class_Method/FinalReferenceVarEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/ImKeyword_Class_Method/UninitializedStaticBlankFinalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/AccessingLocalVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/AccessingMemberInnerToOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/AccessingVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/AnonymousInnerClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/ButtonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/MemberInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/Method_local_InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/StaticInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/staticNestedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/ConstructorChainingUsingSuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/Developed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/FlavorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/JavaCopyConstructorExamplePrograms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/Mango.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/PrivateConstructorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/PrivateConstructorSingletonPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/TakeBothThis_Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/modifiers/AmbiguousVarargsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/modifiers/CommandLineArgumentsE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/modifiers/VarargsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/modifiers/VarargsOverloadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/Intermediate_Terminal_Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Build_BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Delete_Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Mirror_BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Print_In_Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/RootToLeafPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/SearchBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Validate_BST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/OOPs/R_30_anonymous_object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/OOPs/R_30_anonymous_object.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/leetCode/R_01_Roted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/leetCode/R_01_Roted_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/ConstructorWithArrayOfObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/constructor/ConstructorWithArrayOfObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/NonStaticMemberInside.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Method/NonStaticMemberInside.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/PassingClassObjectParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Method/PassingClassObjectParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/ReturnCurrentObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Method/ReturnCurrentObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Method/School.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +61,7 @@
         <option value="Interface" />
         <option value="Record" />
         <option value="HTML File" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -98,6 +123,11 @@
     "Application.ATM_Interface_3 (1).executor": "Run",
     "Application.ATM_Interface_3.executor": "Run",
     "Application.Abstract_class2.executor": "Run",
+    "Application.AccessingLocalVar.executor": "Run",
+    "Application.AccessingMemberInnerToOuter (1).executor": "Run",
+    "Application.AccessingMemberInnerToOuter (2).executor": "Run",
+    "Application.AccessingMemberInnerToOuter.executor": "Run",
+    "Application.AccessingVar.executor": "Run",
     "Application.ActionLiP (1).executor": "Run",
     "Application.ActionLiP (2).executor": "Run",
     "Application.ActionLiP (3).executor": "Run",
@@ -121,8 +151,10 @@
     "Application.Addition (1).executor": "Run",
     "Application.Addition.executor": "Run",
     "Application.AdditionReturn.executor": "Run",
+    "Application.AmbiguousVarargsExample.executor": "Run",
     "Application.Animal.executor": "Run",
     "Application.AnonymousExa2.executor": "Run",
+    "Application.AnonymousInnerClassExample.executor": "Run",
     "Application.AnonymousObject.executor": "Run",
     "Application.AofRectangle.executor": "Run",
     "Application.AofTriangle.executor": "Run",
@@ -150,6 +182,9 @@
     "Application.Bitwise_Operator.executor": "Run",
     "Application.BuildTreeAllOperation.executor": "Run",
     "Application.BuildTreePreorder.executor": "Run",
+    "Application.Build_BST (1).executor": "Run",
+    "Application.Build_BST.executor": "Run",
+    "Application.ButtonExample.executor": "Run",
     "Application.CONSTRUCTOR.executor": "Run",
     "Application.CalculateSimpleInterest.executor": "Run",
     "Application.Camparetion.executor": "Run",
@@ -162,6 +197,7 @@
     "Application.ClientSwinguse.executor": "Run",
     "Application.Clientswing.executor": "Run",
     "Application.CollectionList.executor": "Run",
+    "Application.CommandLineArgumentsE.executor": "Run",
     "Application.Company (1).executor": "Run",
     "Application.Company.executor": "Run",
     "Application.Compare.executor": "Run",
@@ -172,6 +208,7 @@
     "Application.Constructor (2).executor": "Run",
     "Application.Constructor (3).executor": "Run",
     "Application.Constructor.executor": "Run",
+    "Application.ConstructorChainingUsingSuperKeyword.executor": "Run",
     "Application.ConstructorWithArrayOfObjects.executor": "Run",
     "Application.Converting.executor": "Run",
     "Application.Cooperation_inter_thread (1).executor": "Run",
@@ -187,8 +224,11 @@
     "Application.DataTypefind.executor": "Run",
     "Application.Data_Type_find.executor": "Run",
     "Application.Decreasing_Order.executor": "Run",
+    "Application.Delete_Node (1).executor": "Run",
+    "Application.Delete_Node.executor": "Run",
     "Application.Deque_Double_Ended_Queue.executor": "Run",
     "Application.DetectLoopCycle.executor": "Run",
+    "Application.Developed.executor": "Run",
     "Application.DiameterOfTree.executor": "Run",
     "Application.DigitCount.executor": "Run",
     "Application.DigonalSum.executor": "Run",
@@ -225,7 +265,9 @@
     "Application.FileHandlerThread (5).executor": "Run",
     "Application.FileHandlerThread.executor": "Run",
     "Application.File_Deletion.executor": "Run",
+    "Application.FinalHashMap.executor": "Run",
     "Application.FinalKeyWord.executor": "Run",
+    "Application.FinalReferenceVarEx.executor": "Run",
     "Application.FindAndRemoveNthNode.executor": "Run",
     "Application.FindDifferenceBetweenTwoNumber.executor": "Run",
     "Application.FindEveninArray.executor": "Run",
@@ -235,6 +277,7 @@
     "Application.FindSubset_SM.executor": "Run",
     "Application.FindUniqueNumber.executor": "Run",
     "Application.Find_BiggestEven_Odd.executor": "Run",
+    "Application.FlavorTest.executor": "Run",
     "Application.FractionalKnapsack.executor": "Run",
     "Application.GenerateBinaryNumber.executor": "Run",
     "Application.GenerateBinaryNumberCode.executor": "Debug",
@@ -247,11 +290,14 @@
     "Application.Indian_Coins.executor": "Run",
     "Application.InhancedSwitch.executor": "Run",
     "Application.Input_Way.executor": "Run",
+    "Application.InstanceBlock.executor": "Run",
     "Application.InstanceOfExample.executor": "Run",
     "Application.Interleave2HalvesOfaQueue.executor": "Run",
+    "Application.Intermediate_Terminal_Operations.executor": "Run",
     "Application.Interview_Question.executor": "Run",
     "Application.Introduction.executor": "Run",
     "Application.Jagged_Array.executor": "Run",
+    "Application.JavaCopyConstructorExamplePrograms.executor": "Run",
     "Application.JavaMethod.executor": "Run",
     "Application.JavaPrintSimultaneously.executor": "Run",
     "Application.JoinMethod.executor": "Run",
@@ -265,6 +311,7 @@
     "Application.Linear_Search.executor": "Run",
     "Application.ListText.executor": "Run",
     "Application.ListText2.executor": "Run",
+    "Application.LocalBlock.executor": "Run",
     "Application.Login.executor": "Run",
     "Application.Login1.executor": "Run",
     "Application.LoginProject (1).executor": "Run",
@@ -289,16 +336,19 @@
     "Application.Max_Subarray2.executor": "Run",
     "Application.Max_Subarray3.executor": "Run",
     "Application.Max_number.executor": "Run",
+    "Application.MemberInnerClass.executor": "Run",
     "Application.MenuBarExample (1).executor": "Run",
     "Application.MenuBarExample.executor": "Run",
     "Application.Merg_sort.executor": "Run",
     "Application.MergeSort (1).executor": "Run",
     "Application.MergeSort.executor": "Run",
     "Application.Merge_sort.executor": "Debug",
+    "Application.Method_local_InnerClass.executor": "Run",
     "Application.MinAbsoluteDifferencePairs.executor": "Run",
     "Application.Min_Distance_Between_nodes.executor": "Run",
     "Application.Minimum.executor": "Run",
     "Application.MinimumDistensespace.executor": "Run",
+    "Application.Mirror_BST.executor": "Run",
     "Application.MouseColour.executor": "Run",
     "Application.MouseColour3.executor": "Run",
     "Application.MouseEventColour (1).executor": "Run",
@@ -356,6 +406,7 @@
     "Application.Online_Examination.executor": "Run",
     "Application.Online_Examination_4.executor": "Run",
     "Application.Online_Reservation_S_1.executor": "Run",
+    "Application.OrderOfExecutionOfInstanceBlocks.executor": "Run",
     "Application.Overloding_AreaorCircle.executor": "Run",
     "Application.P_7_first_occurrence.executor": "Run",
     "Application.P_8_last_occurrence.executor": "Run",
@@ -378,7 +429,12 @@
     "Application.PrintCharacterAtoE.executor": "Run",
     "Application.PrintNonRepeatingWord.executor": "Run",
     "Application.PrintNumber.executor": "Run",
+    "Application.Print_In_Range.executor": "Run",
     "Application.PrioritiesThread.executor": "Run",
+    "Application.PrivateConstructorExample.executor": "Run",
+    "Application.PrivateConstructorSingletonPattern (1).executor": "Run",
+    "Application.PrivateConstructorSingletonPattern (2).executor": "Run",
+    "Application.PrivateConstructorSingletonPattern.executor": "Run",
     "Application.ProductQ10.executor": "Run",
     "Application.ProductSell (1).executor": "Run",
     "Application.ProductSell (2).executor": "Run",
@@ -574,9 +630,12 @@
     "Application.Reverse_Name.executor": "Run",
     "Application.Reverses_String.executor": "Run",
     "Application.RishiCode.executor": "Run",
+    "Application.RootToLeafPaths.executor": "Run",
     "Application.RotateArray.executor": "Debug",
     "Application.Roted2DArray.executor": "Run",
+    "Application.School.executor": "Run",
     "Application.Scientefic_cal.executor": "Run",
+    "Application.SearchBST.executor": "Run",
     "Application.SearchIterative (1).executor": "Run",
     "Application.SearchIterative.executor": "Run",
     "Application.SearchTechniques.executor": "Run",
@@ -607,6 +666,8 @@
     "Application.StackUseLinkedList (2).executor": "Run",
     "Application.StackUseLinkedList.executor": "Run",
     "Application.StackUsing2Queues.executor": "Run",
+    "Application.StaticBlockTest.executor": "Run",
+    "Application.StaticInnerClass.executor": "Run",
     "Application.StockSpanProblem.executor": "Run",
     "Application.Store_Element_in_Set.executor": "Run",
     "Application.StreamApi.executor": "Run",
@@ -647,12 +708,14 @@
     "Application.SynchronizationDemo (2).executor": "Run",
     "Application.SynchronizationDemo.executor": "Run",
     "Application.TableQ4.executor": "Run",
+    "Application.TakeBothThis_Super.executor": "Run",
     "Application.Test (1).executor": "Run",
     "Application.Test (2).executor": "Run",
     "Application.Test (3).executor": "Run",
     "Application.Test (4).executor": "Run",
     "Application.Test (5).executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.Test1.executor": "Run",
     "Application.Test2 (1).executor": "Run",
     "Application.Test2 (2).executor": "Run",
     "Application.Test2.executor": "Run",
@@ -671,13 +734,20 @@
     "Application.TreeMapOperations.executor": "Run",
     "Application.TreeSetExample.executor": "Run",
     "Application.TriangleOfNumber.executor": "Run",
+    "Application.TryToOverrideStaticMethod (1).executor": "Run",
+    "Application.TryToOverrideStaticMethod.executor": "Run",
     "Application.TwoString_save_file.executor": "Run",
     "Application.TyeCatchFinally_Day29.executor": "Run",
+    "Application.UninitializedStaticBlankFinalVariable (1).executor": "Run",
+    "Application.UninitializedStaticBlankFinalVariable.executor": "Run",
     "Application.Uppercase.executor": "Run",
     "Application.UsingLinkedList (1).executor": "Run",
     "Application.UsingLinkedList (2).executor": "Run",
     "Application.UsingLinkedList (3).executor": "Run",
     "Application.UsingLinkedList.executor": "Run",
+    "Application.Validate_BST.executor": "Run",
+    "Application.VarargsExample.executor": "Run",
+    "Application.VarargsOverloadExample.executor": "Run",
     "Application.WaitNotifyExample.executor": "Run",
     "Application.Waysofcreatset.executor": "Run",
     "Application.Without_using_Third_Variable.executor": "Run",
@@ -757,6 +827,7 @@
     "Application.square_cube.executor": "Run",
     "Application.starPattern.executor": "Run",
     "Application.startPattern2.executor": "Run",
+    "Application.staticNestedClass.executor": "Run",
     "Application.suString.executor": "Run",
     "Application.sum_of_Digit.executor": "Run",
     "Application.super_method_class.executor": "Run",
@@ -807,11 +878,11 @@
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\String_3\Basic" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\JavaFile all\JavaFile\src\com\Collection\map" />
       <recent name="G:\JavaFile all\JavaFile\src\com\interviewQuestion_DSA_Java\Tree_16\Binay_Tree" />
       <recent name="E:\JavaFile all\JavaFile\India" />
       <recent name="E:\JavaFile all\JavaFile\src\com\Java\Universal\Week5" />
       <recent name="E:\JavaFile all\JavaFile\src\com\Collection\List\ArrayList" />
-      <recent name="E:\JavaFile all\JavaFile\src\com\Swing\Universal" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.Java.DurgeshSir100DayCode" />
@@ -821,13 +892,13 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.School">
-    <configuration name="AddNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Swing.AddNum" />
+  <component name="RunManager" selected="Application.Mirror_BST">
+    <configuration name="ButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.InnerClass.ButtonExample" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Swing.*" />
+          <option name="PATTERN" value="com.Java.InnerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -835,12 +906,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorWithArrayOfObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MethodAndConstructor.ConstructorWithArrayOfObjects" />
+    <configuration name="Mirror_BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Binary_Search_Tree_17.Mirror_BST" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.MethodAndConstructor.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Binary_Search_Tree_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -848,12 +919,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnCurrentObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MethodAndConstructor.ReturnCurrentObject" />
+    <configuration name="StaticInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.InnerClass.StaticInnerClass" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.MethodAndConstructor.*" />
+          <option name="PATTERN" value="com.Java.InnerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -861,12 +932,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="School" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MethodAndConstructor.School" />
+    <configuration name="Validate_BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Binary_Search_Tree_17.Validate_BST" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.MethodAndConstructor.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Binary_Search_Tree_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -874,12 +945,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.Java.MethodAndConstructor.PassingClassObjectParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MethodAndConstructor.PassingClassObjectParameter" />
+    <configuration name="staticNestedClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.InnerClass.staticNestedClass" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.MethodAndConstructor.*" />
+          <option name="PATTERN" value="com.Java.InnerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -889,11 +960,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.School" />
-        <item itemvalue="Application.ConstructorWithArrayOfObjects" />
-        <item itemvalue="Application.AddNum" />
-        <item itemvalue="Application.ReturnCurrentObject" />
-        <item itemvalue="Application.com.Java.MethodAndConstructor.PassingClassObjectParameter" />
+        <item itemvalue="Application.Mirror_BST" />
+        <item itemvalue="Application.Validate_BST" />
+        <item itemvalue="Application.staticNestedClass" />
+        <item itemvalue="Application.StaticInnerClass" />
+        <item itemvalue="Application.ButtonExample" />
       </list>
     </recent_temporary>
   </component>
@@ -1165,7 +1236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742432319621</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="CHANGED code position collection array">
+      <option name="closed" value="true" />
+      <created>1745693499227</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1745693499228</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1207,6 +1286,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Collection/map/FinalHashMap.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
