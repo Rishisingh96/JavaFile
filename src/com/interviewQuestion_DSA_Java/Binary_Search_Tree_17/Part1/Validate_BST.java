@@ -1,4 +1,4 @@
-package com.interviewQuestion_DSA_Java.Binary_Search_Tree_17;
+package com.interviewQuestion_DSA_Java.Binary_Search_Tree_17.Part1;
 
 public class Validate_BST {
     static class Node{

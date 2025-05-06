@@ -1,4 +1,4 @@
-package com.Java.Inheritance_Inferface;
+package com.Java.Inheritance_Inferface.Super_This_keyword;
 class Vehicle {
     String brand;
     int maxSpeed;

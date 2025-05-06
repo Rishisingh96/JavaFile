@@ -5,50 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/map/FinalHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Block_In_Java/InstanceBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Block_In_Java/LocalBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Block_In_Java/OrderOfExecutionOfInstanceBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Block_In_Java/StaticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Block_In_Java/StaticBlockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Block_In_Java/TryToOverrideStaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/ImKeyword_Class_Method/FinalReferenceVarEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/ImKeyword_Class_Method/UninitializedStaticBlankFinalVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/AccessingLocalVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/AccessingMemberInnerToOuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/AccessingVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/AnonymousInnerClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/ButtonExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/MemberInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/Method_local_InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/StaticInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/InnerClass/staticNestedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/ConstructorChainingUsingSuperKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/Developed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/FlavorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/JavaCopyConstructorExamplePrograms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/Mango.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/PrivateConstructorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/PrivateConstructorSingletonPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/constructor/TakeBothThis_Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/modifiers/AmbiguousVarargsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/modifiers/CommandLineArgumentsE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/modifiers/VarargsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/modifiers/VarargsOverloadExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Stream_API/Intermediate_Terminal_Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Build_BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Delete_Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Mirror_BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Print_In_Range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/RootToLeafPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/SearchBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Validate_BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Super_This_keyword/SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Polymorphism_interface/ExplicitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Polymorphism_interface/Implicit_TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/Polymorphism_interface/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/InterviewQ/Day1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/InterviewQofJS/Day1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Part2/ConvertBST_To_BalancedBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Part2/MergeBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Part2/Size_Of_Largest_BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Part2/Sorted_Array_To_BalancedBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/ConstructorWithArrayOfObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/constructor/ConstructorWithArrayOfObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/NonStaticMemberInside.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Method/NonStaticMemberInside.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/PassingClassObjectParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Method/PassingClassObjectParameter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/ReturnCurrentObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Method/ReturnCurrentObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MethodAndConstructor/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Method/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Super_This_KeywordEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Inheritance_Inferface/Super_This_keyword/Super_This_KeywordEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Build_BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Part1/Build_BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Delete_Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Part1/Delete_Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Mirror_BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Part1/Mirror_BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Print_In_Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Part1/Print_In_Range.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/RootToLeafPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Part1/RootToLeafPaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/SearchBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Part1/SearchBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Validate_BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Binary_Search_Tree_17/Part1/Validate_BST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,6 +185,7 @@
     "Application.Constructor.executor": "Run",
     "Application.ConstructorChainingUsingSuperKeyword.executor": "Run",
     "Application.ConstructorWithArrayOfObjects.executor": "Run",
+    "Application.ConvertBST_To_BalancedBST.executor": "Run",
     "Application.Converting.executor": "Run",
     "Application.Cooperation_inter_thread (1).executor": "Run",
     "Application.Cooperation_inter_thread (2).executor": "Run",
@@ -223,6 +199,7 @@
     "Application.DataType.executor": "Run",
     "Application.DataTypefind.executor": "Run",
     "Application.Data_Type_find.executor": "Run",
+    "Application.Day1.executor": "Run",
     "Application.Decreasing_Order.executor": "Run",
     "Application.Delete_Node (1).executor": "Run",
     "Application.Delete_Node.executor": "Run",
@@ -253,6 +230,7 @@
     "Application.Exception.executor": "Run",
     "Application.ExceptionHandling.executor": "Run",
     "Application.Exception_Handling.executor": "Run",
+    "Application.ExplicitTest.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Fahrenheit.executor": "Run",
     "Application.Fibonacci_series.executor": "Run",
@@ -286,6 +264,7 @@
     "Application.Hello.executor": "Run",
     "Application.Hierarchical_Inheritance.executor": "Run",
     "Application.Immutable.executor": "Run",
+    "Application.Implicit_TypeCasting.executor": "Run",
     "Application.Increasing_Order.executor": "Run",
     "Application.Indian_Coins.executor": "Run",
     "Application.InhancedSwitch.executor": "Run",
@@ -340,6 +319,7 @@
     "Application.MenuBarExample (1).executor": "Run",
     "Application.MenuBarExample.executor": "Run",
     "Application.Merg_sort.executor": "Run",
+    "Application.MergeBST.executor": "Run",
     "Application.MergeSort (1).executor": "Run",
     "Application.MergeSort.executor": "Run",
     "Application.Merge_sort.executor": "Debug",
@@ -648,6 +628,8 @@
     "Application.SingleInheritance.executor": "Run",
     "Application.SingletonSerializationTest.executor": "Run",
     "Application.SingletonTest.executor": "Run",
+    "Application.Size_Of_Largest_BST (1).executor": "Run",
+    "Application.Size_Of_Largest_BST.executor": "Run",
     "Application.SortArrayDescendingO.executor": "Run",
     "Application.SortArrayWithoutSort.executor": "Run",
     "Application.SortLongName2.executor": "Run",
@@ -655,6 +637,7 @@
     "Application.Sort_Name_me.executor": "Run",
     "Application.Sort_long_name2.executor": "Run",
     "Application.Sorted2DArrays.executor": "Run",
+    "Application.Sorted_Array_To_BalancedBST.executor": "Run",
     "Application.SortingTechniques.executor": "Run",
     "Application.SpaceCount.executor": "Run",
     "Application.SquareNumber.executor": "Run",
@@ -699,6 +682,9 @@
     "Application.SumOf_Even.executor": "Run",
     "Application.Sum_of_Nodes.executor": "Run",
     "Application.SumforEach.executor": "Run",
+    "Application.SuperKeyword (1).executor": "Run",
+    "Application.SuperKeyword (2).executor": "Run",
+    "Application.SuperKeyword.executor": "Run",
     "Application.Super_Class.executor": "Run",
     "Application.Super_This_KeywordEx.executor": "Run",
     "Application.SwapTwoNumberuseBufferR.executor": "Run",
@@ -892,13 +878,13 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Mirror_BST">
-    <configuration name="ButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.InnerClass.ButtonExample" />
+  <component name="RunManager" selected="Application.MainMethodOverloadingTest">
+    <configuration name="ExplicitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Polymorphism_interface.ExplicitTest" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.InnerClass.*" />
+          <option name="PATTERN" value="com.Java.Polymorphism_interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -906,12 +892,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mirror_BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Binary_Search_Tree_17.Mirror_BST" />
+    <configuration name="Implicit_TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Polymorphism_interface.Implicit_TypeCasting" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Binary_Search_Tree_17.*" />
+          <option name="PATTERN" value="com.Java.Polymorphism_interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -919,12 +905,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.InnerClass.StaticInnerClass" />
+    <configuration name="MainMethodOverloadingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Polymorphism_interface.MainMethodOverloadingTest" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.InnerClass.*" />
+          <option name="PATTERN" value="com.Java.Polymorphism_interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -932,12 +918,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Validate_BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Binary_Search_Tree_17.Validate_BST" />
+    <configuration name="MergeBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Binary_Search_Tree_17.Part2.MergeBST" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Binary_Search_Tree_17.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Binary_Search_Tree_17.Part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -945,12 +931,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="staticNestedClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.InnerClass.staticNestedClass" />
+    <configuration name="ShoppingCart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.Polymorphism_interface.ShoppingCart" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.InnerClass.*" />
+          <option name="PATTERN" value="com.Java.Polymorphism_interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Size_Of_Largest_BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Binary_Search_Tree_17.Part2.Size_Of_Largest_BST" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Binary_Search_Tree_17.Part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -960,11 +959,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Mirror_BST" />
-        <item itemvalue="Application.Validate_BST" />
-        <item itemvalue="Application.staticNestedClass" />
-        <item itemvalue="Application.StaticInnerClass" />
-        <item itemvalue="Application.ButtonExample" />
+        <item itemvalue="Application.MainMethodOverloadingTest" />
+        <item itemvalue="Application.ShoppingCart" />
+        <item itemvalue="Application.Implicit_TypeCasting" />
+        <item itemvalue="Application.ExplicitTest" />
+        <item itemvalue="Application.MergeBST" />
       </list>
     </recent_temporary>
   </component>
