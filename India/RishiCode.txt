@@ -1,1 +1,50 @@
-Rishi is How are you.
+package javaPackage;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+public class BufferedWriterExample {
+public static void main(String[] args) throws IOException 
+{
+// Create an object of FileWriter class.
+   FileWriter fw = new FileWriter("D:\\myfile.txt");
+ 
+// Create an object of BufferedWriter class and reference variable fw to its constructor.
+   BufferedWriter bw = new BufferedWriter(fw);
+   
+   bw.write("This is an apple");
+   bw.newLine(); // For line separator.
+   bw.write("This is an orange");
+bw.close(); // Closing the stream.
+   System.out.println("File written successfully.");
+ }
+}
+
+
+This is Second program
+package javaPackage;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+public class BufferedWriterExample {
+public static void main(String[] args) throws IOException 
+{
+ String[] strs = {"New Delhi is the capital of India.",
+		  "Washington, D.C. is the capital of US.",
+		  "Canberra is the capital of Australia."
+ };	
+// Create an object of FileWriter class.	
+   FileWriter fw = new FileWriter("D:\\myfile.txt");
+ 
+// Create an object of BufferedWriter class and reference variable fw to its constructor.
+   BufferedWriter bw = new BufferedWriter(fw);
+   
+   for(int i = 0; i < strs.length; i++)
+   {
+      bw.write(strs[i]);
+      bw.newLine();
+   }
+   bw.close(); // Closing the stream.
+   System.out.println("File written successfully.");
+ }
+}
+32,Rishi

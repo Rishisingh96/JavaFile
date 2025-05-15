@@ -1,4 +1,4 @@
-package com.Java.IO_Stream_and_File_Handling.Universal.FileHandling;
+package com.Java.IO_Stream_and_File_Handling.StreamClass;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

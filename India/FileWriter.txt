@@ -1,1 +1,5 @@
-Rishi singh
+Hello, this is an example of PrintWriter.
+This is the same line as before, and now it ends.
+This is a formatted number: 123.46
+This is appended content using PrintWriter in append mode.
+This line will not overwrite the previous content.

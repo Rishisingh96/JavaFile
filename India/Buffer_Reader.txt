@@ -14,12 +14,12 @@ Private:
 
 2. What are the characteristics of an object in Java?
 Ans: An object has three characteristics that are as follows:
-a) State: It represents the properties of an object. It is represented by instance variable/attribute of an object.
-b) Behaviour: It represents functionality or actions. It is represented by methods/functions in Java.
-c) Identity: It represents the unique name of an object. It differentiates one object from the other. The unique name of an object is used to identify the object.
+a)State:It represents the properties of an object. It is represented by instance variable/attribute of an object.
+b)Behaviour:It represents functionality or actions. It is represented by methods/functions in Java.
+c)Identity:It represents the unique name of an object. It differentiates one object from the other. The unique name of an object is used to identify the object.
 
 3. What is a class in Java?
-Ans:  A class is a user-defined data type that acts as a template for creating objects of the identical type. It represents the common properties and actions (functions) of an object.
+Ans: A class is a user-defined data type that acts as a template for creating objects of the identical type. It represents the common properties and actions (functions) of an object.
 Class is blueprint of object's.
 
 4. Why do we need a class in Java?
