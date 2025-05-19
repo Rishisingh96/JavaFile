@@ -12,12 +12,12 @@ public class DeserializePerson {
         File file = new File("India/Java.txt");
         FileInputStream fis = new FileInputStream(file);
         ObjectInputStream ois = new ObjectInputStream(fis);
-// Deserialize or read objects of Person class.
+        // Deserialize or read objects of Person class.
         Person p = (Person)ois.readObject();
-// Displaying objects that are read from file.
+        // Displaying objects that are read from file.
         System.out.println("Name: " +p.name);
         System.out.println("Age: " +p.age);
-// Print the input path of the file.
+        // Print the input path of the file.
         System.out.println("Data are read from " +file.getAbsolutePath());
     }
 }

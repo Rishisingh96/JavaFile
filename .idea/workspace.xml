@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/Java/IO_Stream_and_File_Handling/SerializeAndDeserialize/DeserializeEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/IO_Stream_and_File_Handling/SerializeAndDeserialize/DeserializePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/IO_Stream_and_File_Handling/SerializeAndDeserialize/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/IO_Stream_and_File_Handling/SerializeAndDeserialize/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/IO_Stream_and_File_Handling/SerializeAndDeserialize/SerializeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/IO_Stream_and_File_Handling/SerializeAndDeserialize/SerializeEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/IO_Stream_and_File_Handling/SerializeAndDeserialize/SerializePersonUseExternalizable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/WrapperClass/Autoboxing_Unboxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/WrapperClass/ByteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/WrapperClass/Circle_MathClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/WrapperClass/IntegerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/WrapperClass/LongTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/WrapperClass/WrappingUnwrapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Heap_18/NearByCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Heap_18/WeakestSoldier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/India/Java.txt" beforeDir="false" afterPath="$PROJECT_DIR$/India/Java.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/India/Python.txt" beforeDir="false" afterPath="$PROJECT_DIR$/India/Python.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/India/myfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/India/myfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/IO_Stream_and_File_Handling/SerializeAndDeserialize/DeserializePerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/IO_Stream_and_File_Handling/SerializeAndDeserialize/DeserializePerson.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -381,6 +368,7 @@
     "Application.N_number_sum.executor": "Run",
     "Application.NamingCases_pascal_camel_etc.executor": "Run",
     "Application.NamingConventionsConverter.executor": "Run",
+    "Application.NearByCars.executor": "Run",
     "Application.NestedClassInterfaceProgram.executor": "Run",
     "Application.NestedInterfaceProgram.executor": "Run",
     "Application.NetSalary (1).executor": "Run",
@@ -773,6 +761,7 @@
     "Application.VarargsOverloadExample.executor": "Run",
     "Application.WaitNotifyExample.executor": "Run",
     "Application.Waysofcreatset.executor": "Run",
+    "Application.WeakestSoldier.executor": "Run",
     "Application.Without_using_Third_Variable.executor": "Run",
     "Application.Without_using_Third_Variable_XOR.executor": "Run",
     "Application.Word_Count.executor": "Run",
@@ -916,20 +905,7 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeserializePerson">
-    <configuration name="DeserializeEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.IO_Stream_and_File_Handling.SerializeAndDeserialize.DeserializeEmployee" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Java.IO_Stream_and_File_Handling.SerializeAndDeserialize.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NearByCars">
     <configuration name="DeserializePerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Java.IO_Stream_and_File_Handling.SerializeAndDeserialize.DeserializePerson" />
       <module name="All Java Program" />
@@ -943,12 +919,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.IO_Stream_and_File_Handling.SerializeAndDeserialize.SerializeArray" />
+    <configuration name="NearByCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Heap_18.NearByCars" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.IO_Stream_and_File_Handling.SerializeAndDeserialize.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Heap_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -956,8 +932,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializeEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.IO_Stream_and_File_Handling.SerializeAndDeserialize.SerializeEmployee" />
+    <configuration name="SerializeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.IO_Stream_and_File_Handling.SerializeAndDeserialize.SerializeArray" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -982,13 +958,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WeakestSoldier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Heap_18.WeakestSoldier" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Heap_18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NearByCars" />
+        <item itemvalue="Application.WeakestSoldier" />
         <item itemvalue="Application.DeserializePerson" />
         <item itemvalue="Application.SerializePersonUseExternalizable" />
         <item itemvalue="Application.SerializeArray" />
-        <item itemvalue="Application.DeserializeEmployee" />
-        <item itemvalue="Application.SerializeEmployee" />
       </list>
     </recent_temporary>
   </component>
