@@ -3,6 +3,7 @@ package com.Java.MultiThreding;
 
 // I want to print First priority that means I want to that execute program one by one .
 class Demo{
+	//We use Synchronised block
 	synchronized public void show() {
 		for(int i=1; i<=10; i++) {
 			System.out.println(i);

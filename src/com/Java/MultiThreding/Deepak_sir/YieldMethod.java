@@ -16,9 +16,7 @@ public class YieldMethod extends Thread{
     public static void main(String[] args) {
         YieldMethod t = new YieldMethod();
         t.start();
-
         Thread.yield();
-
         for(int i=1; i<=5; i++){
             System.out.println(Thread.currentThread().getName()+" - "+i);
 

@@ -5,8 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Heap_18/Question/KthLargestElementInStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CheckPythonJava/C++Check.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CheckPythonJava/C_Check.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CheckPythonJava/JavaCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CheckPythonJava/NodeCheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CheckPythonJava/PythonCheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/StaticSynchronize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/Synchronized_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycleOfTread/Blocked_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycleOfTread/Dead_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycleOfTread/MyThreadCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycleOfTread/New_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycleOfTread/Runnable_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycleOfTread/Running_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycleOfTread/ThreadPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/StopMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/StopUseBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/StopUseIsInterrupted.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/YieldMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/YieldMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/Synchronized_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Synchronized_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Heap_18/Question/KthLargestElementInStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Heap_18/Question/KthLargestElementInStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +161,7 @@
     "Application.Binary_Left_Right_shift.executor": "Run",
     "Application.Binary_Search.executor": "Run",
     "Application.Bitwise_Operator.executor": "Run",
+    "Application.Blocked_4.executor": "Run",
     "Application.BuildTreeAllOperation.executor": "Run",
     "Application.BuildTreePreorder.executor": "Run",
     "Application.Build_BST (1).executor": "Run",
@@ -189,6 +211,7 @@
     "Application.DataTypefind.executor": "Run",
     "Application.Data_Type_find.executor": "Run",
     "Application.Day1.executor": "Run",
+    "Application.Dead_5.executor": "Run",
     "Application.Decreasing_Order.executor": "Run",
     "Application.DeleteFileExample.executor": "Run",
     "Application.Delete_Node (1).executor": "Run",
@@ -272,6 +295,7 @@
     "Application.Interview_Question.executor": "Run",
     "Application.Introduction.executor": "Run",
     "Application.Jagged_Array.executor": "Run",
+    "Application.JavaCheck.executor": "Run",
     "Application.JavaCopyConstructorExamplePrograms.executor": "Run",
     "Application.JavaMethod.executor": "Run",
     "Application.JavaPrintSimultaneously.executor": "Run",
@@ -363,6 +387,7 @@
     "Application.MyBike.executor": "Run",
     "Application.MyLogin (1).executor": "Run",
     "Application.MyLogin.executor": "Run",
+    "Application.MyThread.executor": "Run",
     "Application.MyWindow.executor": "Run",
     "Application.N_number_sum.executor": "Run",
     "Application.NamingCases_pascal_camel_etc.executor": "Run",
@@ -373,6 +398,7 @@
     "Application.NetSalary (1).executor": "Run",
     "Application.NetSalary (2).executor": "Run",
     "Application.NetSalary.executor": "Run",
+    "Application.New_1.executor": "Run",
     "Application.NextGreater.executor": "Run",
     "Application.NonStaticMemberInside$Demo.executor": "Run",
     "Application.NonStaticMemberInside.executor": "Run",
@@ -633,6 +659,8 @@
     "Application.RootToLeafPaths.executor": "Run",
     "Application.RotateArray.executor": "Debug",
     "Application.Roted2DArray.executor": "Run",
+    "Application.Runnable_2.executor": "Run",
+    "Application.Running_3.executor": "Run",
     "Application.School.executor": "Run",
     "Application.Scientefic_cal.executor": "Run",
     "Application.SearchBST.executor": "Run",
@@ -675,6 +703,9 @@
     "Application.StackUsing2Queues.executor": "Run",
     "Application.StaticBlockTest.executor": "Run",
     "Application.StaticInnerClass.executor": "Run",
+    "Application.StaticSynchronize (1).executor": "Run",
+    "Application.StaticSynchronize (2).executor": "Run",
+    "Application.StaticSynchronize.executor": "Run",
     "Application.StockSpanProblem.executor": "Run",
     "Application.Store_Element_in_Set.executor": "Run",
     "Application.StreamApi.executor": "Run",
@@ -717,6 +748,7 @@
     "Application.SynchronizationDemo (1).executor": "Run",
     "Application.SynchronizationDemo (2).executor": "Run",
     "Application.SynchronizationDemo.executor": "Run",
+    "Application.Synchronized_Method.executor": "Run",
     "Application.TableQ4.executor": "Run",
     "Application.TakeBothThis_Super.executor": "Run",
     "Application.Test (1).executor": "Run",
@@ -733,6 +765,7 @@
     "Application.ThreadInterrupt_15.executor": "Run",
     "Application.ThreadNameDemo (1).executor": "Run",
     "Application.ThreadNameDemo.executor": "Run",
+    "Application.ThreadPriority.executor": "Run",
     "Application.Throw_throws.executor": "Run",
     "Application.Ticket_Booking (1).executor": "Run",
     "Application.Ticket_Booking.executor": "Run",
@@ -904,13 +937,13 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KthLargestElementInStream">
-    <configuration name="DeserializePerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.IO_Stream_and_File_Handling.SerializeAndDeserialize.DeserializePerson" />
+  <component name="RunManager" selected="Application.StaticSynchronize (2)">
+    <configuration name="JavaCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CheckPythonJava.JavaCheck" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.IO_Stream_and_File_Handling.SerializeAndDeserialize.*" />
+          <option name="PATTERN" value="com.CheckPythonJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -918,12 +951,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthLargestElementInStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Heap_18.Question.KthLargestElementInStream" />
+    <configuration name="StaticSynchronize (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Deepak_sir.StaticSynchronize" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Heap_18.Question.*" />
+          <option name="PATTERN" value="com.Java.MultiThreding.Deepak_sir.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -931,12 +964,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NearByCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Heap_18.NearByCars" />
+    <configuration name="StaticSynchronize (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Deepak_sir.StaticSynchronize" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Heap_18.*" />
+          <option name="PATTERN" value="com.Java.MultiThreding.Deepak_sir.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -944,12 +977,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializePersonUseExternalizable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.IO_Stream_and_File_Handling.SerializeAndDeserialize.SerializePersonUseExternalizable" />
+    <configuration name="StaticSynchronize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Deepak_sir.StaticSynchronize" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.IO_Stream_and_File_Handling.SerializeAndDeserialize.*" />
+          <option name="PATTERN" value="com.Java.MultiThreding.Deepak_sir.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -957,12 +990,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeakestSoldier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Heap_18.WeakestSoldier" />
+    <configuration name="Synchronized_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Deepak_sir.Synchronized_Method" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Heap_18.*" />
+          <option name="PATTERN" value="com.Java.MultiThreding.Deepak_sir.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -972,11 +1005,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KthLargestElementInStream" />
-        <item itemvalue="Application.NearByCars" />
-        <item itemvalue="Application.WeakestSoldier" />
-        <item itemvalue="Application.DeserializePerson" />
-        <item itemvalue="Application.SerializePersonUseExternalizable" />
+        <item itemvalue="Application.StaticSynchronize (2)" />
+        <item itemvalue="Application.StaticSynchronize (1)" />
+        <item itemvalue="Application.StaticSynchronize" />
+        <item itemvalue="Application.Synchronized_Method" />
+        <item itemvalue="Application.JavaCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -1258,6 +1291,9 @@
     </task>
     <option name="localTasksCounter" value="35" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.py" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
