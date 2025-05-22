@@ -5,29 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/CheckPythonJava/C++Check.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CheckPythonJava/C_Check.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CheckPythonJava/JavaCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CheckPythonJava/NodeCheck.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CheckPythonJava/PythonCheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/StaticSynchronize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/Synchronized_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycleOfTread/Blocked_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycleOfTread/Dead_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycleOfTread/MyThreadCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycleOfTread/New_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycleOfTread/Runnable_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycleOfTread/Running_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/LifeCycleOfTread/ThreadPriority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/StopMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/StopUseBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/StopUseIsInterrupted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/InterThreadCommunication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/ThreadCommunication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Hashing_36/HashMap_Operations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/YieldMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/YieldMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/Synchronized_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Synchronized_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Heap_18/Question/KthLargestElementInStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Heap_18/Question/KthLargestElementInStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/Synchronized_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/MultiThreding/Deepak_sir/Synchronized_Method.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,6 +258,7 @@
     "Application.GenerateBinaryNumber.executor": "Run",
     "Application.GenerateBinaryNumberCode.executor": "Debug",
     "Application.GridWays.executor": "Run",
+    "Application.HashMap_Operations.executor": "Run",
     "Application.HeapSortAlgo.executor": "Run",
     "Application.Height_of_the_tree.executor": "Run",
     "Application.Hello.executor": "Run",
@@ -290,6 +273,7 @@
     "Application.InstanceBlock.executor": "Run",
     "Application.InstanceOfExample.executor": "Run",
     "Application.IntegerTest.executor": "Run",
+    "Application.InterThreadCommunication.executor": "Run",
     "Application.Interleave2HalvesOfaQueue.executor": "Run",
     "Application.Intermediate_Terminal_Operations.executor": "Run",
     "Application.Interview_Question.executor": "Run",
@@ -761,6 +745,7 @@
     "Application.Test2 (1).executor": "Run",
     "Application.Test2 (2).executor": "Run",
     "Application.Test2.executor": "Run",
+    "Application.ThreadCommunication.executor": "Run",
     "Application.ThreadDemo.executor": "Run",
     "Application.ThreadInterrupt_15.executor": "Run",
     "Application.ThreadNameDemo (1).executor": "Run",
@@ -937,13 +922,26 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StaticSynchronize (2)">
-    <configuration name="JavaCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CheckPythonJava.JavaCheck" />
+  <component name="RunManager" selected="Application.HashMap_Operations">
+    <configuration name="HashMap_Operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Hashing_36.HashMap_Operations" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CheckPythonJava.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Hashing_36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterThreadCommunication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Deepak_sir.InterThreadCommunication" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Java.MultiThreding.Deepak_sir.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -982,7 +980,7 @@
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.MultiThreding.Deepak_sir.*" />
+          <option name="PATTERN" value="com.Java.MultiThreding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -990,8 +988,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Synchronized_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Deepak_sir.Synchronized_Method" />
+    <configuration name="StaticSynchronize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Deepak_sir.StaticSynchronize" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Java.MultiThreding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadCommunication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Deepak_sir.ThreadCommunication" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -1005,11 +1016,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMap_Operations" />
+        <item itemvalue="Application.ThreadCommunication" />
+        <item itemvalue="Application.InterThreadCommunication" />
         <item itemvalue="Application.StaticSynchronize (2)" />
         <item itemvalue="Application.StaticSynchronize (1)" />
-        <item itemvalue="Application.StaticSynchronize" />
-        <item itemvalue="Application.Synchronized_Method" />
-        <item itemvalue="Application.JavaCheck" />
       </list>
     </recent_temporary>
   </component>

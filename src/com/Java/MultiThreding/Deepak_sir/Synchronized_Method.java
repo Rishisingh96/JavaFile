@@ -47,7 +47,7 @@ public class Synchronized_Method {
         // Create an object of class Table.
         Table1 obj = new Table1();
         // Create an object of Thread1 class and pass obj as an argument to its constructor.
-        Thread1 t1 = new Thread1(obj);
+       Thread1 t1 = new Thread1(obj);
         // Create an object of Thread2 class and pass obj as an argument to its constructor.
         Thread2 t2 = new Thread2(obj);
         // Start both threads.
