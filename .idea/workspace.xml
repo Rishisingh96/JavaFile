@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/AddExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/ArrayListInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/EnumerationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/IteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/IteratorTest_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/ListIteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/ListIteratorTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/ListIteratorTest_2WorkInternally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/RemoveDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -220,6 +225,7 @@
     "Application.Employee_object.executor": "Run",
     "Application.EnumSingletonSerializationTest.executor": "Run",
     "Application.EnumSingletonTest.executor": "Run",
+    "Application.EnumerationTest.executor": "Run",
     "Application.EvenNumber.executor": "Run",
     "Application.Example.executor": "Debug",
     "Application.ExampleE.executor": "Run",
@@ -278,6 +284,8 @@
     "Application.Intermediate_Terminal_Operations.executor": "Run",
     "Application.Interview_Question.executor": "Run",
     "Application.Introduction.executor": "Run",
+    "Application.IteratorTest.executor": "Run",
+    "Application.IteratorTest_2.executor": "Run",
     "Application.Jagged_Array.executor": "Run",
     "Application.JavaCheck.executor": "Run",
     "Application.JavaCopyConstructorExamplePrograms.executor": "Run",
@@ -293,6 +301,9 @@
     "Application.Largest_Number.executor": "Run",
     "Application.LazySingletonExample.executor": "Run",
     "Application.Linear_Search.executor": "Run",
+    "Application.ListIteratorTest.executor": "Run",
+    "Application.ListIteratorTest2.executor": "Run",
+    "Application.ListIteratorTest_2WorkInternally.executor": "Run",
     "Application.ListText.executor": "Run",
     "Application.ListText2.executor": "Run",
     "Application.LocalBlock.executor": "Run",
@@ -621,6 +632,7 @@
     "Application.Rectangle (2).executor": "Run",
     "Application.Rectangle.executor": "Run",
     "Application.RectangleBox.executor": "Run",
+    "Application.RemoveDemo.executor": "Run",
     "Application.RemoveDuplicateValuefromArray.executor": "Run",
     "Application.RemoveFirstLast.executor": "Run",
     "Application.Reveres_sereveR.executor": "Run",
@@ -922,13 +934,13 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddExample">
-    <configuration name="AddExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.List.ArrayList.AddExample" />
+  <component name="RunManager" selected="Application.RemoveDemo">
+    <configuration name="IteratorTest_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.Enumeration_Iterators4.IteratorTest_2" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.List.ArrayList.*" />
+          <option name="PATTERN" value="com.Collection.Enumeration_Iterators4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -936,12 +948,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.List.ArrayList.ArrayListInitialization" />
+    <configuration name="ListIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.Enumeration_Iterators4.ListIteratorTest" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.List.ArrayList.*" />
+          <option name="PATTERN" value="com.Collection.Enumeration_Iterators4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -949,12 +961,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMap_Operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Hashing_36.HashMap_Operations" />
+    <configuration name="ListIteratorTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.Enumeration_Iterators4.ListIteratorTest2" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Hashing_36.*" />
+          <option name="PATTERN" value="com.Collection.Enumeration_Iterators4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -962,12 +974,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterThreadCommunication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Deepak_sir.InterThreadCommunication" />
+    <configuration name="ListIteratorTest_2WorkInternally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.Enumeration_Iterators4.ListIteratorTest_2WorkInternally" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.MultiThreding.Deepak_sir.*" />
+          <option name="PATTERN" value="com.Collection.Enumeration_Iterators4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -975,25 +987,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticSynchronize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Deepak_sir.StaticSynchronize" />
+    <configuration name="RemoveDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.Enumeration_Iterators4.RemoveDemo" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java.MultiThreding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadCommunication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java.MultiThreding.Deepak_sir.ThreadCommunication" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Java.MultiThreding.Deepak_sir.*" />
+          <option name="PATTERN" value="com.Collection.Enumeration_Iterators4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1003,11 +1002,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AddExample" />
-        <item itemvalue="Application.ArrayListInitialization" />
-        <item itemvalue="Application.HashMap_Operations" />
-        <item itemvalue="Application.ThreadCommunication" />
-        <item itemvalue="Application.InterThreadCommunication" />
+        <item itemvalue="Application.RemoveDemo" />
+        <item itemvalue="Application.ListIteratorTest2" />
+        <item itemvalue="Application.ListIteratorTest_2WorkInternally" />
+        <item itemvalue="Application.ListIteratorTest" />
+        <item itemvalue="Application.IteratorTest_2" />
       </list>
     </recent_temporary>
   </component>
