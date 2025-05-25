@@ -13,11 +13,11 @@ public class EnumerationTest {
             v.addElement(i);
         }
         System.out.println(v); // It will print all elements at a time like this [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-// Now we want to get elements one by one. So, we will require Enumeration concept.
-// Create object of Enumeration by calling elements() method of vector class using object reference variable v.
-// At the beginning, e (cursor) will point to index just before the first element in v.
+        // Now we want to get elements one by one. So, we will require Enumeration concept.
+        // Create object of Enumeration by calling elements() method of vector class using object reference variable v.
+        // At the beginning, e (cursor) will point to index just before the first element in v.
         Enumeration e = v.elements();
-// Checking the next element availability using reference variable e and while loop.
+        // Checking the next element availability using reference variable e and while loop.
         while(e.hasMoreElements())
         {
             // Moving cursor to next element.

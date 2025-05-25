@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/EnumerationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/IteratorTest_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/ListIteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/ListIteratorTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/ListIteratorTest_2WorkInternally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/RemoveDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/ArrayListConvertToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/Synchronization/ArrayListSynchronizationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/Synchronization/SynArrayListUsingCopyOnWriteArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/Synchronization/synchronizeTestUseSM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/sharadhaMam/ReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/Vector/VectorTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/Vector/VectorTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/EnumerationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/EnumerationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +134,9 @@
     "Application.ArrayImplementation (1).executor": "Run",
     "Application.ArrayImplementation.executor": "Run",
     "Application.ArrayList2.executor": "Run",
+    "Application.ArrayListConvertToArray.executor": "Run",
     "Application.ArrayListInitialization.executor": "Run",
+    "Application.ArrayListSynchronizationTest.executor": "Run",
     "Application.ArrayOF_Object.executor": "Run",
     "Application.Array_BT_SM.executor": "Run",
     "Application.Array_Basic.executor": "Run",
@@ -646,6 +649,7 @@
     "Application.ReverseName_use_toCharArray.executor": "Run",
     "Application.ReverseNamenew.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
+    "Application.ReverseOrder.executor": "Run",
     "Application.ReverseStack.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.ReverseStringWord.executor": "Run",
@@ -741,6 +745,7 @@
     "Application.SwapTwoNumberuseBufferR.executor": "Run",
     "Application.SwapusingBufferdReader.executor": "Run",
     "Application.SwitchCase.executor": "Run",
+    "Application.SynArrayListUsingCopyOnWriteArrayList.executor": "Run",
     "Application.SynchronizationDemo (1).executor": "Run",
     "Application.SynchronizationDemo (2).executor": "Run",
     "Application.SynchronizationDemo.executor": "Run",
@@ -788,6 +793,8 @@
     "Application.Validate_BST.executor": "Run",
     "Application.VarargsExample.executor": "Run",
     "Application.VarargsOverloadExample.executor": "Run",
+    "Application.VectorTest1.executor": "Run",
+    "Application.VectorTest2.executor": "Run",
     "Application.WaitNotifyExample.executor": "Run",
     "Application.Waysofcreatset.executor": "Run",
     "Application.WeakestSoldier.executor": "Run",
@@ -876,6 +883,7 @@
     "Application.swap2number.executor": "Run",
     "Application.swapNumber.executor": "Run",
     "Application.swapusingBufferedReaderwithouther.executor": "Run",
+    "Application.synchronizeTestUseSM.executor": "Run",
     "Application.toCharArray.executor": "Run",
     "Application.toString_code.executor": "Run",
     "Application.typeCasting.executor": "Run",
@@ -920,11 +928,11 @@
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\String_3\Basic" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\JavaFile all\JavaFile\src\com\Collection\List\ArrayList\Synchronization" />
       <recent name="G:\JavaFile all\JavaFile\src\com\Collection\map" />
       <recent name="G:\JavaFile all\JavaFile\src\com\interviewQuestion_DSA_Java\Tree_16\Binay_Tree" />
       <recent name="E:\JavaFile all\JavaFile\India" />
       <recent name="E:\JavaFile all\JavaFile\src\com\Java\Universal\Week5" />
-      <recent name="E:\JavaFile all\JavaFile\src\com\Collection\List\ArrayList" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.Java.DurgeshSir100DayCode" />
@@ -934,9 +942,22 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveDemo">
-    <configuration name="IteratorTest_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.Enumeration_Iterators4.IteratorTest_2" />
+  <component name="RunManager" selected="Application.VectorTest2">
+    <configuration name="ArrayListConvertToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.List.ArrayList.ArrayListConvertToArray" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Collection.List.ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumerationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.Enumeration_Iterators4.EnumerationTest" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -948,12 +969,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.Enumeration_Iterators4.ListIteratorTest" />
+    <configuration name="ReverseOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.List.ArrayList.sharadhaMam.ReverseOrder" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.Enumeration_Iterators4.*" />
+          <option name="PATTERN" value="com.Collection.List.ArrayList.sharadhaMam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -961,12 +982,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListIteratorTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.Enumeration_Iterators4.ListIteratorTest2" />
+    <configuration name="VectorTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.List.Vector.VectorTest1" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.Enumeration_Iterators4.*" />
+          <option name="PATTERN" value="com.Collection.List.Vector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -974,25 +995,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListIteratorTest_2WorkInternally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.Enumeration_Iterators4.ListIteratorTest_2WorkInternally" />
+    <configuration name="VectorTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.List.Vector.VectorTest2" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.Enumeration_Iterators4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.Enumeration_Iterators4.RemoveDemo" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Collection.Enumeration_Iterators4.*" />
+          <option name="PATTERN" value="com.Collection.List.Vector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1002,11 +1010,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveDemo" />
-        <item itemvalue="Application.ListIteratorTest2" />
-        <item itemvalue="Application.ListIteratorTest_2WorkInternally" />
-        <item itemvalue="Application.ListIteratorTest" />
-        <item itemvalue="Application.IteratorTest_2" />
+        <item itemvalue="Application.VectorTest2" />
+        <item itemvalue="Application.VectorTest1" />
+        <item itemvalue="Application.ArrayListConvertToArray" />
+        <item itemvalue="Application.EnumerationTest" />
+        <item itemvalue="Application.ReverseOrder" />
       </list>
     </recent_temporary>
   </component>
