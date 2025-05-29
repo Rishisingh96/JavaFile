@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/ArrayListConvertToArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/Synchronization/ArrayListSynchronizationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/Synchronization/SynArrayListUsingCopyOnWriteArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/Synchronization/synchronizeTestUseSM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/ArrayList/sharadhaMam/ReverseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/Vector/VectorTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/List/Vector/VectorTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/HashSet/hashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/LinkedHashSet/LinkedHashSetConversionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/SetSearchElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/Sorted_TreeSet/TreeSetConversionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/Sorted_TreeSet/TreeSetEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/libs/gson-2.10-javadoc.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/EnumerationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/Enumeration_Iterators4/EnumerationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/List/LinkedList/Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/List/LinkedList/Linked_List.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -304,6 +303,8 @@
     "Application.Largest_Number.executor": "Run",
     "Application.LazySingletonExample.executor": "Run",
     "Application.Linear_Search.executor": "Run",
+    "Application.LinkedHashSetConversionExample.executor": "Run",
+    "Application.Linked_List.executor": "Run",
     "Application.ListIteratorTest.executor": "Run",
     "Application.ListIteratorTest2.executor": "Run",
     "Application.ListIteratorTest_2WorkInternally.executor": "Run",
@@ -674,6 +675,7 @@
     "Application.SerializePersonUseExternalizable.executor": "Run",
     "Application.Server.executor": "Run",
     "Application.Serverswing.executor": "Run",
+    "Application.SetSearchElement.executor": "Run",
     "Application.ShoppingCart.executor": "Run",
     "Application.ShowYearMonthDay (1).executor": "Run",
     "Application.ShowYearMonthDay.executor": "Run",
@@ -777,6 +779,8 @@
     "Application.Trapping_Rainwater.executor": "Run",
     "Application.TraversExampleCollection.executor": "Run",
     "Application.TreeMapOperations.executor": "Run",
+    "Application.TreeSetConversionExample.executor": "Run",
+    "Application.TreeSetEx3.executor": "Run",
     "Application.TreeSetExample.executor": "Run",
     "Application.TriangleOfNumber.executor": "Run",
     "Application.TryToOverrideStaticMethod (1).executor": "Run",
@@ -844,6 +848,7 @@
     "Application.function_init_calcQ8.executor": "Run",
     "Application.getShortestPath.executor": "Run",
     "Application.halfPyramidnumber.executor": "Run",
+    "Application.hashSetTest.executor": "Run",
     "Application.increment_and_Decrement.executor": "Run",
     "Application.indexOf.executor": "Run",
     "Application.isAlive.executor": "Run",
@@ -908,7 +913,7 @@
     "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "G:/Spring and Spring Boot/2025 Spring and Microservices/task user services/task-user-services",
+    "last_opened_file_path": "G:/JavaFile all/JavaFile/src/com",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -921,11 +926,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\JavaFile all\JavaFile\src\com" />
+      <recent name="G:\JavaFile all\JavaFile\libs" />
       <recent name="E:\JavaFile all\JavaFile\src\com\interviewQuestion_DSA_Java\Linked_List_10" />
       <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\String_3\All_method" />
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Project" />
-      <recent name="E:\JavaFile\All Java Program\src\com\leetCode151" />
-      <recent name="E:\JavaFile\All Java Program\src\com\interviewQuestion_DSA_Java\String_3\Basic" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\JavaFile all\JavaFile\src\com\Collection\List\ArrayList\Synchronization" />
@@ -942,13 +947,13 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VectorTest2">
-    <configuration name="ArrayListConvertToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.List.ArrayList.ArrayListConvertToArray" />
+  <component name="RunManager" selected="Application.LinkedHashSetConversionExample">
+    <configuration name="LinkedHashSetConversionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.set.LinkedHashSet.LinkedHashSetConversionExample" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.List.ArrayList.*" />
+          <option name="PATTERN" value="com.Collection.set.LinkedHashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -956,12 +961,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumerationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.Enumeration_Iterators4.EnumerationTest" />
+    <configuration name="SetSearchElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.set.SetSearchElement" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.Enumeration_Iterators4.*" />
+          <option name="PATTERN" value="com.Collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -969,12 +974,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.List.ArrayList.sharadhaMam.ReverseOrder" />
+    <configuration name="TreeSetConversionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.set.Sorted_TreeSet.TreeSetConversionExample" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.List.ArrayList.sharadhaMam.*" />
+          <option name="PATTERN" value="com.Collection.set.Sorted_TreeSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -982,12 +987,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VectorTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.List.Vector.VectorTest1" />
+    <configuration name="TreeSetEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.set.Sorted_TreeSet.TreeSetEx3" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.List.Vector.*" />
+          <option name="PATTERN" value="com.Collection.set.Sorted_TreeSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -995,12 +1000,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VectorTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.List.Vector.VectorTest2" />
+    <configuration name="hashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.set.HashSet.hashSetTest" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.List.Vector.*" />
+          <option name="PATTERN" value="com.Collection.set.HashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1010,11 +1015,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VectorTest2" />
-        <item itemvalue="Application.VectorTest1" />
-        <item itemvalue="Application.ArrayListConvertToArray" />
-        <item itemvalue="Application.EnumerationTest" />
-        <item itemvalue="Application.ReverseOrder" />
+        <item itemvalue="Application.LinkedHashSetConversionExample" />
+        <item itemvalue="Application.TreeSetEx3" />
+        <item itemvalue="Application.TreeSetConversionExample" />
+        <item itemvalue="Application.hashSetTest" />
+        <item itemvalue="Application.SetSearchElement" />
       </list>
     </recent_temporary>
   </component>

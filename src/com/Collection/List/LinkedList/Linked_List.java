@@ -46,5 +46,13 @@ public class Linked_List {
         ar1.add("34.54");
         
         ar1.stream().forEach(System.out :: println);
+
+        //print using while loop
+        System.out.println("\nPrinting using while loop:");
+        int num = 0;
+        while (ar1.size() > num) {
+            System.out.println(ar1.get(num));
+            num++;
+        }
     }
 }
