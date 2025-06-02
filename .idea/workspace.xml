@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/HashSet/hashSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/LinkedHashSet/LinkedHashSetConversionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/SetSearchElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/Sorted_TreeSet/TreeSetConversionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/Sorted_TreeSet/TreeSetEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/libs/gson-2.10-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/HashMapImplementation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/List/LinkedList/Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/List/LinkedList/Linked_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/map/FinalHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/FinalHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/map/HashMap_Q.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/HashMap_Q.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/map/HashMap_cor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/HashMap_cor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,6 +263,7 @@
     "Application.GenerateBinaryNumber.executor": "Run",
     "Application.GenerateBinaryNumberCode.executor": "Debug",
     "Application.GridWays.executor": "Run",
+    "Application.HashMapImplementation.executor": "Run",
     "Application.HashMap_Operations.executor": "Run",
     "Application.HeapSortAlgo.executor": "Run",
     "Application.Height_of_the_tree.executor": "Run",
@@ -913,7 +911,7 @@
     "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "G:/JavaFile all/JavaFile/src/com",
+    "last_opened_file_path": "G:/Intrenship/Zidio Devlopment/ZIDIOConnect",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -947,13 +945,13 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedHashSetConversionExample">
-    <configuration name="LinkedHashSetConversionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.set.LinkedHashSet.LinkedHashSetConversionExample" />
+  <component name="RunManager" selected="Application.HashMapImplementation">
+    <configuration name="HashMapImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.map.HashMapCode.HashMapImplementation" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.set.LinkedHashSet.*" />
+          <option name="PATTERN" value="com.Collection.map.HashMapCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -961,12 +959,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetSearchElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.set.SetSearchElement" />
+    <configuration name="LinkedHashSetConversionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.set.LinkedHashSet.LinkedHashSetConversionExample" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.set.*" />
+          <option name="PATTERN" value="com.Collection.set.LinkedHashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1015,11 +1013,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapImplementation" />
         <item itemvalue="Application.LinkedHashSetConversionExample" />
         <item itemvalue="Application.TreeSetEx3" />
         <item itemvalue="Application.TreeSetConversionExample" />
         <item itemvalue="Application.hashSetTest" />
-        <item itemvalue="Application.SetSearchElement" />
       </list>
     </recent_temporary>
   </component>
@@ -1346,7 +1344,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/Collection/map/FinalHashMap.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Collection/map/HashMapCode/FinalHashMap.java</url>
           <line>19</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
