@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/HashMapImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/CheckValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/MajorityElementFind.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/map/FinalHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/FinalHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/map/HashMap_Q.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/HashMap_Q.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/map/HashMap_cor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/HashMap_cor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +113,7 @@
     "Application.Addition.executor": "Run",
     "Application.AdditionReturn.executor": "Run",
     "Application.AmbiguousVarargsExample.executor": "Run",
+    "Application.Anangram.executor": "Run",
     "Application.Animal.executor": "Run",
     "Application.AnonymousExa2.executor": "Run",
     "Application.AnonymousInnerClassExample.executor": "Run",
@@ -326,6 +325,7 @@
     "Application.MDArrayusingforeach.executor": "Run",
     "Application.Main.executor": "Debug",
     "Application.MainMethodOverloadingTest.executor": "Run",
+    "Application.MajorityElementFind.executor": "Run",
     "Application.MapExample.executor": "Run",
     "Application.MapExampleCollection.executor": "Run",
     "Application.Matrices3x3_Q7.executor": "Run",
@@ -945,7 +945,20 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashMapImplementation">
+  <component name="RunManager" selected="Application.MajorityElementFind">
+    <configuration name="Anangram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.map.HashMapCode.Anangram" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Collection.map.HashMapCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HashMapImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Collection.map.HashMapCode.HashMapImplementation" />
       <module name="All Java Program" />
@@ -972,12 +985,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetConversionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.set.Sorted_TreeSet.TreeSetConversionExample" />
+    <configuration name="MajorityElementFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.map.HashMapCode.MajorityElementFind" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.set.Sorted_TreeSet.*" />
+          <option name="PATTERN" value="com.Collection.map.HashMapCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -998,26 +1011,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.set.HashSet.hashSetTest" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Collection.set.HashSet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MajorityElementFind" />
+        <item itemvalue="Application.Anangram" />
         <item itemvalue="Application.HashMapImplementation" />
         <item itemvalue="Application.LinkedHashSetConversionExample" />
         <item itemvalue="Application.TreeSetEx3" />
-        <item itemvalue="Application.TreeSetConversionExample" />
-        <item itemvalue="Application.hashSetTest" />
       </list>
     </recent_temporary>
   </component>
