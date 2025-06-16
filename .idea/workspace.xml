@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/CheckValidAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/MajorityElementFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/AllMixSetOperationOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/HashSet/HashSetOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/LinkedHashSet/LinkedHashSetOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/QuestionInterview/CountDistrictElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/Sorted_TreeSet/TreeSetFirstCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/Sorted_TreeSet/TreeSetOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/FibonacciSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/set/TreeSetFirstCode.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +118,7 @@
     "Application.Addition (1).executor": "Run",
     "Application.Addition.executor": "Run",
     "Application.AdditionReturn.executor": "Run",
+    "Application.AllMixSetOperationOrder.executor": "Run",
     "Application.AmbiguousVarargsExample.executor": "Run",
     "Application.Anangram.executor": "Run",
     "Application.Animal.executor": "Run",
@@ -185,6 +192,7 @@
     "Application.Cooperation_inter_thread (2).executor": "Run",
     "Application.Cooperation_inter_thread.executor": "Run",
     "Application.Copy_Constructor.executor": "Run",
+    "Application.CountDistrictElements.executor": "Run",
     "Application.Count_QueenRightPotion_SM.executor": "Run",
     "Application.Count_leaf_nodes.executor": "Run",
     "Application.Count_nodes.executor": "Run",
@@ -234,6 +242,7 @@
     "Application.ExplicitTest.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Fahrenheit.executor": "Run",
+    "Application.FibonacciSeries.executor": "Debug",
     "Application.Fibonacci_series.executor": "Run",
     "Application.Fibonacci_series_Nth.executor": "Run",
     "Application.File1_Thread.executor": "Run",
@@ -264,6 +273,7 @@
     "Application.GridWays.executor": "Run",
     "Application.HashMapImplementation.executor": "Run",
     "Application.HashMap_Operations.executor": "Run",
+    "Application.HashSetOperation.executor": "Run",
     "Application.HeapSortAlgo.executor": "Run",
     "Application.Height_of_the_tree.executor": "Run",
     "Application.Hello.executor": "Run",
@@ -301,6 +311,7 @@
     "Application.LazySingletonExample.executor": "Run",
     "Application.Linear_Search.executor": "Run",
     "Application.LinkedHashSetConversionExample.executor": "Run",
+    "Application.LinkedHashSetOperation.executor": "Run",
     "Application.Linked_List.executor": "Run",
     "Application.ListIteratorTest.executor": "Run",
     "Application.ListIteratorTest2.executor": "Run",
@@ -780,6 +791,7 @@
     "Application.TreeSetConversionExample.executor": "Run",
     "Application.TreeSetEx3.executor": "Run",
     "Application.TreeSetExample.executor": "Run",
+    "Application.TreeSetOperation.executor": "Run",
     "Application.TriangleOfNumber.executor": "Run",
     "Application.TryToOverrideStaticMethod (1).executor": "Run",
     "Application.TryToOverrideStaticMethod.executor": "Run",
@@ -945,13 +957,13 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MajorityElementFind">
-    <configuration name="Anangram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.map.HashMapCode.Anangram" />
+  <component name="RunManager" selected="Application.CountDistrictElements">
+    <configuration name="AllMixSetOperationOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.set.AllMixSetOperationOrder" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.map.HashMapCode.*" />
+          <option name="PATTERN" value="com.Collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -959,12 +971,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.map.HashMapCode.HashMapImplementation" />
+    <configuration name="CountDistrictElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.set.QuestionInterview.CountDistrictElements" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.map.HashMapCode.*" />
+          <option name="PATTERN" value="com.Collection.set.QuestionInterview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -985,12 +997,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityElementFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.map.HashMapCode.MajorityElementFind" />
+    <configuration name="LinkedHashSetOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.set.LinkedHashSet.LinkedHashSetOperation" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.map.HashMapCode.*" />
+          <option name="PATTERN" value="com.Collection.set.LinkedHashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -998,8 +1010,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.set.Sorted_TreeSet.TreeSetEx3" />
+    <configuration name="TreeSetOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.set.Sorted_TreeSet.TreeSetOperation" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -1013,11 +1025,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MajorityElementFind" />
-        <item itemvalue="Application.Anangram" />
-        <item itemvalue="Application.HashMapImplementation" />
+        <item itemvalue="Application.CountDistrictElements" />
+        <item itemvalue="Application.TreeSetOperation" />
+        <item itemvalue="Application.AllMixSetOperationOrder" />
+        <item itemvalue="Application.LinkedHashSetOperation" />
         <item itemvalue="Application.LinkedHashSetConversionExample" />
-        <item itemvalue="Application.TreeSetEx3" />
       </list>
     </recent_temporary>
   </component>
