@@ -1,4 +1,4 @@
-package com.Collection.set.QuestionInterview;
+package com.Collection.QuestionInterview;
 
 import java.util.HashSet;
 

@@ -5,15 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/AllMixSetOperationOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/HashSet/HashSetOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/LinkedHashSet/LinkedHashSetOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/QuestionInterview/CountDistrictElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/Sorted_TreeSet/TreeSetFirstCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/set/Sorted_TreeSet/TreeSetOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/loop/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/QuestionInterview/Union.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/BST/BSTWithCharacterDataNonRecursive.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/BST/BSTWithCharacterDataRecursive.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/BST/CharBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/BST/IntBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/LinkedList/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/LinkedList/DoublyLinkedListOp.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/LinkedList/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/LinkedList/SinglyLinkedListUsingC.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Queue/DEQueueUsingArray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Queue/DEQueueUsingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Queue/DEQueueUsingDoublyLinkedList.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Queue/DEQueueUsingDoublyLinkedListO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Stack/InfixPostfixConversion.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Stack/InfixToPostfixConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Stack/StackUseJavaImp.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Stack/StackUsingArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/set/TreeSetFirstCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/set/QuestionInterview/CountDistrictElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/QuestionInterview/CountDistrictElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/R_01_Roted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/R_01_Roted_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/RotateArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,6 +210,8 @@
     "Application.Count_nodes.executor": "Run",
     "Application.CovariantReturnType.executor": "Run",
     "Application.CreateFile.executor": "Run",
+    "Application.DEQueueUsingArray.executor": "Run",
+    "Application.DEQueueUsingDoublyLinkedListO.executor": "Run",
     "Application.DaemonThread.executor": "Run",
     "Application.DataInputStreamEx.executor": "Run",
     "Application.DataType.executor": "Run",
@@ -282,6 +296,7 @@
     "Application.Implicit_TypeCasting.executor": "Run",
     "Application.Increasing_Order.executor": "Run",
     "Application.Indian_Coins.executor": "Run",
+    "Application.InfixToPostfixConversion.executor": "Run",
     "Application.InhancedSwitch.executor": "Run",
     "Application.Input_Way.executor": "Run",
     "Application.InsertData.executor": "Run",
@@ -691,6 +706,8 @@
     "Application.SingleInheritance.executor": "Run",
     "Application.SingletonSerializationTest.executor": "Run",
     "Application.SingletonTest.executor": "Run",
+    "Application.SinglyLinkedList (1).executor": "Run",
+    "Application.SinglyLinkedList.executor": "Run",
     "Application.Size_Of_Largest_BST (1).executor": "Run",
     "Application.Size_Of_Largest_BST.executor": "Run",
     "Application.SortArrayDescendingO.executor": "Run",
@@ -799,6 +816,7 @@
     "Application.TyeCatchFinally_Day29.executor": "Run",
     "Application.UninitializedStaticBlankFinalVariable (1).executor": "Run",
     "Application.UninitializedStaticBlankFinalVariable.executor": "Run",
+    "Application.Union.executor": "Run",
     "Application.Uppercase.executor": "Run",
     "Application.UsingLinkedList (1).executor": "Run",
     "Application.UsingLinkedList (2).executor": "Run",
@@ -943,11 +961,11 @@
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\JavaFile all\JavaFile\src\com\interviewQuestion_DSA_Java\DSAPracticalSage\Stack" />
+      <recent name="G:\JavaFile all\JavaFile\src\com\interviewQuestion_DSA_Java\DSAPracticalSage\LinkedList" />
       <recent name="G:\JavaFile all\JavaFile\src\com\Collection\List\ArrayList\Synchronization" />
       <recent name="G:\JavaFile all\JavaFile\src\com\Collection\map" />
       <recent name="G:\JavaFile all\JavaFile\src\com\interviewQuestion_DSA_Java\Tree_16\Binay_Tree" />
-      <recent name="E:\JavaFile all\JavaFile\India" />
-      <recent name="E:\JavaFile all\JavaFile\src\com\Java\Universal\Week5" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.Java.DurgeshSir100DayCode" />
@@ -957,13 +975,13 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountDistrictElements">
-    <configuration name="AllMixSetOperationOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.set.AllMixSetOperationOrder" />
+  <component name="RunManager" selected="Application.Union">
+    <configuration name="DEQueueUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.Queue.DEQueueUsingArray" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.set.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -971,12 +989,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDistrictElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.set.QuestionInterview.CountDistrictElements" />
+    <configuration name="DEQueueUsingDoublyLinkedListO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.Queue.DEQueueUsingDoublyLinkedListO" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.set.QuestionInterview.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -984,12 +1002,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHashSetConversionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.set.LinkedHashSet.LinkedHashSetConversionExample" />
+    <configuration name="InfixToPostfixConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.InfixToPostfixConversion" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.set.LinkedHashSet.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -997,12 +1015,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHashSetOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.set.LinkedHashSet.LinkedHashSetOperation" />
+    <configuration name="SinglyLinkedList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.SinglyLinkedList" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.set.LinkedHashSet.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1010,12 +1028,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.set.Sorted_TreeSet.TreeSetOperation" />
+    <configuration name="Union" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.QuestionInterview.Union" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.set.Sorted_TreeSet.*" />
+          <option name="PATTERN" value="com.Collection.QuestionInterview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1025,11 +1043,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountDistrictElements" />
-        <item itemvalue="Application.TreeSetOperation" />
-        <item itemvalue="Application.AllMixSetOperationOrder" />
-        <item itemvalue="Application.LinkedHashSetOperation" />
-        <item itemvalue="Application.LinkedHashSetConversionExample" />
+        <item itemvalue="Application.Union" />
+        <item itemvalue="Application.DEQueueUsingArray" />
+        <item itemvalue="Application.DEQueueUsingDoublyLinkedListO" />
+        <item itemvalue="Application.InfixToPostfixConversion" />
+        <item itemvalue="Application.SinglyLinkedList (1)" />
       </list>
     </recent_temporary>
   </component>
