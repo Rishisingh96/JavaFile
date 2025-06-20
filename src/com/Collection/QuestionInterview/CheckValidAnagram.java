@@ -1,4 +1,4 @@
-package com.Collection.map.HashMapCode;
+package com.Collection.QuestionInterview;
 
 import java.util.HashMap;
 

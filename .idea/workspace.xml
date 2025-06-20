@@ -5,27 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/QuestionInterview/Union.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/BST/BSTWithCharacterDataNonRecursive.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/BST/BSTWithCharacterDataRecursive.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/BST/CharBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/BST/IntBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/LinkedList/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/LinkedList/DoublyLinkedListOp.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/LinkedList/SinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/LinkedList/SinglyLinkedListUsingC.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Queue/DEQueueUsingArray.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Queue/DEQueueUsingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Queue/DEQueueUsingDoublyLinkedList.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Queue/DEQueueUsingDoublyLinkedListO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Stack/InfixPostfixConversion.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Stack/InfixToPostfixConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Stack/StackUseJavaImp.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/DSAPracticalSage/Stack/StackUsingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/QuestionInterview/FindItineraryFromTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/QuestionInterview/LargestSubarrayWith0Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/QuestionInterview/SubArraySumEqualTo_K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/HashMapOperationsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/map/LinkedHashMap/LinkedHashMapOperationsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collection/map/TreeMap/TreeMapOperationsExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/set/QuestionInterview/CountDistrictElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/QuestionInterview/CountDistrictElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/R_01_Roted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/R_01_Roted_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/CheckValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/QuestionInterview/CheckValidAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/MajorityElementFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/QuestionInterview/MajorityElementFind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,6 +262,7 @@
     "Application.FindAndRemoveNthNode.executor": "Run",
     "Application.FindDifferenceBetweenTwoNumber.executor": "Run",
     "Application.FindEveninArray.executor": "Run",
+    "Application.FindItineraryFromTickets.executor": "Run",
     "Application.FindMaxMinOneFunc.executor": "Run",
     "Application.FindNumberofOccurence.executor": "Run",
     "Application.FindSecondBiggest.executor": "Run",
@@ -322,6 +311,7 @@
     "Application.KthLargestElementInStream.executor": "Run",
     "Application.Kth_Level.executor": "Run",
     "Application.LargestStringByLength.executor": "Run",
+    "Application.LargestSubarrayWith0Sum.executor": "Run",
     "Application.Largest_Number.executor": "Run",
     "Application.LazySingletonExample.executor": "Run",
     "Application.Linear_Search.executor": "Run",
@@ -759,6 +749,7 @@
     "Application.SturctureCode (1).executor": "Run",
     "Application.SturctureCode (2).executor": "Run",
     "Application.SturctureCode.executor": "Run",
+    "Application.SubArraySumEqualTo_K.executor": "Run",
     "Application.SubtreeOfAnotherTree.executor": "Run",
     "Application.SudokuFind.executor": "Run",
     "Application.SumOfCube.executor": "Run",
@@ -975,7 +966,7 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Union">
+  <component name="RunManager" selected="Application.SubArraySumEqualTo_K">
     <configuration name="DEQueueUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.Queue.DEQueueUsingArray" />
       <module name="All Java Program" />
@@ -989,12 +980,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DEQueueUsingDoublyLinkedListO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.Queue.DEQueueUsingDoublyLinkedListO" />
+    <configuration name="FindItineraryFromTickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.QuestionInterview.FindItineraryFromTickets" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.Queue.*" />
+          <option name="PATTERN" value="com.Collection.QuestionInterview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1002,12 +993,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InfixToPostfixConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.InfixToPostfixConversion" />
+    <configuration name="LargestSubarrayWith0Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.QuestionInterview.LargestSubarrayWith0Sum" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.*" />
+          <option name="PATTERN" value="com.Collection.QuestionInterview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1015,12 +1006,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SinglyLinkedList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.SinglyLinkedList" />
+    <configuration name="SubArraySumEqualTo_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Collection.QuestionInterview.SubArraySumEqualTo_K" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.*" />
+          <option name="PATTERN" value="com.Collection.QuestionInterview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1043,11 +1034,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubArraySumEqualTo_K" />
+        <item itemvalue="Application.LargestSubarrayWith0Sum" />
+        <item itemvalue="Application.FindItineraryFromTickets" />
         <item itemvalue="Application.Union" />
         <item itemvalue="Application.DEQueueUsingArray" />
-        <item itemvalue="Application.DEQueueUsingDoublyLinkedListO" />
-        <item itemvalue="Application.InfixToPostfixConversion" />
-        <item itemvalue="Application.SinglyLinkedList (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -1372,11 +1363,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/Collection/map/HashMapCode/FinalHashMap.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/Java/Polymorphism_interface/CovariantReturnType.java</url>

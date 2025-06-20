@@ -1,7 +1,6 @@
-package com.Collection.map.HashMapCode;
+package com.Collection.QuestionInterview;
 
 import java.util.HashMap;
-import java.util.Set;
 
 public class MajorityElementFind {
     /**
