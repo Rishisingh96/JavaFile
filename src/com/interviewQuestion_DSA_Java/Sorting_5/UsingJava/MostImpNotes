@@ -1,0 +1,64 @@
+✅ Best 8 Sorting Algorithms (With Use Case + Time + Space)
+#	Sorting Algorithm	Time Complexity (Best / Avg / Worst)	Space	Stable	Use Case
+1	Bubble Sort	O(n) / O(n²) / O(n²)	O(1)	✅ Yes	Basic learning, almost never used in real apps
+2	Selection Sort	O(n²) / O(n²) / O(n²)	O(1)	❌ No	Simple logic, less used
+3	Insertion Sort	O(n) / O(n²) / O(n²)	O(1)	✅ Yes	Works well for small arrays or nearly sorted data
+4	Merge Sort	O(n log n) / O(n log n) / O(n log n)	O(n)	✅ Yes	Best for linked lists or external sorting
+5	Quick Sort	O(n log n) / O(n log n) / O(n²)	O(log n)	❌ No	Best for arrays, widely used in libraries (e.g., C’s qsort())
+6	Heap Sort	O(n log n) / O(n log n) / O(n log n)	O(1)	❌ No	Great when memory is limited
+7	Counting Sort	O(n + k)	O(k)	✅ Yes	For small range integers (0 to k), very fast
+8	Radix Sort	O(nk)	O(n + k)	✅ Yes	For large integers or strings (used in phone numbers, etc.)
+
+🧠 Which One to Use?
+Scenario	Recommended Sorting
+Small arrays / educational	Bubble / Selection / Insertion
+Fastest guaranteed performance	Merge Sort
+Memory efficient	Heap Sort
+Real-world general sorting	Quick Sort
+Sorting with limited range values	Counting / Radix
+External file sorting	Merge Sort
+Stable & non-comparison based	Counting, Radix
+
+🔥 Quick One-Liner Summary:
+🔁 Bubble Sort – slowest but simplest
+
+🧲 Selection Sort – selects min/max each round
+
+📌 Insertion Sort – like sorting playing cards
+
+🧬 Merge Sort – divide and conquer (always O(n log n))
+
+⚡ Quick Sort – fastest in practice (pivot-based)
+
+🏔️ Heap Sort – great when no extra memory allowed
+
+📊 Counting Sort – O(n) when range is small
+
+🧮 Radix Sort – best for integers, strings by digit/char
+
+✅ Practice Order (Interview Preparation):
+Insertion Sort
+
+Merge Sort
+
+Quick Sort
+
+Heap Sort
+
+Counting Sort
+
+Radix Sort
+
+Bubble Sort
+
+Selection Sort
+
+🔰 Bonus Tip:
+Use Arrays.sort() in Java → internally uses:
+
+TimSort (Hybrid of Merge + Insertion)
+
+Fast and stable.
+
+Bhai agar tu chahe to mai 8 ke 8 ka C + Java version LeetCode-style code with comments bhi ready kar deta hoon. Bol de 💪
+Ya agar tu chaahe toh ek PDF Sorting Notes bhi bana ke de sakta hoon 📘✨

@@ -1,7 +1,5 @@
 package com.interviewQuestion_DSA_Java.Searching_4;
 
-import java.util.Arrays;
-
 public class SearchTechniques {
 
     // Function to display the array elements

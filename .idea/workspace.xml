@@ -5,15 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/QuestionInterview/FindItineraryFromTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/QuestionInterview/LargestSubarrayWith0Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/QuestionInterview/SubArraySumEqualTo_K.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/HashMapOperationsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/map/LinkedHashMap/LinkedHashMapOperationsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Collection/map/TreeMap/TreeMapOperationsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchingUsingJava/BinarySearchOptimized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchingUsingJava/ExponentialSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchingUsingJava/InterpolationSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchingUsingJava/JumpSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchingUsingJava/Linear_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/UsingC/BinarySearch.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/UsingC/LinearSearch.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingC/BubbalSort.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingC/HeapSort.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingC/MergeSort.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingC/QuickSort.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/MostImpNotes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/OptimizedBubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/CheckValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/QuestionInterview/CheckValidAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Collection/map/HashMapCode/MajorityElementFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Collection/QuestionInterview/MajorityElementFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/BinarySearch/BinarySearchAcce_O.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/BinarySearch/BinarySearchDecc_O.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/BinarySearch/Linear_Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/Binary_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchingUsingJava/Binary_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/Linear_Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/Linear_Search_indexF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchTechniques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchTechniques.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,10 +170,12 @@
     "Application.Autoboxing_Unboxing.executor": "Run",
     "Application.BillPughSingletonTest.executor": "Run",
     "Application.BinarySearch.executor": "Debug",
+    "Application.BinarySearchOptimized.executor": "Run",
     "Application.Binary_Left_Right_shift.executor": "Run",
     "Application.Binary_Search.executor": "Run",
     "Application.Bitwise_Operator.executor": "Run",
     "Application.Blocked_4.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
     "Application.BuildTreeAllOperation.executor": "Run",
     "Application.BuildTreePreorder.executor": "Run",
     "Application.Build_BST (1).executor": "Run",
@@ -242,6 +264,7 @@
     "Application.ExceptionHandling.executor": "Run",
     "Application.Exception_Handling.executor": "Run",
     "Application.ExplicitTest.executor": "Run",
+    "Application.ExponentialSearch.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Fahrenheit.executor": "Run",
     "Application.FibonacciSeries.executor": "Debug",
@@ -277,6 +300,7 @@
     "Application.HashMapImplementation.executor": "Run",
     "Application.HashMap_Operations.executor": "Run",
     "Application.HashSetOperation.executor": "Run",
+    "Application.HeapSort.executor": "Run",
     "Application.HeapSortAlgo.executor": "Run",
     "Application.Height_of_the_tree.executor": "Run",
     "Application.Hello.executor": "Run",
@@ -289,12 +313,14 @@
     "Application.InhancedSwitch.executor": "Run",
     "Application.Input_Way.executor": "Run",
     "Application.InsertData.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
     "Application.InstanceBlock.executor": "Run",
     "Application.InstanceOfExample.executor": "Run",
     "Application.IntegerTest.executor": "Run",
     "Application.InterThreadCommunication.executor": "Run",
     "Application.Interleave2HalvesOfaQueue.executor": "Run",
     "Application.Intermediate_Terminal_Operations.executor": "Run",
+    "Application.InterpolationSearch.executor": "Run",
     "Application.Interview_Question.executor": "Run",
     "Application.Introduction.executor": "Run",
     "Application.IteratorTest.executor": "Run",
@@ -306,6 +332,7 @@
     "Application.JavaPrintSimultaneously.executor": "Run",
     "Application.JoinMethod.executor": "Run",
     "Application.JsonValue_Day28.executor": "Run",
+    "Application.JumpSearch.executor": "Run",
     "Application.KthAncestorOfNode.executor": "Run",
     "Application.KthAncestorOfnode.executor": "Run",
     "Application.KthLargestElementInStream.executor": "Run",
@@ -315,6 +342,7 @@
     "Application.Largest_Number.executor": "Run",
     "Application.LazySingletonExample.executor": "Run",
     "Application.Linear_Search.executor": "Run",
+    "Application.Linear_Search_indexF.executor": "Run",
     "Application.LinkedHashSetConversionExample.executor": "Run",
     "Application.LinkedHashSetOperation.executor": "Run",
     "Application.Linked_List.executor": "Run",
@@ -641,6 +669,7 @@
     "Application.R_85_finallyBlock.executor": "Run",
     "Application.R_85_finallyQ1.executor": "Run",
     "Application.R_96_DateandTime.executor": "Run",
+    "Application.RadixSort.executor": "Run",
     "Application.ReadWrite_FileInputStream.executor": "Run",
     "Application.Read_File.executor": "Run",
     "Application.Read_File_FileInputStream.executor": "Run",
@@ -683,6 +712,7 @@
     "Application.SearchIterative.executor": "Run",
     "Application.SearchTechniques.executor": "Run",
     "Application.SecondMaxusingfunction.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
     "Application.SeparatedByNextComma.executor": "Run",
     "Application.SerializeArray.executor": "Run",
     "Application.SerializeEmployee.executor": "Run",
@@ -952,11 +982,11 @@
       <recent name="E:\JavaFile\All Java Program\src\com\Java\Project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\JavaFile all\JavaFile\src\com\interviewQuestion_DSA_Java\Sorting_5\UsingC" />
       <recent name="G:\JavaFile all\JavaFile\src\com\interviewQuestion_DSA_Java\DSAPracticalSage\Stack" />
       <recent name="G:\JavaFile all\JavaFile\src\com\interviewQuestion_DSA_Java\DSAPracticalSage\LinkedList" />
       <recent name="G:\JavaFile all\JavaFile\src\com\Collection\List\ArrayList\Synchronization" />
       <recent name="G:\JavaFile all\JavaFile\src\com\Collection\map" />
-      <recent name="G:\JavaFile all\JavaFile\src\com\interviewQuestion_DSA_Java\Tree_16\Binay_Tree" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.Java.DurgeshSir100DayCode" />
@@ -966,13 +996,13 @@
       <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubArraySumEqualTo_K">
-    <configuration name="DEQueueUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.Queue.DEQueueUsingArray" />
+  <component name="RunManager" selected="Application.JumpSearch">
+    <configuration name="BinarySearchOptimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.SearchingUsingJava.BinarySearchOptimized" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.DSAPracticalSage.Queue.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Searching_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -980,12 +1010,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindItineraryFromTickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.QuestionInterview.FindItineraryFromTickets" />
+    <configuration name="ExponentialSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.SearchingUsingJava.ExponentialSearch" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.QuestionInterview.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Searching_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -993,12 +1023,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestSubarrayWith0Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.QuestionInterview.LargestSubarrayWith0Sum" />
+    <configuration name="InterpolationSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.SearchingUsingJava.InterpolationSearch" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.QuestionInterview.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Searching_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1006,12 +1036,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubArraySumEqualTo_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.QuestionInterview.SubArraySumEqualTo_K" />
+    <configuration name="JumpSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.SearchingUsingJava.JumpSearch" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.QuestionInterview.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Searching_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1019,12 +1049,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Union" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Collection.QuestionInterview.Union" />
+    <configuration name="Linear_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.SearchingUsingJava.Linear_Search" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Collection.QuestionInterview.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Searching_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1034,11 +1064,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubArraySumEqualTo_K" />
-        <item itemvalue="Application.LargestSubarrayWith0Sum" />
-        <item itemvalue="Application.FindItineraryFromTickets" />
-        <item itemvalue="Application.Union" />
-        <item itemvalue="Application.DEQueueUsingArray" />
+        <item itemvalue="Application.JumpSearch" />
+        <item itemvalue="Application.Linear_Search" />
+        <item itemvalue="Application.BinarySearchOptimized" />
+        <item itemvalue="Application.ExponentialSearch" />
+        <item itemvalue="Application.InterpolationSearch" />
       </list>
     </recent_temporary>
   </component>

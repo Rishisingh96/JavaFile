@@ -1,4 +1,4 @@
-package com.interviewQuestion_DSA_Java.Searching_4;
+package com.interviewQuestion_DSA_Java.Searching_4.SearchingUsingJava;
 
 public class Binary_Search {
     public static int binarySearch(int numbers[], int key) {
