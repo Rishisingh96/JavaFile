@@ -1,52 +1,42 @@
 #include <stdio.h>
 
-// 🖨 Function to print array elements
-void printArray(int arr[], int size) {
-    for (int i = 0; i < size; i++) {
-        printf("%d\t", arr[i]);
-    }
-    printf("\n");
-}
+void bubbleSort(int arr[], int n) {
+    for (int i = 0; i < n - 1; i++) {
+        int swapped = 0; // Optimization: track if any swap happened
 
-// 🔁 Optimized Bubble Sort Function
-void bubbleSort(int arr[], int size) {
-    int i, j;
-    int swapped;
-
-    // 🌀 Outer loop for passes
-    for (i = 0; i < size - 1; i++) {
-        swapped = 0;
-
-        // 🔄 Inner loop for comparisons
-        for (j = 0; j < size - i - 1; j++) {
+        for (int j = 0; j < n - i - 1; j++) {
             if (arr[j] > arr[j + 1]) {
-                // 🔃 Swap
+                // Swap elements
                 int temp = arr[j];
                 arr[j] = arr[j + 1];
                 arr[j + 1] = temp;
-
                 swapped = 1;
             }
         }
 
-        // ✅ If no swaps occurred, array is already sorted
-        if (swapped == 0)
+        // If no swaps in inner loop, array is sorted
+        if (!swapped)
             break;
     }
 }
 
-// 🔰 Main function
+void printArray(int arr[], int n) {
+    for (int i = 0; i < n; i++)
+        printf("%d ", arr[i]);
+    printf("\n");
+}
+
 int main() {
-    int arr[] = {7, 11, 9, 2, 17, 4};
-    int size = sizeof(arr) / sizeof(arr[0]);
+    int arr[] = {5, 3, 8, 4, 2};
+    int n = sizeof(arr) / sizeof(arr[0]);
 
-    printf("Before Sorting:\n");
-    printArray(arr, size);
+    printf("Original array:\n");
+    printArray(arr, n);
 
-    bubbleSort(arr, size);
+    bubbleSort(arr, n);
 
-    printf("After Sorting:\n");
-    printArray(arr, size);
+    printf("Sorted array:\n");
+    printArray(arr, n);
 
     return 0;
 }

@@ -1,6 +1,5 @@
 
 #include <stdio.h>
-
 /*
 1. Linear Search
 Time Complexity:

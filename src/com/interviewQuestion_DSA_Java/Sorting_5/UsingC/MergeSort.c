@@ -1,91 +1,73 @@
 #include <stdio.h>
 
-// 🔁 Function to merge two sorted subarrays into one sorted array
-// Subarray 1: arr[left..mid]
-// Subarray 2: arr[mid+1..right]
+// 🔁 Merge two sorted subarrays into one sorted array
 void merge(int arr[], int left, int mid, int right) {
-    int i, j, k;
+    int n1 = mid - left + 1;    // Size of left subarray
+    int n2 = right - mid;       // Size of right subarray
 
-    // 🔸 Size of two subarrays
-    int n1 = mid - left + 1;
-    int n2 = right - mid;
+    int L[n1], R[n2];           // Temporary arrays
 
-    // 🔸 Temporary arrays to hold data
-    int L[n1], R[n2];
-
-    // 🔸 Copy data to temp arrays L[] and R[]
-    for (i = 0; i < n1; i++)
+    // Copy data to temp arrays L[] and R[]
+    for (int i = 0; i < n1; i++)
         L[i] = arr[left + i];
-    for (j = 0; j < n2; j++)
+
+    for (int j = 0; j < n2; j++)
         R[j] = arr[mid + 1 + j];
 
-    // 🔁 Merge the temp arrays back into arr[left..right]
-    i = 0;         // Index for L[]
-    j = 0;         // Index for R[]
-    k = left;      // Index for merged array
+    int i = 0, j = 0, k = left;
 
+    // Merge the temp arrays back into arr[]
     while (i < n1 && j < n2) {
-        if (L[i] <= R[j]) {
+        if (L[i] <= R[j])
             arr[k++] = L[i++];
-        } else {
+        else
             arr[k++] = R[j++];
-        }
     }
 
-    // 🔁 Copy remaining elements of L[], if any
-    while (i < n1) {
+    // Copy remaining elements of L[], if any
+    while (i < n1)
         arr[k++] = L[i++];
-    }
 
-    // 🔁 Copy remaining elements of R[], if any
-    while (j < n2) {
+    // Copy remaining elements of R[], if any
+    while (j < n2)
         arr[k++] = R[j++];
-    }
 }
 
-// 🔁 Recursive function to divide the array and sort it
+// 🔁 Recursive Merge Sort function
 void mergeSort(int arr[], int left, int right) {
     if (left < right) {
-        // 🔹 Find the middle point
         int mid = left + (right - left) / 2;
 
-        // 🔹 Recursively sort both halves
+        // Sort first and second halves
         mergeSort(arr, left, mid);
         mergeSort(arr, mid + 1, right);
 
-        // 🔹 Merge sorted halves
+        // Merge the sorted halves
         merge(arr, left, mid, right);
     }
 }
 
 // 🖨 Function to print the array
-void printArray(int arr[], int n) {
-    printf("Sorted Array: ");
-    for (int i = 0; i < n; i++) {
+void printArray(int arr[], int size) {
+    printf("Array: ");
+    for (int i = 0; i < size; i++)
         printf("%d ", arr[i]);
-    }
     printf("\n");
 }
 
 // 🔰 Main function
 int main() {
-    int arr[100], n;
+    int arr[] = {7, 11, 9, 2, 17, 4};  // 🎯 Input array
+    int size = sizeof(arr) / sizeof(arr[0]);
 
-    // 📥 Input array size
-    printf("Enter number of elements: ");
-    scanf("%d", &n);
+    printf("Original ");
+    printArray(arr, size);
 
-    // 📥 Input array elements
-    printf("Enter %d integers:\n", n);
-    for (int i = 0; i < n; i++) {
-        scanf("%d", &arr[i]);
-    }
+    // 🚀 Apply Merge Sort
+    mergeSort(arr, 0, size - 1);
 
-    // 🚀 Call merge sort
-    mergeSort(arr, 0, n - 1);
-
-    // 🖨 Print the sorted array
-    printArray(arr, n);
+    printf("Sorted ");
+    printArray(arr, size);
 
     return 0;
 }

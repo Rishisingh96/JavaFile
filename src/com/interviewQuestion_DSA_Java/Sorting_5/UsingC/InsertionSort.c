@@ -2,49 +2,42 @@
 
 // Function to perform insertion sort
 void insertionSort(int arr[], int n) {
-    for (int i = 1; i < n; i++) {
-        int key = arr[i];   // Element to insert
-        int j = i - 1;
+    int i, key, j;
 
-        // Shift elements greater than key to one position ahead
+    for (i = 1; i < n; i++) {
+        key = arr[i];      // Element to be inserted
+        j = i - 1;
+
+        // Shift elements greater than key to the right
         while (j >= 0 && arr[j] > key) {
             arr[j + 1] = arr[j];
             j--;
         }
 
+        // Insert key at the correct position
         arr[j + 1] = key;
     }
 }
 
-// Function to print array
+// Function to print the array
 void printArray(int arr[], int n) {
-    printf("Sorted Array: ");
     for (int i = 0; i < n; i++)
         printf("%d ", arr[i]);
     printf("\n");
 }
 
-// Main function (with input)
+// Main function
 int main() {
-    int n;
-    printf("Enter number of elements: ");
-    scanf("%d", &n);
+    int arr[] = {5, 3, 8, 6, 2};
+    int n = sizeof(arr) / sizeof(arr[0]);
 
-    int arr[n];  // Variable Length Array (VLA)
-
-    printf("Enter %d integers:\n", n);
-    for (int i = 0; i < n; i++)
-        scanf("%d", &arr[i]);
+    printf("Original array:\n");
+    printArray(arr, n);
 
     insertionSort(arr, n);
+
+    printf("Sorted array:\n");
     printArray(arr, n);
 
     return 0;
 }
-
-/*
-Enter number of elements: 6
-Enter 6 integers:
-9 4 5 2 8 1
-Sorted Array: 1 2 4 5 8 9
-*/
