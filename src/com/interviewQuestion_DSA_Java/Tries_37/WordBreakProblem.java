@@ -2,33 +2,32 @@ package com.interviewQuestion_DSA_Java.Tries_37;
 
 public class WordBreakProblem {
     static class TrieNode {
-        InsertInTrie.TrieNode[] children;
-        boolean isEndOfWord;
+        TrieNode[] children = new TrieNode[26];
+        boolean isEndOfWord = false;
 
         TrieNode() {
-            children = new InsertInTrie.TrieNode[26]; // All initialized to null by default
-            isEndOfWord = false;
+            // No need to initialize children manually to null; it's default for arrays in Java
         }
     }
 
-    static InsertInTrie.TrieNode root = new InsertInTrie.TrieNode();
+    static TrieNode root = new TrieNode();
 
-    // Inserts a word into the trie
+    // Insert a word into Trie
     public static void insert(String word) {
-        InsertInTrie.TrieNode node = root;
+        TrieNode node = root;
         for (char ch : word.toCharArray()) {
             int idx = ch - 'a';
             if (node.children[idx] == null) {
-                node.children[idx] = new InsertInTrie.TrieNode();
+                node.children[idx] = new TrieNode();
             }
             node = node.children[idx];
         }
         node.isEndOfWord = true;
     }
 
-    // Searches for a word in the trie
+    // Search if a word exists in the Trie
     public static boolean search(String word) {
-        InsertInTrie.TrieNode node = root;
+        TrieNode node = root;
         for (char ch : word.toCharArray()) {
             int idx = ch - 'a';
             if (node.children[idx] == null) return false;
@@ -37,20 +36,23 @@ public class WordBreakProblem {
         return node.isEndOfWord;
     }
 
-    public static boolean wordBreak(String key){
-        if(key.length() == 0){
-            return true;
-        }
-        for(int i=0; i<=key.length(); i++){
-            if(search(key.substring(0, i)) && wordBreak(key.substring(i))){
+    // Word Break Problem using Trie and Recursion
+    public static boolean wordBreak(String key) {
+        if (key.length() == 0) return true;
+
+        for (int i = 1; i <= key.length(); i++) {
+            String prefix = key.substring(0, i);
+            String suffix = key.substring(i);
+            if (search(prefix) && wordBreak(suffix)) {
                 return true;
             }
         }
         return false;
     }
-    // Checks if any word in the trie starts with the given prefix
+
+    // Optional: Check if any word starts with a prefix
     public static boolean startsWith(String prefix) {
-        InsertInTrie.TrieNode node = root;
+        TrieNode node = root;
         for (char ch : prefix.toCharArray()) {
             int idx = ch - 'a';
             if (node.children[idx] == null) return false;
@@ -59,22 +61,18 @@ public class WordBreakProblem {
         return true;
     }
 
-
     public static void main(String[] args) {
-        String[] words = {"the", "a", "there", "their", "any", "thee"};
-        for (String word : words) {
+        String[] dictionary = {"i", "like", "sam", "samsung", "mobile", "ice"};
+        for (String word : dictionary) {
             insert(word);
-            System.out.println("Inserted: " + word);
         }
-        System.out.println("-------------------------------------");
-        // Sample test
-        System.out.println("Search 'the': " + search("the"));       // true
-        System.out.println("Search 'these': " + search("these"));   // false
-        System.out.println("Prefix 'th': " + startsWith("th"));     // true
 
+        String key1 = "ilikesam";
+        String key2 = "ilikeicecream";
+        String key3 = "ilikesame"; // false - 'same' not in dictionary
 
-        System.out.println("=============================");
-        String key = "Threre";
-        System.out.println(wordBreak(key));
+        System.out.println("Can break 'ilikesam'? " + wordBreak(key1));         // true
+        System.out.println("Can break 'ilikeicecream'? " + wordBreak(key2));   // false
+        System.out.println("Can break 'ilikesame'? " + wordBreak(key3));       // false
     }
 }
