@@ -33,11 +33,15 @@ public class BFS_Traversal {
         graph[3].add(new Edge(3,4));
         graph[3].add(new Edge(3,5));
 
-        graph[3].add(new Edge(4,2));
-        graph[3].add(new Edge(4,4));
-        graph[3].add(new Edge(4,6));
+        graph[4].add(new Edge(4,2));
+        graph[4].add(new Edge(4,3));
+        graph[4].add(new Edge(4,5));
 
-        graph[3].add(new Edge(6,5));
+        graph[5].add(new Edge(5,3));
+        graph[5].add(new Edge(5,4));
+        graph[5].add(new Edge(5,6));
+
+        graph[5].add(new Edge(6,5));
     }
 
     public static void bfs(ArrayList<Edge> graph[] , int V){

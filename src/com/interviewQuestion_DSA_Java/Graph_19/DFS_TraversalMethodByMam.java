@@ -38,13 +38,13 @@ public class DFS_TraversalMethodByMam {
 
         graph[4].add(new Edge(4,2));
         graph[4].add(new Edge(4,3));
-        graph[4].add(new Edge(4,6));
+        graph[4].add(new Edge(4,5));
 
         graph[5].add(new Edge(5,3));
+        graph[5].add(new Edge(5,4));
         graph[5].add(new Edge(5,6));
 
-        graph[6].add(new Edge(6,4));
-        graph[6].add(new Edge(6,5));
+        graph[5].add(new Edge(6,5));
     }
 
     // BFS Traversal
@@ -84,9 +84,9 @@ public class DFS_TraversalMethodByMam {
         /*
 
      1 —— 3
-   /      \
-  0        5 —— 6
-   \      /
+   /        \
+  0          5 —— 6
+   \       /
      2—— 4
 
 
