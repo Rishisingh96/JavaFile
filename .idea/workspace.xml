@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tries_37/CountUniqueSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tries_37/PrefixProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tries_37/StartsWithProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/BFS_Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/BFS_TraversalMethod2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/CreateGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/CreateGraphWithWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/DFS_Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/DFS_TraversalMethodByMam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tries_37/LongestWordWithAllPrefixes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tries_37/WordBreakProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Tries_37/WordBreakProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +148,8 @@
     "Application.Array_or_ObjectInputByuser.executor": "Run",
     "Application.Array_update.executor": "Run",
     "Application.Autoboxing_Unboxing.executor": "Run",
+    "Application.BFS_Traversal.executor": "Run",
+    "Application.BFS_TraversalMethod2.executor": "Run",
     "Application.BillPughSingletonTest.executor": "Run",
     "Application.BinarySearch.executor": "Debug",
     "Application.BinarySearchOptimized.executor": "Run",
@@ -199,8 +204,12 @@
     "Application.Count_nodes.executor": "Run",
     "Application.CovariantReturnType.executor": "Run",
     "Application.CreateFile.executor": "Run",
+    "Application.CreateGraph.executor": "Run",
+    "Application.CreateGraphWithWeight.executor": "Run",
     "Application.DEQueueUsingArray.executor": "Run",
     "Application.DEQueueUsingDoublyLinkedListO.executor": "Run",
+    "Application.DFS_Traversal.executor": "Run",
+    "Application.DFS_TraversalMethodByMam.executor": "Run",
     "Application.DaemonThread.executor": "Run",
     "Application.DataInputStreamEx.executor": "Run",
     "Application.DataType.executor": "Run",
@@ -341,6 +350,7 @@
     "Application.LoginProject (4).executor": "Run",
     "Application.LoginProject.executor": "Run",
     "Application.LongTest.executor": "Run",
+    "Application.LongestWordWithAllPrefixes.executor": "Run",
     "Application.LoopCycle.executor": "Run",
     "Application.LowestCommonAncestor.executor": "Run",
     "Application.Lucas_Series.executor": "Run",
@@ -975,20 +985,20 @@
       <recent name="G:\JavaFile all\JavaFile\src\com\Collection\map" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.interviewQuestion_DSA_Java.Graph_19" />
       <recent name="com.Java.DurgeshSir100DayCode" />
       <recent name="com.interviewQuestion_DSA_Java.Stack_12" />
       <recent name="com.interviewQuestion_DSA_Java.Searching_4" />
       <recent name="com.Java.Universal.Week6" />
-      <recent name="com.Java.Exception_and_File_Handling.Universal.FileHandling" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountUniqueSubstring">
-    <configuration name="CountUniqueSubstring (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Tries_37.CountUniqueSubstring" />
+  <component name="RunManager" selected="Application.DFS_TraversalMethodByMam">
+    <configuration name="BFS_Traversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Graph_19.BFS_Traversal" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Tries_37.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Graph_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -996,12 +1006,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountUniqueSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Tries_37.CountUniqueSubstring" />
+    <configuration name="BFS_TraversalMethod2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Graph_19.BFS_TraversalMethod2" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Tries_37.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Graph_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1009,12 +1019,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StartsWithProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Tries_37.StartsWithProblem" />
+    <configuration name="CreateGraphWithWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Graph_19.CreateGraphWithWeight" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Tries_37.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Graph_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1022,12 +1032,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordBreakProblem (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Tries_37.WordBreakProblem" />
+    <configuration name="DFS_Traversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Graph_19.DFS_Traversal" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Tries_37.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Graph_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1035,12 +1045,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordBreakProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Tries_37.WordBreakProblem" />
+    <configuration name="DFS_TraversalMethodByMam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Graph_19.DFS_TraversalMethodByMam" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Tries_37.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Graph_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1050,11 +1060,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountUniqueSubstring" />
-        <item itemvalue="Application.CountUniqueSubstring (1)" />
-        <item itemvalue="Application.WordBreakProblem (1)" />
-        <item itemvalue="Application.WordBreakProblem" />
-        <item itemvalue="Application.StartsWithProblem" />
+        <item itemvalue="Application.DFS_TraversalMethodByMam" />
+        <item itemvalue="Application.DFS_Traversal" />
+        <item itemvalue="Application.BFS_TraversalMethod2" />
+        <item itemvalue="Application.BFS_Traversal" />
+        <item itemvalue="Application.CreateGraphWithWeight" />
       </list>
     </recent_temporary>
   </component>
