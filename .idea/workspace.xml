@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/CycleDetectionInDirectedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/CycleDetectionInUnDirectedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/TopologicalSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/Dijkstras_Algorithm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -228,6 +226,8 @@
     "Application.DiameterOfTree.executor": "Run",
     "Application.DigitCount.executor": "Run",
     "Application.DigonalSum.executor": "Run",
+    "Application.Dijkstras_Algorithm (1).executor": "Run",
+    "Application.Dijkstras_Algorithm.executor": "Run",
     "Application.DisplayValueInnerandOuter.executor": "Run",
     "Application.Divide.executor": "Run",
     "Application.Dog3.executor": "Run",
@@ -996,7 +996,7 @@
       <recent name="com.Java.Universal.Week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CycleDetectionInDirectedGraph">
+  <component name="RunManager" selected="Application.Dijkstras_Algorithm">
     <configuration name="CycleDetectionInDirectedGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Graph_19.CycleDetectionInDirectedGraph" />
       <module name="All Java Program" />
@@ -1023,8 +1023,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DFS_TraversalMethodByMam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Graph_19.DFS_TraversalMethodByMam" />
+    <configuration name="Dijkstras_Algorithm (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Graph_19.Dijkstras_Algorithm" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -1036,8 +1036,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintAllTargetPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Graph_19.PrintAllTargetPath" />
+    <configuration name="Dijkstras_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Graph_19.Dijkstras_Algorithm" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -1064,11 +1064,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dijkstras_Algorithm" />
+        <item itemvalue="Application.Dijkstras_Algorithm (1)" />
+        <item itemvalue="Application.TopologicalSorting" />
         <item itemvalue="Application.CycleDetectionInDirectedGraph" />
         <item itemvalue="Application.CycleDetectionInUnDirectedGraph" />
-        <item itemvalue="Application.TopologicalSorting" />
-        <item itemvalue="Application.PrintAllTargetPath (1)" />
-        <item itemvalue="Application.DFS_TraversalMethodByMam" />
       </list>
     </recent_temporary>
   </component>
