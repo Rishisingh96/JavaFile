@@ -1,10 +1,10 @@
-package com.interviewQuestion_DSA_Java.Graph_19;
+package com.interviewQuestion_DSA_Java.Graph_38;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class BFS_TraversalMethod2 {
+public class BFS_Traversal {
     static class Edge {
         int src; //source (3
         int dest; // destination(5 = (3,5)
@@ -33,17 +33,21 @@ public class BFS_TraversalMethod2 {
         graph[3].add(new Edge(3,4));
         graph[3].add(new Edge(3,5));
 
-        graph[3].add(new Edge(4,2));
-        graph[3].add(new Edge(4,4));
-        graph[3].add(new Edge(4,6));
+        graph[4].add(new Edge(4,2));
+        graph[4].add(new Edge(4,3));
+        graph[4].add(new Edge(4,5));
 
-        graph[3].add(new Edge(6,5));
+        graph[5].add(new Edge(5,3));
+        graph[5].add(new Edge(5,4));
+        graph[5].add(new Edge(5,6));
+
+        graph[5].add(new Edge(6,5));
     }
 
-    public static void bfs(ArrayList<Edge>[] graph, int V, boolean[] vis,int start){
+    public static void bfs(ArrayList<Edge> graph[] , int V){
         Queue<Integer> q = new LinkedList<>();
-//        boolean vis[] = new boolean[V];
-        q.add(start);
+        boolean vis[] = new boolean[V];
+        q.add(0);
 
         while (!q.isEmpty()){
             int curr = q.remove();
@@ -66,13 +70,7 @@ public class BFS_TraversalMethod2 {
     */
         ArrayList<Edge> graph[] = new ArrayList[v];
         createGraph(graph);
-
-        boolean vis[] = new boolean[v];
-       for (int i=0; i<v; i++){
-           if(vis[i] == false){
-               bfs(graph, v, vis, i);
-           }
-       }
+        bfs(graph, v);
         System.out.println();
     }
 }
