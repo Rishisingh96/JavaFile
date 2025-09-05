@@ -45,7 +45,7 @@ public class Spirral_Matrix {
                             {5,6,7,8},
                             {9,10,11,12},
                             {13,14,15,16}};
-       // printSpiral(matrix);
-        // System.out.print(printSpiral(matrix));
+        printSpiral(matrix);
+//         System.out.print(printSpiral(matrix));
     }
 }

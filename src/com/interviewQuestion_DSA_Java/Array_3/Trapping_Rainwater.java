@@ -33,6 +33,6 @@ public class Trapping_Rainwater {
 
     public static void main(String arg[]){
             int height[] ={4,2,0,6,3,2,5};
-            System.out.println(trappedRainwater(height));
+            System.out.println("Trapped Rainwater is : "+trappedRainwater(height));
     }
 }

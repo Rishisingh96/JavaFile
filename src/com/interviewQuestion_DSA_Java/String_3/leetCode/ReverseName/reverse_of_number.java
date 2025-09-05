@@ -16,7 +16,8 @@ public class reverse_of_number {
         //input from user
         System.out.print("Enter a number : ");
         int number = sc.nextInt();
-        System.out.print("Reverse of " + number + " is ");
+//        String number = sc.nextLine()
+        System.out.print(STR."Reverse of \{number} is ");
         int reverse = 0;
         String s = "";
         while (number != 0)

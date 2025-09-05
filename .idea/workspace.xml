@@ -5,22 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/Java_8_17_21/Java5/GenericExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_38/BellmanFordAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_38/KosarajusAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_38/PrimsAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/DiagonalSumOptimized.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/BFS_Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_38/BFS_Traversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/BFS_TraversalMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_38/BFS_TraversalMethod2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/CreateGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_38/CreateGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/CreateGraphWithWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_38/CreateGraphWithWeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/CycleDetectionInDirectedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_38/CycleDetectionInDirectedGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/CycleDetectionInUnDirectedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_38/CycleDetectionInUnDirectedGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/DFS_Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_38/DFS_Traversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/DFS_TraversalMethodByMam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_38/DFS_TraversalMethodByMam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/Dijkstras_Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_38/Dijkstras_Algorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/PrintAllTargetPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_38/PrintAllTargetPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_19/TopologicalSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Graph_38/TopologicalSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Stock_sell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Stock_sell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Trapping_Rainwater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Trapping_Rainwater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/DigonalSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/Spirral_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/Spirral_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/diagonal_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/diagonal_sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/valueSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/array2D/ValueSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/reverse_of_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/String_3/leetCode/ReverseName/reverse_of_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,6 +232,7 @@
     "Application.DeserializePerson.executor": "Run",
     "Application.DetectLoopCycle.executor": "Run",
     "Application.Developed.executor": "Run",
+    "Application.DiagonalSumOptimized.executor": "Run",
     "Application.DiameterOfTree.executor": "Run",
     "Application.DigitCount.executor": "Run",
     "Application.DigonalSum.executor": "Run",
@@ -385,6 +380,7 @@
     "Application.MaxNumber.executor": "Run",
     "Application.Max_Subarray2.executor": "Run",
     "Application.Max_Subarray3.executor": "Run",
+    "Application.Max_Subarray4.executor": "Run",
     "Application.Max_number.executor": "Run",
     "Application.MemberInnerClass.executor": "Run",
     "Application.MenuBarExample (1).executor": "Run",
@@ -469,6 +465,7 @@
     "Application.Overloding_AreaorCircle.executor": "Run",
     "Application.P_7_first_occurrence.executor": "Run",
     "Application.P_8_last_occurrence.executor": "Run",
+    "Application.Pairs.executor": "Run",
     "Application.Palendrom.executor": "Run",
     "Application.Palendrom2.executor": "Run",
     "Application.PassingClassObjectParameter.executor": "Run",
@@ -754,6 +751,7 @@
     "Application.Sorted_Array_To_BalancedBST.executor": "Run",
     "Application.SortingTechniques.executor": "Run",
     "Application.SpaceCount.executor": "Run",
+    "Application.Spirral_Matrix.executor": "Run",
     "Application.SquareNumber.executor": "Run",
     "Application.Square_Cube.executor": "Run",
     "Application.StackAndQueueUsingDeque.executor": "Run",
@@ -770,6 +768,7 @@
     "Application.StaticSynchronize (2).executor": "Run",
     "Application.StaticSynchronize.executor": "Run",
     "Application.StockSpanProblem.executor": "Run",
+    "Application.Stock_sell.executor": "Run",
     "Application.Store_Element_in_Set.executor": "Run",
     "Application.StreamApi.executor": "Run",
     "Application.StreamObject.executor": "Run",
@@ -860,6 +859,7 @@
     "Application.UsingLinkedList (3).executor": "Run",
     "Application.UsingLinkedList.executor": "Run",
     "Application.Validate_BST.executor": "Run",
+    "Application.ValueSearch.executor": "Run",
     "Application.VarargsExample.executor": "Run",
     "Application.VarargsOverloadExample.executor": "Run",
     "Application.VectorTest1.executor": "Run",
@@ -946,10 +946,12 @@
     "Application.split_Method.executor": "Run",
     "Application.square.executor": "Run",
     "Application.square_cube.executor": "Run",
+    "Application.staircseSearch.executor": "Run",
     "Application.starPattern.executor": "Run",
     "Application.startPattern2.executor": "Run",
     "Application.staticNestedClass.executor": "Run",
     "Application.suString.executor": "Run",
+    "Application.subArray.executor": "Run",
     "Application.sum_of_Digit.executor": "Run",
     "Application.super_method_class.executor": "Run",
     "Application.swap2number.executor": "Run",
@@ -1014,13 +1016,13 @@
       <recent name="com.Java.Universal.Week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericExample">
-    <configuration name="Dijkstras_Algorithm (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Graph_38.Dijkstras_Algorithm" />
+  <component name="RunManager" selected="Application.staircseSearch">
+    <configuration name="DiagonalSumOptimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.array2D.DiagonalSumOptimized" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Graph_38.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.array2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1028,12 +1030,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dijkstras_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Graph_38.Dijkstras_Algorithm" />
+    <configuration name="DigonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.array2D.DigonalSum" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Graph_38.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.array2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1041,12 +1043,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dijkstras_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Graph_38.Dijkstras_Algorithm" />
+    <configuration name="Spirral_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.array2D.Spirral_Matrix" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Graph_38.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.array2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1054,12 +1056,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Java_8_17_21.Java5.GenericExample" />
+    <configuration name="diagonal_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.array2D.diagonal_sum" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Java_8_17_21.Java5.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.array2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1067,25 +1069,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KosarajusAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Graph_38.KosarajusAlgorithm" />
+    <configuration name="staircseSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.array2D.staircseSearch" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Graph_38.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimsAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Graph_38.PrimsAlgorithm" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Graph_38.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.array2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1095,11 +1084,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenericExample" />
-        <item itemvalue="Application.KosarajusAlgorithm" />
-        <item itemvalue="Application.PrimsAlgorithm" />
-        <item itemvalue="Application.Dijkstras_Algorithm" />
-        <item itemvalue="Application.Dijkstras_Algorithm (1)" />
+        <item itemvalue="Application.staircseSearch" />
+        <item itemvalue="Application.DiagonalSumOptimized" />
+        <item itemvalue="Application.diagonal_sum" />
+        <item itemvalue="Application.DigonalSum" />
+        <item itemvalue="Application.Spirral_Matrix" />
       </list>
     </recent_temporary>
   </component>
