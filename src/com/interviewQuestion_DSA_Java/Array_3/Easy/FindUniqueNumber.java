@@ -1,4 +1,4 @@
-package com.interviewQuestion_DSA_Java.Array_3.GFG_100_Q;
+package com.interviewQuestion_DSA_Java.Array_3.Easy;
 
 import java.util.*;
 import java.util.stream.Collectors;

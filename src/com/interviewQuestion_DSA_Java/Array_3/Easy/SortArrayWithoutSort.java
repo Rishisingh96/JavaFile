@@ -1,4 +1,4 @@
-package com.interviewQuestion_DSA_Java.Array_3.Universal;
+package com.interviewQuestion_DSA_Java.Array_3.Easy;
 
 import java.util.Arrays;
 

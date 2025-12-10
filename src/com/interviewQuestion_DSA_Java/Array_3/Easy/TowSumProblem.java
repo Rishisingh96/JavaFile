@@ -1,6 +1,6 @@
-package com.interviewQuestion_DSA_Java.Array_3.leetCode;
+package com.interviewQuestion_DSA_Java.Array_3.Easy;
 
-class leetcodeQ1{
+class TowSumProblem {
     public static void main(String args[]){
         class Solution {
             public int[] twoSum(int[] nums, int target) {

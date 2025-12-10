@@ -1,4 +1,4 @@
-package com.interviewQuestion_DSA_Java.Array_3.Basic;
+package com.interviewQuestion_DSA_Java.Array_3.Easy;
 
 public class FindMaxMinOneFunc {
     public static int[] findMaxMin(int[] arr){
