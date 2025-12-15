@@ -5,47 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java/Basic/Interview/EvenOddWithoutUsingPercentage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Project/InventoryManagementSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/MaxElementFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/MaxMinElementFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/MinElementFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/RotedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/SecondMaxElementFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/SingleNumberUniqueValueFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/StockBuyAndSell_L121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/ThirdLargestElementFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/Max_SubArrayBruteForceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/PairSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/PowOfxPower_n.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/Print_SubarrayNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Hackerrankandleetcode_P/Hackerrank/BobAndAlicProblemSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/TCSCodeVita/CountTheShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/TCSCodeVita/FaultySegment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/TCSCodeVita/FrankensteinPotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/TCSCodeVita/MagicStarsIntensity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/TCSCodeVita/MirrorMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/TCSCodeVita/ReenuCircuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/ProductOfArrayExceptSelf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Java/Basic/Interview_Datatype_Variable/Interview_Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java/Basic/Interview/Interview_Question.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Basic/Duplicate_Array_Remove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/Duplicate_Array_Remove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Basic/FindMaxMinOneFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/FindMaxMinOneFunc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Basic/Minimum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/MinimumElementFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Basic/R1_Max_number.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Basic/usingForEachMaxnumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/usingForEachMaxnumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/GFG_100_Q/FindUniqueNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/FindUniqueNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/R_01_Roted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/R_01_Roted_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Universal/FindSecondBiggest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Universal/SecondMaxusingfunction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Universal/SortArrayWithoutSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/SortArrayWithoutSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/leetCode/R_01_Roted_Array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/leetCode/leetcodeQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/TowSumProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetCode151/R_01_Roted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Hackerrankandleetcode_P/R_01_Roted_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetCode151/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Hackerrankandleetcode_P/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/Max_SubarrayKadanesAlgo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -420,6 +382,7 @@
     "Application.Max_Subarray2.executor": "Run",
     "Application.Max_Subarray3.executor": "Run",
     "Application.Max_Subarray4.executor": "Run",
+    "Application.Max_SubarrayKadanesAlgo.executor": "Run",
     "Application.Max_number.executor": "Run",
     "Application.Maximum_SubarrayNormal.executor": "Run",
     "Application.MemberInnerClass.executor": "Run",
@@ -541,6 +504,7 @@
     "Application.PrivateConstructorSingletonPattern (1).executor": "Run",
     "Application.PrivateConstructorSingletonPattern (2).executor": "Run",
     "Application.PrivateConstructorSingletonPattern.executor": "Run",
+    "Application.ProductOfArrayExceptSelf.executor": "Run",
     "Application.ProductQ10.executor": "Run",
     "Application.ProductSell (1).executor": "Run",
     "Application.ProductSell (2).executor": "Run",
@@ -1065,9 +1029,22 @@
       <recent name="com.Java.Universal.Week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Max_SubArrayBruteForceA">
+  <component name="RunManager" selected="Application.ProductOfArrayExceptSelf">
     <configuration name="Max_SubArrayBruteForceA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Medium.Max_SubArrayBruteForceA" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Max_SubarrayKadanesAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Medium.Max_SubarrayKadanesAlgo" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -1092,6 +1069,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProductOfArrayExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Medium.ProductOfArrayExceptSelf" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StockBuyAndSell_L121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Easy.StockBuyAndSell_L121" />
       <module name="All Java Program" />
@@ -1105,25 +1095,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="usingForEachMaxnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Easy.usingForEachMaxnumber" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.array2D.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Max_SubArrayBruteForceA" />
+        <item itemvalue="Application.ProductOfArrayExceptSelf" />
         <item itemvalue="Application.Print_SubarrayNormal" />
+        <item itemvalue="Application.Max_SubarrayKadanesAlgo" />
+        <item itemvalue="Application.Max_SubArrayBruteForceA" />
         <item itemvalue="Application.StockBuyAndSell_L121" />
-        <item itemvalue="Application.usingForEachMaxnumber" />
       </list>
     </recent_temporary>
   </component>
