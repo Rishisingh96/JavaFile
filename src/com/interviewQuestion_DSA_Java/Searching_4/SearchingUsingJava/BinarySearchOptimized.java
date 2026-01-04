@@ -28,12 +28,7 @@ public class BinarySearchOptimized {
         }
     }
 
-    /**
-     * 🔍 Performs binary search on a sorted array
-     * @param arr    The input sorted array
-     * @param target The value to search for
-     * @return       Index of target if found, otherwise -1
-     */
+  
     public static int binarySearch(int[] arr, int target) {
         int start = 0;
         int end = arr.length - 1;

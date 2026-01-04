@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/CheckDuplicateElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/checkArrayIsSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/MaximumConsecutiveOnesAfterFlippingZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/SlidingWindowTechMaxSumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/SubarrayWithProductLessThanK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Max_Subarray3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/Max_SubarrayKadanesAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/Duplicate_Array_Remove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/Duplicate_Array_Remove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/MaxElementFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/MaxElementFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/MinElementFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/FindMissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/MinimumElementFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/MinimumElementFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/ProductOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchingUsingJava/BinarySearchOptimized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchingUsingJava/BinarySearchOptimized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchingUsingJava/Binary_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchingUsingJava/Binary_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,6 +181,7 @@
     "Application.Camparetion.executor": "Run",
     "Application.ChatClient.executor": "Debug",
     "Application.ChatServer.executor": "Run",
+    "Application.CheckDuplicateElement.executor": "Run",
     "Application.CheckThreadSafeStringWriter.executor": "Run",
     "Application.Circle_MathClass.executor": "Run",
     "Application.Classroom.executor": "Run",
@@ -280,6 +296,7 @@
     "Application.FindEveninArray.executor": "Run",
     "Application.FindItineraryFromTickets.executor": "Run",
     "Application.FindMaxMinOneFunc.executor": "Run",
+    "Application.FindMissingNumber.executor": "Run",
     "Application.FindNumberofOccurence.executor": "Run",
     "Application.FindSecondBiggest.executor": "Run",
     "Application.FindSubset_SM.executor": "Run",
@@ -376,6 +393,7 @@
     "Application.MapExampleCollection.executor": "Run",
     "Application.Matrices3x3_Q7.executor": "Run",
     "Application.MaxAreaHistogram.executor": "Run",
+    "Application.MaxElementFind.executor": "Run",
     "Application.MaxLengthChaiOfPairs.executor": "Run",
     "Application.MaxNumber.executor": "Run",
     "Application.Max_SubArrayBruteForceA.executor": "Run",
@@ -384,6 +402,7 @@
     "Application.Max_Subarray4.executor": "Run",
     "Application.Max_SubarrayKadanesAlgo.executor": "Run",
     "Application.Max_number.executor": "Run",
+    "Application.MaximumConsecutiveOnesAfterFlippingZeroes.executor": "Run",
     "Application.Maximum_SubarrayNormal.executor": "Run",
     "Application.MemberInnerClass.executor": "Run",
     "Application.MenuBarExample (1).executor": "Run",
@@ -751,6 +770,7 @@
     "Application.SinglyLinkedList.executor": "Run",
     "Application.Size_Of_Largest_BST (1).executor": "Run",
     "Application.Size_Of_Largest_BST.executor": "Run",
+    "Application.SlidingWindowTechMaxSumSubArray.executor": "Run",
     "Application.SortArrayDescendingO.executor": "Run",
     "Application.SortArrayWithoutSort.executor": "Run",
     "Application.SortLongName2.executor": "Run",
@@ -805,6 +825,7 @@
     "Application.SturctureCode (2).executor": "Run",
     "Application.SturctureCode.executor": "Run",
     "Application.SubArraySumEqualTo_K.executor": "Run",
+    "Application.SubarrayWithProductLessThanK.executor": "Run",
     "Application.SubtreeOfAnotherTree.executor": "Run",
     "Application.SudokuFind.executor": "Run",
     "Application.SumOfCube.executor": "Run",
@@ -897,6 +918,7 @@
     "Application.charAt1.executor": "Run",
     "Application.characterRead.executor": "Run",
     "Application.character_count.executor": "Run",
+    "Application.checkArrayIsSorted.executor": "Run",
     "Application.checkPositiveNegativeusingswith.executor": "Run",
     "Application.check_Identical.executor": "Run",
     "Application.check_ThreadSafe_StringBuffer (1).executor": "Run",
@@ -989,6 +1011,7 @@
     "Notification.DoNotAsk-Vcs Notifications": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -1029,9 +1052,48 @@
       <recent name="com.Java.Universal.Week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProductOfArrayExceptSelf">
-    <configuration name="Max_SubArrayBruteForceA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Medium.Max_SubArrayBruteForceA" />
+  <component name="RunManager" selected="Application.FindMissingNumber">
+    <configuration name="CheckDuplicateElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Easy.CheckDuplicateElement" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Easy.FindMissingNumber" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxElementFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Easy.MaxElementFind" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumConsecutiveOnesAfterFlippingZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Medium.MaximumConsecutiveOnesAfterFlippingZeroes" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -1043,51 +1105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_SubarrayKadanesAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Medium.Max_SubarrayKadanesAlgo" />
+    <configuration name="checkArrayIsSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Easy.checkArrayIsSorted" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Print_SubarrayNormal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Medium.Print_SubarrayNormal" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductOfArrayExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Medium.ProductOfArrayExceptSelf" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StockBuyAndSell_L121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Easy.StockBuyAndSell_L121" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.array2D.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1097,11 +1120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProductOfArrayExceptSelf" />
-        <item itemvalue="Application.Print_SubarrayNormal" />
-        <item itemvalue="Application.Max_SubarrayKadanesAlgo" />
-        <item itemvalue="Application.Max_SubArrayBruteForceA" />
-        <item itemvalue="Application.StockBuyAndSell_L121" />
+        <item itemvalue="Application.FindMissingNumber" />
+        <item itemvalue="Application.CheckDuplicateElement" />
+        <item itemvalue="Application.checkArrayIsSorted" />
+        <item itemvalue="Application.MaxElementFind" />
+        <item itemvalue="Application.MaximumConsecutiveOnesAfterFlippingZeroes" />
       </list>
     </recent_temporary>
   </component>

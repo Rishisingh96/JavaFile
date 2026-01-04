@@ -70,3 +70,4 @@ Copy code
 index for key is: 3
 Clarification on the Comment:
 The comment Arrays.sort(numbers) in the code was meant to indicate that binary search only works on sorted arrays. However, in your example, the array is already sorted, so no explicit sorting is necessary before applying the binary search. If you had an unsorted array, you would need to sort it using Arrays.sort(numbers) before calling the binarySearch method.*/
+
