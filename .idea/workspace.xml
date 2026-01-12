@@ -5,24 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/CheckDuplicateElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/checkArrayIsSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/MaximumConsecutiveOnesAfterFlippingZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/SlidingWindowTechMaxSumSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/SubarrayWithProductLessThanK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/RotateArrayByOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/leetcodeq/FindFirstAndLastPositionElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/leetcodeq/SearchInsertInIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/leetcodeq/SqrtUsingBinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/Duplicate_Array_Remove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/Duplicate_Array_Remove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/MaxElementFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/MaxElementFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/MinElementFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/FindMissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/MinimumElementFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/MinimumElementFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/ProductOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Medium/ProductOfArrayExceptSelf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchingUsingJava/BinarySearchOptimized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchingUsingJava/BinarySearchOptimized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchingUsingJava/Binary_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/SearchingUsingJava/Binary_Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Sorting_5/UsingJava/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/RotedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/FindFibonacciSeriesNumberPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/SecondMaxElementFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/SecondMaxElementFind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -294,6 +283,8 @@
     "Application.FindAndRemoveNthNode.executor": "Run",
     "Application.FindDifferenceBetweenTwoNumber.executor": "Run",
     "Application.FindEveninArray.executor": "Run",
+    "Application.FindFibonacciSeriesNumberPosition.executor": "Run",
+    "Application.FindFirstAndLastPositionElement.executor": "Run",
     "Application.FindItineraryFromTickets.executor": "Run",
     "Application.FindMaxMinOneFunc.executor": "Run",
     "Application.FindMissingNumber.executor": "Run",
@@ -742,14 +733,17 @@
     "Application.RootToLeafPaths.executor": "Run",
     "Application.RotateArray.executor": "Debug",
     "Application.Roted2DArray.executor": "Run",
+    "Application.RotedArrayByOne.executor": "Run",
     "Application.Runnable_2.executor": "Run",
     "Application.Running_3.executor": "Run",
     "Application.School.executor": "Run",
     "Application.Scientefic_cal.executor": "Run",
     "Application.SearchBST.executor": "Run",
+    "Application.SearchInsertInIndex.executor": "Run",
     "Application.SearchIterative (1).executor": "Run",
     "Application.SearchIterative.executor": "Run",
     "Application.SearchTechniques.executor": "Run",
+    "Application.SecondMaxElementFind.executor": "Run",
     "Application.SecondMaxusingfunction.executor": "Run",
     "Application.SelectionSort.executor": "Run",
     "Application.SeparatedByNextComma.executor": "Run",
@@ -782,6 +776,7 @@
     "Application.SortingTechniques.executor": "Run",
     "Application.SpaceCount.executor": "Run",
     "Application.Spirral_Matrix.executor": "Run",
+    "Application.SqrtUsingBinarySearch.executor": "Run",
     "Application.SquareNumber.executor": "Run",
     "Application.Square_Cube.executor": "Run",
     "Application.StackAndQueueUsingDeque.executor": "Run",
@@ -1018,7 +1013,7 @@
     "ignore.preview.features.used": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/JavaFile all/JavaFile",
+    "last_opened_file_path": "F:/8_JavaFile all/JavaFile",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -1052,9 +1047,9 @@
       <recent name="com.Java.Universal.Week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindMissingNumber">
-    <configuration name="CheckDuplicateElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Easy.CheckDuplicateElement" />
+  <component name="RunManager" selected="Application.SqrtUsingBinarySearch">
+    <configuration name="FindFibonacciSeriesNumberPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Easy.FindFibonacciSeriesNumberPosition" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -1066,8 +1061,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Easy.FindMissingNumber" />
+    <configuration name="FindFirstAndLastPositionElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.leetcodeq.FindFirstAndLastPositionElement" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Searching_4.leetcodeq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotedArrayByOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Easy.RotedArrayByOne" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -1079,12 +1087,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxElementFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Easy.MaxElementFind" />
+    <configuration name="SearchInsertInIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.leetcodeq.SearchInsertInIndex" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Easy.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Searching_4.leetcodeq.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1092,25 +1100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumConsecutiveOnesAfterFlippingZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Medium.MaximumConsecutiveOnesAfterFlippingZeroes" />
+    <configuration name="SqrtUsingBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.leetcodeq.SqrtUsingBinarySearch" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="checkArrayIsSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Easy.checkArrayIsSorted" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Easy.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Searching_4.leetcodeq.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1120,11 +1115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindMissingNumber" />
-        <item itemvalue="Application.CheckDuplicateElement" />
-        <item itemvalue="Application.checkArrayIsSorted" />
-        <item itemvalue="Application.MaxElementFind" />
-        <item itemvalue="Application.MaximumConsecutiveOnesAfterFlippingZeroes" />
+        <item itemvalue="Application.SqrtUsingBinarySearch" />
+        <item itemvalue="Application.SearchInsertInIndex" />
+        <item itemvalue="Application.FindFirstAndLastPositionElement" />
+        <item itemvalue="Application.RotedArrayByOne" />
+        <item itemvalue="Application.FindFibonacciSeriesNumberPosition" />
       </list>
     </recent_temporary>
   </component>
