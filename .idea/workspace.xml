@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/RotateArrayByOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/leetcodeq/FindFirstAndLastPositionElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/leetcodeq/SearchInsertInIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/leetcodeq/SqrtUsingBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/leetcodeq/FindMinimumInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/leetcodeq/PeekIndexInMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/leetcodeq/SearchInRotatedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/RotedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/FindFibonacciSeriesNumberPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/SecondMaxElementFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Array_3/Easy/SecondMaxElementFind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,6 +284,7 @@
     "Application.FindFirstAndLastPositionElement.executor": "Run",
     "Application.FindItineraryFromTickets.executor": "Run",
     "Application.FindMaxMinOneFunc.executor": "Run",
+    "Application.FindMinimumInRotatedSortedArray.executor": "Run",
     "Application.FindMissingNumber.executor": "Run",
     "Application.FindNumberofOccurence.executor": "Run",
     "Application.FindSecondBiggest.executor": "Run",
@@ -739,6 +737,7 @@
     "Application.School.executor": "Run",
     "Application.Scientefic_cal.executor": "Run",
     "Application.SearchBST.executor": "Run",
+    "Application.SearchInRotatedArray.executor": "Run",
     "Application.SearchInsertInIndex.executor": "Run",
     "Application.SearchIterative (1).executor": "Run",
     "Application.SearchIterative.executor": "Run",
@@ -1047,20 +1046,7 @@
       <recent name="com.Java.Universal.Week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SqrtUsingBinarySearch">
-    <configuration name="FindFibonacciSeriesNumberPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Easy.FindFibonacciSeriesNumberPosition" />
-      <module name="All Java Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SearchInRotatedArray">
     <configuration name="FindFirstAndLastPositionElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.leetcodeq.FindFirstAndLastPositionElement" />
       <module name="All Java Program" />
@@ -1074,12 +1060,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotedArrayByOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Array_3.Easy.RotedArrayByOne" />
+    <configuration name="FindMinimumInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.leetcodeq.FindMinimumInRotatedSortedArray" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Array_3.Easy.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Searching_4.leetcodeq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.leetcodeq.SearchInRotatedArray" />
+      <module name="All Java Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Searching_4.leetcodeq.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1115,11 +1114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchInRotatedArray" />
+        <item itemvalue="Application.FindMinimumInRotatedSortedArray" />
         <item itemvalue="Application.SqrtUsingBinarySearch" />
         <item itemvalue="Application.SearchInsertInIndex" />
         <item itemvalue="Application.FindFirstAndLastPositionElement" />
-        <item itemvalue="Application.RotedArrayByOne" />
-        <item itemvalue="Application.FindFibonacciSeriesNumberPosition" />
       </list>
     </recent_temporary>
   </component>
