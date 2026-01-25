@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c135fb-e762-43ec-ab69-1a037b3f4da4" name="Changes" comment="CHANGED code position collection array">
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/leetcodeq/FindMinimumInRotatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/leetcodeq/PeekIndexInMountainArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/leetcodeq/SearchInRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/TwoSum/PairWithGivenDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/TwoSum/Segregate0and1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/interviewQuestion_DSA_Java/Searching_4/TwoSum/TwoSumIIProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -478,6 +478,7 @@
     "Application.P_7_first_occurrence.executor": "Run",
     "Application.P_8_last_occurrence.executor": "Run",
     "Application.PairSumUsingBrutForce.executor": "Run",
+    "Application.PairWithGivenDifference.executor": "Run",
     "Application.Pairs.executor": "Run",
     "Application.Palendrom.executor": "Run",
     "Application.Palendrom2.executor": "Run",
@@ -1016,6 +1017,7 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
@@ -1046,9 +1048,9 @@
       <recent name="com.Java.Universal.Week6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchInRotatedArray">
-    <configuration name="FindFirstAndLastPositionElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.leetcodeq.FindFirstAndLastPositionElement" />
+  <component name="RunManager" selected="Application.PairWithGivenDifference">
+    <configuration name="FindMinimumInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.leetcodeq.FindMinimumInRotatedSortedArray" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
@@ -1060,12 +1062,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMinimumInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.leetcodeq.FindMinimumInRotatedSortedArray" />
+    <configuration name="PairWithGivenDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interviewQuestion_DSA_Java.Searching_4.TwoSum.PairWithGivenDifference" />
       <module name="All Java Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Searching_4.leetcodeq.*" />
+          <option name="PATTERN" value="com.interviewQuestion_DSA_Java.Searching_4.TwoSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1114,11 +1116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PairWithGivenDifference" />
         <item itemvalue="Application.SearchInRotatedArray" />
         <item itemvalue="Application.FindMinimumInRotatedSortedArray" />
         <item itemvalue="Application.SqrtUsingBinarySearch" />
         <item itemvalue="Application.SearchInsertInIndex" />
-        <item itemvalue="Application.FindFirstAndLastPositionElement" />
       </list>
     </recent_temporary>
   </component>
