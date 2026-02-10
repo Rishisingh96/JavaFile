@@ -40,12 +40,56 @@ public class Spirral_Matrix {
        }
        System.out.println();
    }
+   public static void printSpiralBySir(int[][] matrix){
+       int row = matrix.length;
+       int col = matrix[0].length;
+
+       int top = 0, bottom = row - 1;
+       int left = 0, right = col - 1;
+
+       //print top
+       // print right
+       // print bottom
+       // print left
+       //==============================================
+       while (top <= bottom && left <= right) {
+
+           // print top row
+           for (int j = left; j <= right; j++) {
+               System.out.print(matrix[top][j] + " ");
+           }
+           top++;
+
+           // print right column
+           for (int i = top; i <= bottom; i++) {
+               System.out.print(matrix[i][right] + " ");
+           }
+           right--;
+
+           // print bottom row
+           if (top <= bottom) {
+               for (int j = right; j >= left; j--) {
+                   System.out.print(matrix[bottom][j] + " ");
+               }
+               bottom--;
+           }
+
+           // print left column
+           if (left <= right) {
+               for (int i = bottom; i >= top; i--) {
+                   System.out.print(matrix[i][left] + " ");
+               }
+               left++;
+           }
+       }
+   }
     public static void main(String[] args) {
         int matrix[][] =    {{1,2,3,4},
                             {5,6,7,8},
                             {9,10,11,12},
                             {13,14,15,16}};
-        printSpiral(matrix);
+//        printSpiral(matrix);
+        printSpiralBySir(matrix);
 //         System.out.print(printSpiral(matrix));
     }
 }
