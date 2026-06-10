@@ -13,7 +13,7 @@ public class Introduction {
         int moreNumbers[] = {4,5,6};
         String fruits[] = {"apple", "mango","orange"};
 
-     /*   Scanner sc = new Scanner(System.in);
+     /* Scanner sc = new Scanner(System.in);
         System.out.println("Enter a marks :");
         marks[0] = sc.nextInt();
         marks[1] = sc.nextInt();
