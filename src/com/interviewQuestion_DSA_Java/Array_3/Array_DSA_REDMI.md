@@ -17,6 +17,7 @@ Given an array of integers `nums` and an integer `target`, return indices of the
 
 ### 💡 Solution
 
+
 #### Approach 1: Brute Force (O(n²))
 ```java
 public int[] twoSum(int[] nums, int target) {
@@ -30,6 +31,180 @@ public int[] twoSum(int[] nums, int target) {
     return new int[] {};
 }
 ```
+
+Bilkul bhai, is code ka dry run karte hain example ke saath.
+
+### Input
+
+```java
+nums = [2, 7, 11, 15]
+target = 9
+```
+#### Approach 1: Brute Force (O(n²))
+### Code
+```java
+public int[] twoSum(int[] nums, int target) {
+    for (int i = 0; i < nums.length; i++) {
+        for (int j = i + 1; j < nums.length; j++) {
+            if (nums[i] + nums[j] == target) {
+                return new int[] {i, j};
+            }
+        }
+    }
+    return new int[] {};
+}
+```
+
+---
+
+## Iteration 1
+
+### Outer Loop
+
+```java
+i = 0
+nums[i] = 2
+```
+
+### Inner Loop
+
+#### j = 1
+
+```java
+nums[j] = 7
+
+nums[i] + nums[j]
+= 2 + 7
+= 9
+```
+
+Check:
+
+```java
+9 == target(9)
+```
+
+✅ True
+
+So execute:
+
+```java
+return new int[]{0,1};
+```
+
+Function yahin terminate ho jayega.
+
+---
+
+## Output
+
+```java
+[0, 1]
+```
+
+Kyuki:
+
+```java
+nums[0] + nums[1]
+= 2 + 7
+= 9
+```
+
+---
+
+## Thoda bada Dry Run
+
+### Input
+
+```java
+nums = [3, 2, 4]
+target = 6
+```
+
+### Step 1
+
+```java
+i = 0
+nums[i] = 3
+```
+
+#### j = 1
+
+```java
+nums[j] = 2
+
+3 + 2 = 5
+```
+
+❌ Not equal to 6
+
+#### j = 2
+
+```java
+nums[j] = 4
+
+3 + 4 = 7
+```
+
+❌ Not equal to 6
+
+---
+
+### Step 2
+
+```java
+i = 1
+nums[i] = 2
+```
+
+#### j = 2
+
+```java
+nums[j] = 4
+
+2 + 4 = 6
+```
+
+✅ Equal to target
+
+Return:
+
+```java
+new int[]{1,2}
+```
+
+---
+
+### Time Complexity
+
+Outer loop:
+
+```java
+n
+```
+
+Inner loop:
+
+```java
+n
+```
+
+So:
+
+```java
+O(n²)
+```
+
+### Space Complexity
+
+Sirf return array use ho raha hai.
+
+```java
+O(1)
+```
+
+Interview me agar poochhe "Can you optimize it?" to HashMap use karke isse **O(n)** time complexity me solve kar sakte ho.
+
 
 #### Approach 2: HashMap (O(n)) - OPTIMAL
 ```java
